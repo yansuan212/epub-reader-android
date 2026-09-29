@@ -32,10 +32,15 @@
 
 ## 下载
 
-- **APK**：[`epubreader/dist/epub-reader-1.0.apk`](epubreader/dist/epub-reader-1.0.apk) — 约 87 KB，`minSdk 24`（Android 7.0+）
-  自签名调试包，安装时需允许「未知来源」。
-- 单文件网页版：跑 `python tools/build.py` 生成 `epubreader/dist/reader.html`，
-  手机浏览器直接打开即可阅读（无需安装）。
+**APK 直接下载**（不用克隆仓库）：
+
+👉 **[epub-reader-1.0.apk](https://github.com/yansuan212/epub-reader-android/raw/main/epubreader/dist/epub-reader-1.0.apk)**
+
+约 87 KB，`minSdk 24`（Android 7.0+）。自签名调试包，手机上安装时需允许「未知来源」。
+也可以浏览 [`epubreader/dist/`](epubreader/dist/) 目录，点右上角的 Download 按钮。
+
+**单文件网页版**：跑 `python tools/build.py` 生成 `epubreader/dist/reader.html`，
+手机浏览器直接打开即可阅读，无需安装。
 
 ## 自己编译
 
@@ -111,4 +116,7 @@ epubreader/
 
 ## 许可证
 
-尚未指定。
+[MIT](LICENSE) © 2026 yansuan212
+
+可以自由使用、修改、分发（包括商用），只需保留版权声明。
+内置的 JSZip（`src/vendor/jszip.min.js`）是 MIT 许可，版权归其作者所有。
