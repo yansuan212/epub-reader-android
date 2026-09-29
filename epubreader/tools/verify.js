@@ -14,14 +14,21 @@ const path = require('path');
 const { JSDOM } = require('jsdom');
 
 const ROOT = path.resolve(__dirname, '..');
-/* 电子书位置可能会变：原来是固定的 ../书.zip，但用户可能把它改回原始文件名或挪到别处。
+/* 电子书位置可能会变：原来是固定的 ../书.zip，但用户可能把它改名或挪走。
    依次探测几个常见位置（也支持命令行传路径：node tools/verify.js "D:\x\book.epub"）。 */
 const BOOK_CANDS = [
   process.argv[2],
   path.resolve(ROOT, '..', '书.zip'),
   path.resolve(ROOT, '..', '书.epub'),
-  path.join(require('os').homedir(), 'Desktop', '毛泽东选集一至七卷 (毛泽东) (Z-Library).epub'),
 ];
+// 再兜底：往上两级（通常就是桌面）以及用户桌面里的任意 .epub
+[path.resolve(ROOT, '..', '..'), path.join(require('os').homedir(), 'Desktop')].forEach(function (d) {
+  try {
+    fs.readdirSync(d).forEach(function (f) {
+      if (/\.epub$/i.test(f)) BOOK_CANDS.push(path.join(d, f));
+    });
+  } catch (e) { }
+});
 const BOOKZIP = BOOK_CANDS.filter(Boolean).find(function (p) { return fs.existsSync(p); })
   || BOOK_CANDS[1];
 const HTML = path.join(ROOT, 'dist', 'reader.html');
