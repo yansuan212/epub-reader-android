@@ -1,0 +1,3952 @@
+{
+ "metadata": {
+  "title": "毛泽东选集",
+  "creator": "毛泽东",
+  "language": "zh-CN",
+  "identifier": "BookId",
+  "date": "2016-05-31"
+ },
+ "opf": {
+  "spine_length": 416,
+  "manifest_items": 423,
+  "media_types": {
+   "application/x-dtbncx+xml": 1,
+   "application/xhtml+xml": 416,
+   "text/css": 1,
+   "image/jpeg": 3,
+   "image/gif": 2
+  }
+ },
+ "toc": {
+  "node_count": 410,
+  "depth_histogram": {
+   "0": 7,
+   "1": 16,
+   "2": 387
+  },
+  "max_depth": 3,
+  "roots": [
+   "第一卷",
+   "第二卷",
+   "第三卷",
+   "第四卷",
+   "第五卷",
+   "第六卷（静火版）",
+   "第七卷（静火版）"
+  ],
+  "children_sample": [
+   {
+    "label": "第一卷",
+    "src": "Text/Volume01.xhtml.xhtml",
+    "depth": 0
+   },
+   {
+    "label": "第二版出版说明",
+    "src": "Text/Preface01.xhtml",
+    "depth": 1
+   },
+   {
+    "label": "本书出版的说明",
+    "src": "Text/Preface02.xhtml",
+    "depth": 1
+   },
+   {
+    "label": "第一次国内革命战争时期",
+    "src": "Text/Section01.xhtml",
+    "depth": 1
+   },
+   {
+    "label": "中国社会各阶级的分析",
+    "src": "Text/Section0101.xhtml",
+    "depth": 2
+   },
+   {
+    "label": "湖南农民运动考察报告",
+    "src": "Text/Section0102.xhtml",
+    "depth": 2
+   },
+   {
+    "label": "第二次国内革命战争时期",
+    "src": "Text/Section02.xhtml",
+    "depth": 1
+   },
+   {
+    "label": "中国的红色政权为什么能够存在？",
+    "src": "Text/Section0201.xhtml",
+    "depth": 2
+   },
+   {
+    "label": "井冈山的斗争",
+    "src": "Text/Section0202.xhtml",
+    "depth": 2
+   },
+   {
+    "label": "关于纠正党内的错误思想",
+    "src": "Text/Section0203.xhtml",
+    "depth": 2
+   },
+   {
+    "label": "星星之火，可以燎原",
+    "src": "Text/Section0204.xhtml",
+    "depth": 2
+   },
+   {
+    "label": "反对本本主义",
+    "src": "Text/Section0205.xhtml",
+    "depth": 2
+   }
+  ],
+  "missing_src": []
+ },
+ "footnotes": {
+  "total_links": 2653,
+  "cross_file": 0,
+  "broken_forward": [
+   {
+    "file": "Text/Section0427.xhtml",
+    "href": "#id0a",
+    "self": "id0"
+   },
+   {
+    "file": "Text/Section0610.xhtml",
+    "href": "#id3a",
+    "self": "id3"
+   },
+   {
+    "file": "Text/Section0650.xhtml",
+    "href": "#id6a",
+    "self": "id6"
+   },
+   {
+    "file": "Text/Section0650.xhtml",
+    "href": "#id7a",
+    "self": "id7"
+   },
+   {
+    "file": "Text/Section0820.xhtml",
+    "href": "#id23a",
+    "self": "id23"
+   },
+   {
+    "file": "Text/Section0838.xhtml",
+    "href": "#id6a",
+    "self": "id6"
+   },
+   {
+    "file": "Text/Section0838.xhtml",
+    "href": "#id5a",
+    "self": "id5"
+   }
+  ],
+  "broken_forward_count": 7,
+  "broken_back_count": 7,
+  "files_with_footnotes": 381
+ },
+ "content": {
+  "total_chars": 1864680,
+  "files": 416,
+  "top_classes": {
+   "a": 8706,
+   "zy": 2676,
+   "zs": 2655,
+   "hl": 2655,
+   "zs1": 980,
+   "f3": 640,
+   "a0": 437,
+   "f2": 422,
+   "body": 416,
+   "div": 416,
+   "c3": 414,
+   "hl1": 410,
+   "h3": 396,
+   "toc3": 387,
+   "sigil_not_in_toc": 297,
+   "a5": 272,
+   "h4": 232,
+   "a2": 114,
+   "t61": 93,
+   "t3": 73,
+   "a4": 72,
+   "h5": 64,
+   "t21": 38,
+   "a3": 29,
+   "toc2": 16
+  },
+  "images": {
+   "zz.jpg": 1,
+   "qm.gif": 1,
+   "zz1.jpg": 1,
+   "qm1.gif": 1
+  },
+  "keywords": {
+   "革命": 5901,
+   "战争": 3212,
+   "资产阶级": 2159,
+   "国民党": 2157,
+   "群众": 2055,
+   "共产党": 2053,
+   "社会主义": 1820,
+   "帝国主义": 1811,
+   "日本": 1520,
+   "农民": 1485,
+   "无产阶级": 1249,
+   "矛盾": 1164,
+   "蒋介石": 1022,
+   "马克思": 924,
+   "列宁": 680,
+   "封建": 633,
+   "地主": 591,
+   "统一战线": 557,
+   "斯大林": 356,
+   "阶级斗争": 277
+  }
+ },
+ "per_file": [
+  {
+   "file": "Text/Author.xhtml",
+   "title": "作者",
+   "chars": 2,
+   "footnote_links": 0,
+   "note_anchors": 0,
+   "images": 2,
+   "sample": "作者"
+  },
+  {
+   "file": "Text/Author1.xhtml",
+   "title": "作者",
+   "chars": 2,
+   "footnote_links": 0,
+   "note_anchors": 0,
+   "images": 2,
+   "sample": "作者"
+  },
+  {
+   "file": "Text/Colophon.xhtml",
+   "title": "版本信息",
+   "chars": 31,
+   "footnote_links": 0,
+   "note_anchors": 0,
+   "images": 0,
+   "sample": "版本信息 版本信息 V1.00 (2016.05.31)，初版完成。"
+  },
+  {
+   "file": "Text/Contents.xhtml",
+   "title": "目录",
+   "chars": 4981,
+   "footnote_links": 0,
+   "note_anchors": 0,
+   "images": 0,
+   "sample": "目录 目 录 第一卷 第二版出版说明 本书出版的说明 第一次国内革命战争时期 中国社会各阶级的分析 湖南农民运动考察报告 第二次国内革命战争时期 中国的红色政权"
+  },
+  {
+   "file": "Text/Cover.xhtml",
+   "title": "Cover",
+   "chars": 5,
+   "footnote_links": 0,
+   "note_anchors": 0,
+   "images": 0,
+   "sample": "Cover"
+  },
+  {
+   "file": "Text/Epigraph.xhtml",
+   "title": "题词",
+   "chars": 14,
+   "footnote_links": 0,
+   "note_anchors": 0,
+   "images": 0,
+   "sample": "题词 全世界无产者，联合起来！"
+  },
+  {
+   "file": "Text/Preface01.xhtml",
+   "title": "第二版出版说明",
+   "chars": 532,
+   "footnote_links": 0,
+   "note_anchors": 0,
+   "images": 0,
+   "sample": "第二版出版说明 第二版出版说明 《毛泽东选集》第一至四卷，在五十年代初和六十年代初先后出版，距今已有三四十年。现在，根据中共中央的决定，对《毛泽东选集》第一至四"
+  },
+  {
+   "file": "Text/Preface02.xhtml",
+   "title": "本书出版的说明",
+   "chars": 669,
+   "footnote_links": 0,
+   "note_anchors": 0,
+   "images": 0,
+   "sample": "本书出版的说明 本书出版的说明 这部选集，包括了毛泽东同志在中国革命各个时期中的重要著作。几年前各地方曾经出过几种不同版本的《毛泽东选集》，都是没有经过著者审查"
+  },
+  {
+   "file": "Text/Preface03.xhtml",
+   "title": "出版说明",
+   "chars": 991,
+   "footnote_links": 0,
+   "note_anchors": 0,
+   "images": 0,
+   "sample": "出版说明 出版说明 伟大的领袖和导师毛泽东主席的著作，是马克思列宁主义的不朽贡献。根据中共中央的决定，《毛泽东选集》第五卷现在出版了，以后各卷也将陆续出版。 过"
+  },
+  {
+   "file": "Text/Preface04.xhtml",
+   "title": "出版说明",
+   "chars": 4625,
+   "footnote_links": 2,
+   "note_anchors": 2,
+   "images": 0,
+   "sample": "出版说明 出版说明 伟大的领袖和导师毛泽东主席的著作，是马克思列宁主义的不朽贡献。根据中共中央出版毛选和毛泽东全集的决定 〔1〕 ，老朽编辑了这部《毛泽东选集》"
+  },
+  {
+   "file": "Text/Preface05.xhtml",
+   "title": "静火有言",
+   "chars": 2810,
+   "footnote_links": 8,
+   "note_anchors": 8,
+   "images": 0,
+   "sample": "静火有言 静火有言 胡锦涛 〔1〕 评价毛泽东“中国出了个毛泽东，这是中国共产党的骄傲，是中国人民的骄傲，是中华民族的骄傲。在为中国人民不懈奋斗的光辉一生中，毛"
+  },
+  {
+   "file": "Text/Preface06.xhtml",
+   "title": "出版说明",
+   "chars": 1192,
+   "footnote_links": 2,
+   "note_anchors": 2,
+   "images": 0,
+   "sample": "出版说明 出版说明 伟大的领袖和导师毛泽东主席的著作，是马克思列宁主义的不朽贡献。根据中共中央出版毛选和毛泽东全集的决定 〔1〕 ，老朽编辑了这部《毛泽东选集》"
+  },
+  {
+   "file": "Text/Preface07.xhtml",
+   "title": "静火有言",
+   "chars": 11453,
+   "footnote_links": 12,
+   "note_anchors": 12,
+   "images": 0,
+   "sample": "静火有言 静火有言 （一） 胡锦涛 〔1〕 曾代表中央表态，“在任何时候任何情况下，我们都要始终高举毛泽东思想的伟大旗帜。毛泽东同志的革命实践和光辉业绩已经载入"
+  },
+  {
+   "file": "Text/Section01.xhtml",
+   "title": "第一次国内革命战争时期",
+   "chars": 22,
+   "footnote_links": 0,
+   "note_anchors": 0,
+   "images": 0,
+   "sample": "第一次国内革命战争时期 第一次国内革命战争时期"
+  },
+  {
+   "file": "Text/Section0101.xhtml",
+   "title": "中国社会各阶级的分析",
+   "chars": 6539,
+   "footnote_links": 18,
+   "note_anchors": 18,
+   "images": 0,
+   "sample": "中国社会各阶级的分析 中国社会各阶级的分析 * （一九二五年十二月一日） 谁是我们的敌人？谁是我们的朋友？这个问题是革命的首要问题。中国过去一切革命斗争成效甚少"
+  },
+  {
+   "file": "Text/Section0102.xhtml",
+   "title": "湖南农民运动考察报告",
+   "chars": 20198,
+   "footnote_links": 28,
+   "note_anchors": 28,
+   "images": 0,
+   "sample": "湖南农民运动考察报告 湖南农民运动考察报告 * （一九二七年三月） 农民问题的严重性 我这回到湖南 〔1〕 ，实地考察了湘潭、湘乡、衡山、醴陵、长沙五县的情况。"
+  },
+  {
+   "file": "Text/Section02.xhtml",
+   "title": "第二次国内革命战争时期",
+   "chars": 22,
+   "footnote_links": 0,
+   "note_anchors": 0,
+   "images": 0,
+   "sample": "第二次国内革命战争时期 第二次国内革命战争时期"
+  },
+  {
+   "file": "Text/Section0201.xhtml",
+   "title": "中国的红色政权为什么能够存在？",
+   "chars": 6470,
+   "footnote_links": 15,
+   "note_anchors": 15,
+   "images": 0,
+   "sample": "中国的红色政权为什么能够存在？ 中国的红色政权为什么 能够存在？ * （一九二八年十月五日） 一 国内的政治状况 现在国民党新军阀的统治，依然是城市买办阶级和乡"
+  },
+  {
+   "file": "Text/Section0202.xhtml",
+   "title": "井冈山的斗争",
+   "chars": 17960,
+   "footnote_links": 27,
+   "note_anchors": 27,
+   "images": 0,
+   "sample": "井冈山的斗争 井冈山的斗争 * （一九二八年十一月二十五日） 湘赣边界的割据和八月失败 一国之内，在四围白色政权的包围中间，产生一小块或若干小块的红色政权区域，"
+  },
+  {
+   "file": "Text/Section0203.xhtml",
+   "title": "关于纠正党内的错误思想",
+   "chars": 6388,
+   "footnote_links": 6,
+   "note_anchors": 6,
+   "images": 0,
+   "sample": "关于纠正党内的错误思想 关于纠正党内的错误思想 * （一九二九年十二月） 红军第四军的共产党内存在着各种非无产阶级的思想，这对于执行党的正确路线，妨碍极大。若不"
+  },
+  {
+   "file": "Text/Section0204.xhtml",
+   "title": "星星之火，可以燎原",
+   "chars": 8033,
+   "footnote_links": 20,
+   "note_anchors": 20,
+   "images": 0,
+   "sample": "星星之火，可以燎原 星星之火，可以燎原 * （一九三○年一月五日） 在对于时局的估量和伴随而来的我们的行动问题上，我们党内有一部分同志还缺少正确的认识。他们虽然"
+  },
+  {
+   "file": "Text/Section0205.xhtml",
+   "title": "反对本本主义",
+   "chars": 4917,
+   "footnote_links": 9,
+   "note_anchors": 9,
+   "images": 0,
+   "sample": "反对本本主义 反对本本主义 * （一九三○年五月） 一 没有调查，没有发言权 〔1〕 你对于某个问题没有调查，就停止你对于某个问题的发言权。这不太野蛮了吗？一点"
+  },
+  {
+   "file": "Text/Section0206.xhtml",
+   "title": "必须注意经济工作",
+   "chars": 5113,
+   "footnote_links": 5,
+   "note_anchors": 5,
+   "images": 0,
+   "sample": "必须注意经济工作 必须注意经济工作 * （一九三三年八月十二日） 革命战争的激烈发展，要求我们动员群众，立即开展经济战线上的运动，进行各项必要和可能的经济建设事"
+  },
+  {
+   "file": "Text/Section0207.xhtml",
+   "title": "怎样分析农村阶级",
+   "chars": 1187,
+   "footnote_links": 2,
+   "note_anchors": 2,
+   "images": 0,
+   "sample": "怎样分析农村阶级 怎样分析农村阶级 * （一九三三年十月） 一 地主 占有土地，自己不劳动，或只有附带的劳动，而靠剥削农民为生的，叫做地主。地主剥削的方式，主要"
+  },
+  {
+   "file": "Text/Section0208.xhtml",
+   "title": "我们的经济政策",
+   "chars": 3227,
+   "footnote_links": 3,
+   "note_anchors": 3,
+   "images": 0,
+   "sample": "我们的经济政策 我们的经济政策 * （一九三四年一月） 只有最无耻的国民党军阀，才会在他们自己统治的区域内弄到差不多民穷财尽的地步，还会天天造谣，说红色区域如何"
+  },
+  {
+   "file": "Text/Section0209.xhtml",
+   "title": "关心群众生活，注意工作方法",
+   "chars": 3617,
+   "footnote_links": 7,
+   "note_anchors": 7,
+   "images": 0,
+   "sample": "关心群众生活，注意工作方法 关心群众生活，注意工作方法 * （一九三四年一月二十七日） 有两个问题，同志们在讨论中没有着重注意，我觉得应该提出来说一说。 第一个"
+  },
+  {
+   "file": "Text/Section0210.xhtml",
+   "title": "论反对日本帝国主义的策略",
+   "chars": 20498,
+   "footnote_links": 40,
+   "note_anchors": 40,
+   "images": 0,
+   "sample": "论反对日本帝国主义的策略 论反对日本帝国主义的策略 * （一九三五年十二月二十七日） 目前政治形势的特点 同志们！目前的政治形势已经发生了很大的变化。根据这种变"
+  },
+  {
+   "file": "Text/Section0211.xhtml",
+   "title": "中国革命战争的战略问题",
+   "chars": 47635,
+   "footnote_links": 54,
+   "note_anchors": 54,
+   "images": 0,
+   "sample": "中国革命战争的战略问题 中国革命战争的战略问题 * （一九三六年十二月） 第一章 如何研究战争 第一节 战争规律是发展的 战争的规律——这是任何指导战争的人不能"
+  },
+  {
+   "file": "Text/Section0212.xhtml",
+   "title": "关于蒋介石声明的声明",
+   "chars": 5139,
+   "footnote_links": 9,
+   "note_anchors": 9,
+   "images": 0,
+   "sample": "关于蒋介石声明的声明 关于蒋介石声明的声明 （一九三六年十二月二十八日） 蒋介石氏在西安接受张学良杨虎城二将军和西北人民的抗日的要求 〔1〕 ，首先命令进行内战"
+  },
+  {
+   "file": "Text/Section0213.xhtml",
+   "title": "中国共产党在抗日时期的任务",
+   "chars": 14437,
+   "footnote_links": 23,
+   "note_anchors": 23,
+   "images": 0,
+   "sample": "中国共产党在抗日时期的任务 中国共产党在抗日时期的任务 * （一九三七年五月三日） 民族矛盾和国内矛盾的 目前发展阶段 （一）由于中日矛盾成为主要的矛盾、国内矛"
+  },
+  {
+   "file": "Text/Section0214.xhtml",
+   "title": "为争取千百万群众进入抗日民族统一战线而斗争",
+   "chars": 6396,
+   "footnote_links": 15,
+   "note_anchors": 15,
+   "images": 0,
+   "sample": "为争取千百万群众进入抗日民族统一战线而斗争 为争取千百万群众 进入抗日民族统一战线而斗争 * （一九三七年五月八日） 同志们！对于我的报告——《中国共产党在抗日"
+  },
+  {
+   "file": "Text/Section0215.xhtml",
+   "title": "实践论",
+   "chars": 10907,
+   "footnote_links": 12,
+   "note_anchors": 12,
+   "images": 0,
+   "sample": "实践论 实践论 * 论认识和实践的关系 ——知和行的关系 （一九三七年七月） 马克思以前的唯物论，离开人的社会性，离开人的历史发展，去观察认识问题，因此不能了解"
+  },
+  {
+   "file": "Text/Section0216.xhtml",
+   "title": "矛盾论",
+   "chars": 26760,
+   "footnote_links": 38,
+   "note_anchors": 38,
+   "images": 0,
+   "sample": "矛盾论 矛盾论 * （一九三七年八月） 事物的矛盾法则，即对立统一的法则，是唯物辩证法的最根本的法则。列宁说：“就本来的意义讲，辩证法是研究对象的本质自身中的矛"
+  },
+  {
+   "file": "Text/Section03.xhtml",
+   "title": "抗日战争时期（上）",
+   "chars": 18,
+   "footnote_links": 0,
+   "note_anchors": 0,
+   "images": 0,
+   "sample": "抗日战争时期（上） 抗日战争时期（上）"
+  },
+  {
+   "file": "Text/Section0301.xhtml",
+   "title": "反对日本进攻的方针、办法和前途",
+   "chars": 4893,
+   "footnote_links": 7,
+   "note_anchors": 7,
+   "images": 0,
+   "sample": "反对日本进攻的方针、办法和前途 反对日本进攻的方针、 办法和前途 * （一九三七年七月二十三日） 一 两种方针 中国共产党中央委员会于卢沟桥事变 〔1〕 的第二"
+  },
+  {
+   "file": "Text/Section0302.xhtml",
+   "title": "为动员一切力量争取抗战胜利而斗争",
+   "chars": 3239,
+   "footnote_links": 10,
+   "note_anchors": 10,
+   "images": 0,
+   "sample": "为动员一切力量争取抗战胜利而斗争 为动员一切力量 争取抗战胜利而斗争 * （一九三七年八月二十五日） （甲）七月七日卢沟桥事变，是日本帝国主义大举进攻中国本部的"
+  },
+  {
+   "file": "Text/Section0303.xhtml",
+   "title": "反对自由主义",
+   "chars": 1403,
+   "footnote_links": 0,
+   "note_anchors": 0,
+   "images": 0,
+   "sample": "反对自由主义 反对自由主义 （一九三七年九月七日） 我们主张积极的思想斗争，因为它是达到党内和革命团体内的团结使之利于战斗的武器。每个共产党员和革命分子，应该拿"
+  },
+  {
+   "file": "Text/Section0304.xhtml",
+   "title": "国共合作成立后的迫切任务",
+   "chars": 6800,
+   "footnote_links": 11,
+   "note_anchors": 11,
+   "images": 0,
+   "sample": "国共合作成立后的迫切任务 国共合作成立后的迫切任务 （一九三七年九月二十九日） 还在一九三三年，中国共产党就发表了在停止进攻红军、给民众以自由和武装民众三个条件"
+  },
+  {
+   "file": "Text/Section0305.xhtml",
+   "title": "和英国记者贝特兰的谈话",
+   "chars": 7759,
+   "footnote_links": 4,
+   "note_anchors": 4,
+   "images": 0,
+   "sample": "和英国记者贝特兰的谈话 和英国记者贝特兰的谈话 （一九三七年十月二十五日） 中国共产党和抗日战争 贝问：中国共产党在中日战争爆发前后，有什么具体表示？ 毛答：在"
+  },
+  {
+   "file": "Text/Section0306.xhtml",
+   "title": "上海太原失陷以后抗日战争的形势和任务",
+   "chars": 9625,
+   "footnote_links": 18,
+   "note_anchors": 18,
+   "images": 0,
+   "sample": "上海太原失陷以后抗日战争的形势和任务 上海太原失陷以后 抗日战争的形势和任务 * （一九三七年十一月十二日） 一 目前形势是处在片面抗战 到全面抗战的过渡期中 "
+  },
+  {
+   "file": "Text/Section0307.xhtml",
+   "title": "陕甘宁边区政府、第八路军后方留守处布告",
+   "chars": 1724,
+   "footnote_links": 4,
+   "note_anchors": 4,
+   "images": 0,
+   "sample": "陕甘宁边区政府、第八路军后方留守处布告 陕甘宁边区政府、 第八路军后方留守处布告 * （一九三八年五月十五日） 为布告事：自卢沟桥事变以来，我全国爱国同胞，坚决"
+  },
+  {
+   "file": "Text/Section0308.xhtml",
+   "title": "抗日游击战争的战略问题",
+   "chars": 20651,
+   "footnote_links": 10,
+   "note_anchors": 10,
+   "images": 0,
+   "sample": "抗日游击战争的战略问题 抗日游击战争的战略问题 * （一九三八年五月） 第一章 为什么提起游击战争 的战略问题 抗日战争中，正规战争是主要的，游击战争是辅助的。"
+  },
+  {
+   "file": "Text/Section0309.xhtml",
+   "title": "论持久战",
+   "chars": 51189,
+   "footnote_links": 43,
+   "note_anchors": 43,
+   "images": 0,
+   "sample": "论持久战 论持久战 * （一九三八年五月） 问题的提起 （一）伟大抗日战争的一周年纪念，七月七日，快要到了。全民族的力量团结起来，坚持抗战，坚持统一战线，同敌人"
+  },
+  {
+   "file": "Text/Section0310.xhtml",
+   "title": "中国共产党在民族战争中的地位",
+   "chars": 10414,
+   "footnote_links": 12,
+   "note_anchors": 12,
+   "images": 0,
+   "sample": "中国共产党在民族战争中的地位 中国共产党在民族战争中的地位 * （一九三八年十月十四日） 同志们！我们有一个光明的前途；我们必须战胜日本帝国主义，必须建设新中国"
+  },
+  {
+   "file": "Text/Section0311.xhtml",
+   "title": "统一战线中的独立自主问题",
+   "chars": 2417,
+   "footnote_links": 7,
+   "note_anchors": 7,
+   "images": 0,
+   "sample": "统一战线中的独立自主问题 统一战线中的独立自主问题 * （一九三八年十一月五日） 帮助和让步应该是积极的， 不应该是消极的 为了长期合作，统一战线中的各党派实行"
+  },
+  {
+   "file": "Text/Section0312.xhtml",
+   "title": "战争和战略问题",
+   "chars": 11075,
+   "footnote_links": 27,
+   "note_anchors": 27,
+   "images": 0,
+   "sample": "战争和战略问题 战争和战略问题 * （一九三八年十一月六日） 一 中国的特点和革命战争 革命的中心任务和最高形式是武装夺取政权，是战争解决问题。这个马克思列宁主"
+  },
+  {
+   "file": "Text/Section0313.xhtml",
+   "title": "五四运动",
+   "chars": 1460,
+   "footnote_links": 8,
+   "note_anchors": 8,
+   "images": 0,
+   "sample": "五四运动 五四运动 * （一九三九年五月一日） 二十年前的五四运动 〔1〕 ，表现中国反帝反封建的资产阶级民主革命已经发展到了一个新阶段。五四运动的成为文化革新"
+  },
+  {
+   "file": "Text/Section0314.xhtml",
+   "title": "青年运动的方向",
+   "chars": 5858,
+   "footnote_links": 13,
+   "note_anchors": 13,
+   "images": 0,
+   "sample": "青年运动的方向 青年运动的方向 * （一九三九年五月四日） 今天是五四运动 〔1〕 的二十周年纪念日，我们延安的全体青年在这里开这个纪念大会，我就来讲一讲关于中"
+  },
+  {
+   "file": "Text/Section0315.xhtml",
+   "title": "反对投降活动",
+   "chars": 3206,
+   "footnote_links": 13,
+   "note_anchors": 13,
+   "images": 0,
+   "sample": "反对投降活动 反对投降活动 * （一九三九年六月三十日） 中华民族在日本侵略者面前，历来存在的劈头第一个大问题，就是战不战的问题。自“九一八” 〔1〕 到卢沟桥"
+  },
+  {
+   "file": "Text/Section0316.xhtml",
+   "title": "必须制裁反动派",
+   "chars": 2860,
+   "footnote_links": 6,
+   "note_anchors": 6,
+   "images": 0,
+   "sample": "必须制裁反动派 必须制裁反动派 * （一九三九年八月一日） 今天是八月一日，我们在这里开追悼大会。为什么要开这样的追悼会呢？因为反动派杀死了革命的同志，杀死了抗"
+  },
+  {
+   "file": "Text/Section0317.xhtml",
+   "title": "关于国际新形势对新华日报&lt;a class=\"zy\" href=\"#id1a\" id=\"id1\"&gt;〔1〕&lt;/a&gt;记者的谈话",
+   "chars": 4253,
+   "footnote_links": 9,
+   "note_anchors": 9,
+   "images": 0,
+   "sample": "关于国际新形势对新华日报<a class=\"zy\" href=\"#id1a\" id=\"id1\">〔1〕</a>记者的谈话 关于国际新形势 对新华日报 〔1〕 记"
+  },
+  {
+   "file": "Text/Section0318.xhtml",
+   "title": "和中央社、扫荡报、新民报&lt;a class=\"zy\" href=\"#id1a\" id=\"id1\"&gt;〔1〕&lt;/a&gt;三记者的谈话",
+   "chars": 3530,
+   "footnote_links": 9,
+   "note_anchors": 9,
+   "images": 0,
+   "sample": "和中央社、扫荡报、新民报<a class=\"zy\" href=\"#id1a\" id=\"id1\">〔1〕</a>三记者的谈话 和中央社、扫荡报、新民报 〔1〕 三"
+  },
+  {
+   "file": "Text/Section0319.xhtml",
+   "title": "苏联利益和人类利益的一致",
+   "chars": 5971,
+   "footnote_links": 11,
+   "note_anchors": 11,
+   "images": 0,
+   "sample": "苏联利益和人类利益的一致 苏联利益和人类利益的一致 （一九三九年九月二十八日） 当着伟大的十月社会主义革命二十二周年纪念快要到来的时候，中苏文化协会要我写一篇文"
+  },
+  {
+   "file": "Text/Section0320.xhtml",
+   "title": "《共产党人》发刊词",
+   "chars": 8428,
+   "footnote_links": 6,
+   "note_anchors": 6,
+   "images": 0,
+   "sample": "《共产党人》发刊词 《共产党人》发刊词 （一九三九年十月四日） 中央很早就计划出版一个党内的刊物，现在算是实现了。为了建设一个全国范围的、广大群众性的、思想上政"
+  },
+  {
+   "file": "Text/Section0321.xhtml",
+   "title": "目前形势和党的任务",
+   "chars": 1318,
+   "footnote_links": 1,
+   "note_anchors": 1,
+   "images": 0,
+   "sample": "目前形势和党的任务 目前形势和党的任务 * （一九三九年十月十日） （一）帝国主义世界大战的爆发，是由于各帝国主义国家企图解脱新的经济危机和政治危机。战争的性质"
+  },
+  {
+   "file": "Text/Section0322.xhtml",
+   "title": "大量吸收知识分子",
+   "chars": 1377,
+   "footnote_links": 1,
+   "note_anchors": 1,
+   "images": 0,
+   "sample": "大量吸收知识分子 大量吸收知识分子 * （一九三九年十二月一日） 一、在长期的和残酷的民族解放战争中，在建立新中国的伟大斗争中，共产党必须善于吸收知识分子，才能"
+  },
+  {
+   "file": "Text/Section0323.xhtml",
+   "title": "中国革命和中国共产党",
+   "chars": 21666,
+   "footnote_links": 38,
+   "note_anchors": 36,
+   "images": 0,
+   "sample": "中国革命和中国共产党 中国革命和中国共产党 * （一九三九年十二月） 第一章 中国社会 第一节 中华民族 我们中国是世界上最大国家之一，它的领土和整个欧洲的面积"
+  },
+  {
+   "file": "Text/Section0324.xhtml",
+   "title": "斯大林是中国人民的朋友",
+   "chars": 881,
+   "footnote_links": 1,
+   "note_anchors": 1,
+   "images": 0,
+   "sample": "斯大林是中国人民的朋友 斯大林是中国人民的朋友 （一九三九年十二月二十日） 今年十二月二十一日，是斯大林同志的六十岁生日。这个生日，在全世界上，在只要是知道的又"
+  },
+  {
+   "file": "Text/Section0325.xhtml",
+   "title": "纪念白求恩",
+   "chars": 1308,
+   "footnote_links": 2,
+   "note_anchors": 2,
+   "images": 0,
+   "sample": "纪念白求恩 纪念白求恩 （一九三九年十二月二十一日） 白求恩 〔1〕 同志是加拿大共产党员，五十多岁了，为了帮助中国的抗日战争，受加拿大共产党和美国共产党的派遣"
+  },
+  {
+   "file": "Text/Section0326.xhtml",
+   "title": "新民主主义论",
+   "chars": 31346,
+   "footnote_links": 35,
+   "note_anchors": 35,
+   "images": 0,
+   "sample": "新民主主义论 新民主主义论 * （一九四○年一月） 一 中国向何处去 抗战以来，全国人民有一种欣欣向荣的气象，大家以为有了出路，愁眉锁眼的姿态为之一扫。但是近来"
+  },
+  {
+   "file": "Text/Section0327.xhtml",
+   "title": "克服投降危险，力争时局好转",
+   "chars": 1840,
+   "footnote_links": 3,
+   "note_anchors": 3,
+   "images": 0,
+   "sample": "克服投降危险，力争时局好转 克服投降危险，力争时局好转 * （一九四〇年一月二十八日） 目前时局发展的情况，证明中央的历次估计是正确的。大地主大资产阶级的投降方"
+  },
+  {
+   "file": "Text/Section0328.xhtml",
+   "title": "团结一切抗日力量，反对反共顽固派",
+   "chars": 4045,
+   "footnote_links": 15,
+   "note_anchors": 15,
+   "images": 0,
+   "sample": "团结一切抗日力量，反对反共顽固派 团结一切抗日力量， 反对反共顽固派 * （一九四〇年二月一日） 我们延安的各界人民今天在这里开会，为了什么呢？为了声讨卖国贼汪"
+  },
+  {
+   "file": "Text/Section0329.xhtml",
+   "title": "向国民党的十点要求",
+   "chars": 3540,
+   "footnote_links": 9,
+   "note_anchors": 9,
+   "images": 0,
+   "sample": "向国民党的十点要求 向国民党的十点要求 * （一九四〇年二月一日） 二月一日延安举行讨汪大会，全场义愤激昂，一致决议声讨汪精卫之卖国投降，拥护抗战到底。为挽救时"
+  },
+  {
+   "file": "Text/Section0330.xhtml",
+   "title": "《中国工人》发刊词",
+   "chars": 872,
+   "footnote_links": 1,
+   "note_anchors": 1,
+   "images": 0,
+   "sample": "《中国工人》发刊词 《中国工人》发刊词 （一九四〇年二月七日） 《中国工人》 〔1〕 的出版是必要的。中国工人阶级，二十年来，在自己的政党——中国共产党的领导之"
+  },
+  {
+   "file": "Text/Section0331.xhtml",
+   "title": "必须强调团结和进步",
+   "chars": 1050,
+   "footnote_links": 6,
+   "note_anchors": 6,
+   "images": 0,
+   "sample": "必须强调团结和进步 必须强调团结和进步 * （一九四〇年二月七日） 抗战、团结、进步，这是共产党在去年“七七”纪念时提出的三大方针。这是三位一体的方针，三者不可"
+  },
+  {
+   "file": "Text/Section0332.xhtml",
+   "title": "新民主主义的宪政",
+   "chars": 6228,
+   "footnote_links": 12,
+   "note_anchors": 12,
+   "images": 0,
+   "sample": "新民主主义的宪政 新民主主义的宪政 * （一九四〇年二月二十日） 今天延安各界人民的代表人物在这里开宪政促进会的成立大会，大家关心宪政，这是很有意义的。我们的这"
+  },
+  {
+   "file": "Text/Section0333.xhtml",
+   "title": "抗日根据地的政权问题",
+   "chars": 1558,
+   "footnote_links": 1,
+   "note_anchors": 1,
+   "images": 0,
+   "sample": "抗日根据地的政权问题 抗日根据地的政权问题 * （一九四〇年三月六日） （一）目前是国民党反共顽固派极力反对我们在华北、华中等地建立抗日民主政权，而我们则必须建"
+  },
+  {
+   "file": "Text/Section0334.xhtml",
+   "title": "目前抗日统一战线中的策略问题",
+   "chars": 5569,
+   "footnote_links": 3,
+   "note_anchors": 3,
+   "images": 0,
+   "sample": "目前抗日统一战线中的策略问题 目前抗日统一战线中的策略问题 * （一九四〇年三月十一日） （一）目前的政治形势是（：1）日本帝国主义受了中国抗日战争的严重打击，"
+  },
+  {
+   "file": "Text/Section0335.xhtml",
+   "title": "放手发展抗日力量，抵抗反共顽固派的进攻",
+   "chars": 3921,
+   "footnote_links": 12,
+   "note_anchors": 12,
+   "images": 0,
+   "sample": "放手发展抗日力量，抵抗反共顽固派的进攻 放手发展抗日力量， 抵抗反共顽固派的进攻 * （一九四〇年五月四日） （一）在一切敌后地区和战争区域，应强调同一性，不应"
+  },
+  {
+   "file": "Text/Section0336.xhtml",
+   "title": "团结到底",
+   "chars": 1705,
+   "footnote_links": 1,
+   "note_anchors": 1,
+   "images": 0,
+   "sample": "团结到底 团结到底 * （一九四〇年七月五日） 抗日战争的三周年，正是中国共产党的十九周年。我们共产党人今天来纪念抗战，更感到自己的责任。中华民族的兴亡，是一切"
+  },
+  {
+   "file": "Text/Section0337.xhtml",
+   "title": "论政策",
+   "chars": 5199,
+   "footnote_links": 8,
+   "note_anchors": 8,
+   "images": 0,
+   "sample": "论政策 论政策 * （一九四〇年十二月二十五日） 在目前反共高潮的形势下，我们的政策有决定的意义。但是我们的干部，还有许多人不明白党在目前时期的政策应当和土地革"
+  },
+  {
+   "file": "Text/Section0338.xhtml",
+   "title": "为皖南事变发表的命令和谈话",
+   "chars": 3811,
+   "footnote_links": 6,
+   "note_anchors": 5,
+   "images": 0,
+   "sample": "为皖南事变发表的命令和谈话 为皖南事变发表的命令和谈话 （一九四一年一月二十日） 中国共产党 中央革命军事委员会命令 国民革命军新编第四军抗战有功，驰名中外。军"
+  },
+  {
+   "file": "Text/Section0339.xhtml",
+   "title": "打退第二次反共高潮后的时局",
+   "chars": 1801,
+   "footnote_links": 8,
+   "note_anchors": 8,
+   "images": 0,
+   "sample": "打退第二次反共高潮后的时局 打退第二次反共高潮后的时局 * （一九四一年三月十八日） （一）从何白《皓电》（去年十月十九日）开始的第二次反共高潮 〔1〕 ，至皖"
+  },
+  {
+   "file": "Text/Section0340.xhtml",
+   "title": "关于打退第二次反共高潮的总结",
+   "chars": 3519,
+   "footnote_links": 11,
+   "note_anchors": 11,
+   "images": 0,
+   "sample": "关于打退第二次反共高潮的总结 关于打退第二次反共高潮的总结 * （一九四一年五月八日） 这一次的反共高潮，正如三月十八日中央的指示所说，是已经过去了。继之而来的"
+  },
+  {
+   "file": "Text/Section04.xhtml",
+   "title": "抗日战争时期（下）",
+   "chars": 18,
+   "footnote_links": 0,
+   "note_anchors": 0,
+   "images": 0,
+   "sample": "抗日战争时期（下） 抗日战争时期（下）"
+  },
+  {
+   "file": "Text/Section0401.xhtml",
+   "title": "《农村调查》的序言和跋",
+   "chars": 3312,
+   "footnote_links": 6,
+   "note_anchors": 6,
+   "images": 0,
+   "sample": "《农村调查》的序言和跋 《农村调查》的序言和跋 （一九四一年三月、四月） 序 （一九四一年三月十七日） 现在党的农村政策，不是十年内战时期那样的土地革命政策，而"
+  },
+  {
+   "file": "Text/Section0402.xhtml",
+   "title": "改造我们的学习",
+   "chars": 5218,
+   "footnote_links": 5,
+   "note_anchors": 5,
+   "images": 0,
+   "sample": "改造我们的学习 改造我们的学习 * （一九四一年五月十九日） 我主张将我们全党的学习方法和学习制度改造一下。其理由如次： 一 中共产党的二十年，就是马克思列宁主"
+  },
+  {
+   "file": "Text/Section0403.xhtml",
+   "title": "揭破远东慕尼黑的阴谋",
+   "chars": 731,
+   "footnote_links": 2,
+   "note_anchors": 2,
+   "images": 0,
+   "sample": "揭破远东慕尼黑的阴谋 揭破远东慕尼黑的阴谋 * （一九四一年五月二十五日） （一）日美妥协，牺牲中国，造成反共、反苏局面的东方慕尼黑的新阴谋，正在日美蒋之间酝酿"
+  },
+  {
+   "file": "Text/Section0404.xhtml",
+   "title": "关于反法西斯的国际统一战线",
+   "chars": 400,
+   "footnote_links": 1,
+   "note_anchors": 1,
+   "images": 0,
+   "sample": "关于反法西斯的国际统一战线 关于反法西斯的国际统一战线 * （一九四一年六月二十三日） 德国法西斯统治者已于六月二十二日进攻苏联。此种背信弃义的侵略罪行，不仅是"
+  },
+  {
+   "file": "Text/Section0405.xhtml",
+   "title": "在陕甘宁边区参议会的演说",
+   "chars": 2198,
+   "footnote_links": 0,
+   "note_anchors": 0,
+   "images": 0,
+   "sample": "在陕甘宁边区参议会的演说 在陕甘宁边区参议会的演说 （一九四一年十一月六日） 各位参议员先生，各位同志：今天边区参议会开幕，是有重大意义的。参议会的目的，只有一"
+  },
+  {
+   "file": "Text/Section0406.xhtml",
+   "title": "整顿党的作风",
+   "chars": 11526,
+   "footnote_links": 10,
+   "note_anchors": 10,
+   "images": 0,
+   "sample": "整顿党的作风 整顿党的作风 * （一九四二年二月一日） 党校今天开学，我庆祝这个学校的成功。 今天我想讲一点关于我们的党的作风的问题。 为什么要有革命党？因为世"
+  },
+  {
+   "file": "Text/Section0407.xhtml",
+   "title": "反对党八股",
+   "chars": 10939,
+   "footnote_links": 16,
+   "note_anchors": 16,
+   "images": 0,
+   "sample": "反对党八股 反对党八股 * （一九四二年二月八日） 刚才凯丰 〔1〕 同志讲了今天开会的宗旨。我现在想讲的是：主观主义和宗派主义怎样拿党八股 〔2〕 做它们的宣"
+  },
+  {
+   "file": "Text/Section0408.xhtml",
+   "title": "在延安文艺座谈会上的讲话",
+   "chars": 20407,
+   "footnote_links": 14,
+   "note_anchors": 14,
+   "images": 0,
+   "sample": "在延安文艺座谈会上的讲话 在延安文艺座谈会上的讲话 （一九四二年五月） 引言 （一九四二年五月二日） 同志们！今天邀集大家来开座谈会，目的是要和大家交换意见，研"
+  },
+  {
+   "file": "Text/Section0409.xhtml",
+   "title": "一个极其重要的政策",
+   "chars": 2380,
+   "footnote_links": 5,
+   "note_anchors": 5,
+   "images": 0,
+   "sample": "一个极其重要的政策 一个极其重要的政策 * （一九四二年九月七日） 自从党中央提出精兵简政 〔1〕 这个政策以来，许多抗日根据地的党，都依照中央的指示，筹划和进"
+  },
+  {
+   "file": "Text/Section0410.xhtml",
+   "title": "第二次世界大战的转折点",
+   "chars": 3161,
+   "footnote_links": 2,
+   "note_anchors": 2,
+   "images": 0,
+   "sample": "第二次世界大战的转折点 第二次世界大战的转折点 * （一九四二年十月十二日） 斯大林格勒之战，英美报纸比之为凡尔登战役，“红色凡尔登”之名已传遍于世界。这个比拟"
+  },
+  {
+   "file": "Text/Section0411.xhtml",
+   "title": "祝十月革命二十五周年",
+   "chars": 407,
+   "footnote_links": 0,
+   "note_anchors": 0,
+   "images": 0,
+   "sample": "祝十月革命二十五周年 祝十月革命二十五周年 （一九四二年十一月六日） 我们以最大的乐观来庆祝今年的十月革命节。我坚信，今年的十月革命节不但是苏德战争的转折点，而"
+  },
+  {
+   "file": "Text/Section0412.xhtml",
+   "title": "抗日时期的经济问题和财政问题",
+   "chars": 3564,
+   "footnote_links": 4,
+   "note_anchors": 4,
+   "images": 0,
+   "sample": "抗日时期的经济问题和财政问题 抗日时期的经济问题和财政问题 * （一九四二年十二月） 发展经济，保障供给，是我们的经济工作和财政工作的总方针。但是有许多同志，片"
+  },
+  {
+   "file": "Text/Section0413.xhtml",
+   "title": "关于领导方法的若干问题",
+   "chars": 3478,
+   "footnote_links": 3,
+   "note_anchors": 3,
+   "images": 0,
+   "sample": "关于领导方法的若干问题 关于领导方法的若干问题 * （一九四三年六月一日） （一）我们共产党人无论进行何项工作，有两个方法是必须采用的，一是一般和个别相结合，二"
+  },
+  {
+   "file": "Text/Section0414.xhtml",
+   "title": "质问国民党",
+   "chars": 4187,
+   "footnote_links": 5,
+   "note_anchors": 5,
+   "images": 0,
+   "sample": "质问国民党 质问国民党 * （一九四三年七月十二日） 近月以来，中国抗日阵营内部，发生了一个很不经常很可骇怪的事实，这就是中国国民党领导的许多党政军机关发动了一"
+  },
+  {
+   "file": "Text/Section0415.xhtml",
+   "title": "开展根据地的减租、生产和拥政爱民运动",
+   "chars": 2357,
+   "footnote_links": 4,
+   "note_anchors": 4,
+   "images": 0,
+   "sample": "开展根据地的减租、生产和拥政爱民运动 开展根据地的减租、生产 和拥政爱民运动 * （一九四三年十月一日） （一）秋收已到，各根据地的领导机关必须责成各级党政机关"
+  },
+  {
+   "file": "Text/Section0416.xhtml",
+   "title": "评国民党十一中全会和三届二次国民参政会",
+   "chars": 8797,
+   "footnote_links": 9,
+   "note_anchors": 9,
+   "images": 0,
+   "sample": "评国民党十一中全会和三届二次国民参政会 评国民党十一中全会 和三届二次国民参政会 * （一九四三年十月五日） 九月六日至十三日国民党召集了十一中全会，九月十八日"
+  },
+  {
+   "file": "Text/Section0417.xhtml",
+   "title": "组织起来",
+   "chars": 5376,
+   "footnote_links": 6,
+   "note_anchors": 6,
+   "images": 0,
+   "sample": "组织起来 组织起来 * （一九四三年十一月二十九日） 今天共产党中央招待陕甘宁边区从农民群众中、工厂中、部队中、机关学校中选举出来的男女劳动英雄，以及在生产中的"
+  },
+  {
+   "file": "Text/Section0418.xhtml",
+   "title": "学习和时局",
+   "chars": 9572,
+   "footnote_links": 23,
+   "note_anchors": 23,
+   "images": 0,
+   "sample": "学习和时局 学习和时局 * （一九四四年四月十二日） 一 去年冬季开始，我党高级干部学习了党史中的两条路线问题。这次学习使广大高级干部的政治水平大大地提高了。在"
+  },
+  {
+   "file": "Text/Section0419.xhtml",
+   "title": "附录：关于若干历史问题的决议",
+   "chars": 31614,
+   "footnote_links": 49,
+   "note_anchors": 49,
+   "images": 0,
+   "sample": "附录：关于若干历史问题的决议 附录：关于若干历史问题的决议 （一九四五年四月二十日中国共产党第六届 中央委员会扩大的第七次全体会议通过） （一） 中国共产党自一"
+  },
+  {
+   "file": "Text/Section0420.xhtml",
+   "title": "为人民服务",
+   "chars": 1126,
+   "footnote_links": 5,
+   "note_anchors": 5,
+   "images": 0,
+   "sample": "为人民服务 为人民服务 * （一九四四年九月八日） 我们的共产党和共产党所领导的八路军、新四军，是革命的队伍。我们这个队伍完全是为着解放人民的，是彻底地为人民的"
+  },
+  {
+   "file": "Text/Section0421.xhtml",
+   "title": "评蒋介石在双十节的演说",
+   "chars": 2531,
+   "footnote_links": 4,
+   "note_anchors": 4,
+   "images": 0,
+   "sample": "评蒋介石在双十节的演说 评蒋介石在双十节的演说 * （一九四四年十月十一日） 空洞无物，没有答复人民所关切的任何一个问题，是蒋介石双十演说的特色之一。蒋介石说，"
+  },
+  {
+   "file": "Text/Section0422.xhtml",
+   "title": "文化工作中的统一战线",
+   "chars": 1305,
+   "footnote_links": 3,
+   "note_anchors": 3,
+   "images": 0,
+   "sample": "文化工作中的统一战线 文化工作中的统一战线 * （一九四四年十月三十日） 我们的一切工作都是为了打倒日本帝国主义。日本帝国主义和希特勒一样，快要灭亡了。但是还须"
+  },
+  {
+   "file": "Text/Section0423.xhtml",
+   "title": "必须学会做经济工作",
+   "chars": 4013,
+   "footnote_links": 1,
+   "note_anchors": 1,
+   "images": 0,
+   "sample": "必须学会做经济工作 必须学会做经济工作 * （一九四五年一月十日） 各位劳动英雄，各位模范工作者！ 你们开了会，总结了经验，大家欢迎你们，尊敬你们。你们有三种长"
+  },
+  {
+   "file": "Text/Section0424.xhtml",
+   "title": "游击区也能够进行生产",
+   "chars": 1907,
+   "footnote_links": 2,
+   "note_anchors": 2,
+   "images": 0,
+   "sample": "游击区也能够进行生产 游击区也能够进行生产 * （一九四五年一月三十一日） 我们在敌后解放区中那些比较巩固的根据地内，能够和必须发动军民的生产运动的问题，早已解"
+  },
+  {
+   "file": "Text/Section0425.xhtml",
+   "title": "两个中国之命运",
+   "chars": 1684,
+   "footnote_links": 3,
+   "note_anchors": 3,
+   "images": 0,
+   "sample": "两个中国之命运 两个中国之命运 * （一九四五年四月二十三日） 同志们！中国共产党第七次全国代表大会今天开幕了。 我们这个大会有什么重要意义呢？我们应该讲，我们"
+  },
+  {
+   "file": "Text/Section0426.xhtml",
+   "title": "论联合政府",
+   "chars": 43089,
+   "footnote_links": 30,
+   "note_anchors": 30,
+   "images": 0,
+   "sample": "论联合政府 论联合政府 * （一九四五年四月二十四日） 一 中国人民的基本要求 我们的大会是在这种情况之下开会的：中国人民在其对于日本侵略者作了将近八年的坚决的"
+  },
+  {
+   "file": "Text/Section0427.xhtml",
+   "title": "愚公移山",
+   "chars": 2357,
+   "footnote_links": 5,
+   "note_anchors": 4,
+   "images": 0,
+   "sample": "愚公移山 愚公移山 * （一九四五年六月十一日） 我们开了一个很好的大会。我们做了三件事：第一，决定了党的路线，这就是放手发动群众，壮大人民力量，在我党的领导下"
+  },
+  {
+   "file": "Text/Section0428.xhtml",
+   "title": "论军队生产自给，兼论整风和生产两大运动的重要性",
+   "chars": 2702,
+   "footnote_links": 2,
+   "note_anchors": 2,
+   "images": 0,
+   "sample": "论军队生产自给，兼论整风和生产两大运动的重要性 论军队生产自给，兼论整风 和生产两大运动的重要性 * （一九四五年四月二十七日） 我们的军队在遭受极端物质困难的"
+  },
+  {
+   "file": "Text/Section0429.xhtml",
+   "title": "赫尔利和蒋介石的双簧已经破产",
+   "chars": 2280,
+   "footnote_links": 5,
+   "note_anchors": 5,
+   "images": 0,
+   "sample": "赫尔利和蒋介石的双簧已经破产 赫尔利和蒋介石的双簧已经破产 * （一九四五年七月十日） 以粉饰蒋介石独裁统治为目的而召集的四届国民参政会，七月七日在重庆开会。第"
+  },
+  {
+   "file": "Text/Section0430.xhtml",
+   "title": "评赫尔利政策的危险",
+   "chars": 1077,
+   "footnote_links": 3,
+   "note_anchors": 3,
+   "images": 0,
+   "sample": "评赫尔利政策的危险 评赫尔利政策的危险 * （一九四五年七月十二日） 以美国驻华大使赫尔利 〔1〕 为代表的美国对华政策，越来越明显地造成了中国内战的危机。坚持"
+  },
+  {
+   "file": "Text/Section0431.xhtml",
+   "title": "给福斯特同志的电报",
+   "chars": 868,
+   "footnote_links": 1,
+   "note_anchors": 1,
+   "images": 0,
+   "sample": "给福斯特同志的电报 给福斯特同志的电报 （一九四五年七月二十九日） 福斯特同志和美国共产党中央委员会： 欣悉美国共产主义政治协会特别会议决定抛弃白劳德的修正主义"
+  },
+  {
+   "file": "Text/Section0432.xhtml",
+   "title": "对日寇的最后一战",
+   "chars": 555,
+   "footnote_links": 1,
+   "note_anchors": 1,
+   "images": 0,
+   "sample": "对日寇的最后一战 对日寇的最后一战 * （一九四五年八月九日） 八月八日，苏联政府宣布对日作战，中国人民表示热烈的欢迎。由于苏联这一行动，对日战争的时间将大大缩"
+  },
+  {
+   "file": "Text/Section05.xhtml",
+   "title": "第三次国内革命战争时期",
+   "chars": 22,
+   "footnote_links": 0,
+   "note_anchors": 0,
+   "images": 0,
+   "sample": "第三次国内革命战争时期 第三次国内革命战争时期"
+  },
+  {
+   "file": "Text/Section0501.xhtml",
+   "title": "抗日战争胜利后的时局和我们的方针",
+   "chars": 9269,
+   "footnote_links": 18,
+   "note_anchors": 18,
+   "images": 0,
+   "sample": "抗日战争胜利后的时局和我们的方针 抗日战争胜利后的时局 和我们的方针 * （一九四五年八月十三日） 最近几天是远东时局发生极大变动的时候。日本帝国主义投降的大势"
+  },
+  {
+   "file": "Text/Section0502.xhtml",
+   "title": "蒋介石在挑动内战",
+   "chars": 2648,
+   "footnote_links": 8,
+   "note_anchors": 8,
+   "images": 0,
+   "sample": "蒋介石在挑动内战 蒋介石在挑动内战 * （一九四五年八月十三日） 国民党中央宣传部发言人发表谈话说，第十八集团军朱德总司令于八月十日在延安总部所发表的限令敌伪投"
+  },
+  {
+   "file": "Text/Section0503.xhtml",
+   "title": "第十八集团军总司令给蒋介石的两个电报",
+   "chars": 4199,
+   "footnote_links": 8,
+   "note_anchors": 8,
+   "images": 0,
+   "sample": "第十八集团军总司令给蒋介石的两个电报 第十八集团军总司令 给蒋介石的两个电报 * （一九四五年八月） 一 八月十三日的电报 我们从重庆广播电台收到中央社两个消息"
+  },
+  {
+   "file": "Text/Section0504.xhtml",
+   "title": "评蒋介石发言人谈话",
+   "chars": 2485,
+   "footnote_links": 6,
+   "note_anchors": 6,
+   "images": 0,
+   "sample": "评蒋介石发言人谈话 评蒋介石发言人谈话 * （一九四五年八月十六日） 蒋介石的发言人，于十五日下午在重庆记者招待会上讲关于所谓共产党违反蒋介石委员长对朱德总司令"
+  },
+  {
+   "file": "Text/Section0505.xhtml",
+   "title": "中共中央关于同国民党进行和平谈判的通知",
+   "chars": 2463,
+   "footnote_links": 8,
+   "note_anchors": 8,
+   "images": 0,
+   "sample": "中共中央关于同国民党进行和平谈判的通知 中共中央关于同国民党 进行和平谈判的通知 * （一九四五年八月二十六日） 日寇迅速投降，改变了整个形势。蒋介石垄断了受降"
+  },
+  {
+   "file": "Text/Section0506.xhtml",
+   "title": "关于重庆谈判",
+   "chars": 7542,
+   "footnote_links": 9,
+   "note_anchors": 9,
+   "images": 0,
+   "sample": "关于重庆谈判 关于重庆谈判 * （一九四五年十月十七日） 讲一讲目前的时局问题。这是同志们所关心的问题。这一次，国共两党在重庆谈判，谈了四十三天。谈判的结果，已"
+  },
+  {
+   "file": "Text/Section0507.xhtml",
+   "title": "国民党进攻的真相",
+   "chars": 2989,
+   "footnote_links": 9,
+   "note_anchors": 9,
+   "images": 0,
+   "sample": "国民党进攻的真相 国民党进攻的真相 * （一九四五年十一月五日） 合众社重庆三日电报道，国民党中央宣传部长吴国桢宣称，“政府在此次战争中全居守势”，并提出所谓恢"
+  },
+  {
+   "file": "Text/Section0508.xhtml",
+   "title": "减租和生产是保卫解放区的两件大事",
+   "chars": 1121,
+   "footnote_links": 1,
+   "note_anchors": 1,
+   "images": 0,
+   "sample": "减租和生产是保卫解放区的两件大事 减租和生产 是保卫解放区的两件大事 * （一九四五年十一月七日） （一）国民党在美国援助下，动员一切力量进攻我解放区。全国规模"
+  },
+  {
+   "file": "Text/Section0509.xhtml",
+   "title": "一九四六年解放区工作的方针",
+   "chars": 2770,
+   "footnote_links": 7,
+   "note_anchors": 7,
+   "images": 0,
+   "sample": "一九四六年解放区工作的方针 一九四六年解放区工作的方针 * （一九四五年十二月十五日） 过去几个月内，我党领导人民在肃清敌伪和粉碎国民党向解放区进攻的激烈斗争中"
+  },
+  {
+   "file": "Text/Section0510.xhtml",
+   "title": "建立巩固的东北根据地",
+   "chars": 2856,
+   "footnote_links": 4,
+   "note_anchors": 4,
+   "images": 0,
+   "sample": "建立巩固的东北根据地 建立巩固的东北根据地 * （一九四五年十二月二十八日） （一）我党现时在东北的任务，是建立根据地，是在东满、北满、西满建立巩固的军事政治的"
+  },
+  {
+   "file": "Text/Section0511.xhtml",
+   "title": "关于目前国际形势的几点估计",
+   "chars": 964,
+   "footnote_links": 1,
+   "note_anchors": 1,
+   "images": 0,
+   "sample": "关于目前国际形势的几点估计 关于目前国际形势的几点估计 * （一九四六年四月） （一）世界反动力量确在准备第三次世界大战，战争危险是存在着的。但是，世界人民的民"
+  },
+  {
+   "file": "Text/Section0512.xhtml",
+   "title": "以自卫战争粉碎蒋介石的进攻",
+   "chars": 4278,
+   "footnote_links": 3,
+   "note_anchors": 3,
+   "images": 0,
+   "sample": "以自卫战争粉碎蒋介石的进攻 以自卫战争粉碎蒋介石的进攻 * （一九四六年七月二十日） （一）蒋介石破坏停战协定 〔1〕 ，破坏政协决议 〔2〕 ，在东北占我四平"
+  },
+  {
+   "file": "Text/Section0513.xhtml",
+   "title": "和美国记者安娜·路易斯·斯特朗&lt;a class=\"zy\" href=\"#id1a\" id=\"id1\"&gt;〔1〕&lt;/a&gt;的谈话",
+   "chars": 3841,
+   "footnote_links": 3,
+   "note_anchors": 3,
+   "images": 0,
+   "sample": "和美国记者安娜·路易斯·斯特朗<a class=\"zy\" href=\"#id1a\" id=\"id1\">〔1〕</a>的谈话 和美国记者安娜·路易斯· 斯特朗 〔"
+  },
+  {
+   "file": "Text/Section0514.xhtml",
+   "title": "集中优势兵力，各个歼灭敌人",
+   "chars": 2876,
+   "footnote_links": 9,
+   "note_anchors": 9,
+   "images": 0,
+   "sample": "集中优势兵力，各个歼灭敌人 集中优势兵力，各个歼灭敌人 * （一九四六年九月十六日） （一）集中优势兵力、各个歼灭敌人 〔1〕 的作战方法，不但必须应用于战役的"
+  },
+  {
+   "file": "Text/Section0515.xhtml",
+   "title": "美国“调解”真相和中国内战前途",
+   "chars": 1851,
+   "footnote_links": 6,
+   "note_anchors": 6,
+   "images": 0,
+   "sample": "美国“调解”真相和中国内战前途 美国“调解”真相和中国内战前途 ——和美国记者斯蒂尔的谈话 （一九四六年九月二十九日） 斯蒂尔问：阁下是否认为美国调解中国内战之"
+  },
+  {
+   "file": "Text/Section0516.xhtml",
+   "title": "三个月总结",
+   "chars": 3735,
+   "footnote_links": 10,
+   "note_anchors": 10,
+   "images": 0,
+   "sample": "三个月总结 三个月总结 * （一九四六年十月一日） （一）七月二十日中央对时局的指示 〔1〕 上说：“我们是能够战胜蒋介石的。全党对此应当有充分的信心。”七、八"
+  },
+  {
+   "file": "Text/Section0517.xhtml",
+   "title": "迎接中国革命的新高潮",
+   "chars": 5208,
+   "footnote_links": 12,
+   "note_anchors": 12,
+   "images": 0,
+   "sample": "迎接中国革命的新高潮 迎接中国革命的新高潮 * （一九四七年二月一日） （一）目前各方面情况显示，中国时局将要发展到一个新的阶段。这个新的阶段，即是全国范围的反"
+  },
+  {
+   "file": "Text/Section0518.xhtml",
+   "title": "中共中央关于暂时放弃延安和保卫陕甘宁边区的两个文件",
+   "chars": 1946,
+   "footnote_links": 5,
+   "note_anchors": 5,
+   "images": 0,
+   "sample": "中共中央关于暂时放弃延安和保卫陕甘宁边区的两个文件 中共中央关于暂时放弃延安 和保卫陕甘宁边区的两个文件 * （一九四六年十一月、一九四七年四月） 一 一九四六"
+  },
+  {
+   "file": "Text/Section0519.xhtml",
+   "title": "关于西北战场的作战方针",
+   "chars": 890,
+   "footnote_links": 3,
+   "note_anchors": 3,
+   "images": 0,
+   "sample": "关于西北战场的作战方针 关于西北战场的作战方针 * （一九四七年四月十五日） （一）敌现已相当疲劳，尚未十分疲劳；敌粮已相当困难，尚未极端困难。我军自歼敌第三十"
+  },
+  {
+   "file": "Text/Section0520.xhtml",
+   "title": "蒋介石政府已处在全民的包围中",
+   "chars": 2950,
+   "footnote_links": 7,
+   "note_anchors": 7,
+   "images": 0,
+   "sample": "蒋介石政府已处在全民的包围中 蒋介石政府已处在全民的包围中 * （一九四七年五月三十日） 和全民为敌的蒋介石政府，现在已经发现它自己处在全民的包围中。无论是在军"
+  },
+  {
+   "file": "Text/Section0521.xhtml",
+   "title": "解放战争第二年的战略方针",
+   "chars": 3835,
+   "footnote_links": 4,
+   "note_anchors": 4,
+   "images": 0,
+   "sample": "解放战争第二年的战略方针 解放战争第二年的战略方针 * （一九四七年九月一日） （一）第一年作战（去年七月至今年六月），歼灭敌正规军九十七个半旅，七十八万人，伪"
+  },
+  {
+   "file": "Text/Section0522.xhtml",
+   "title": "中国人民解放军宣言",
+   "chars": 3364,
+   "footnote_links": 9,
+   "note_anchors": 9,
+   "images": 0,
+   "sample": "中国人民解放军宣言 中国人民解放军宣言 * （一九四七年十月十日） 中国人民解放军，在粉碎蒋介石的进攻之后，现已大举反攻。南线我军已向长江流域进击，北线我军已向"
+  },
+  {
+   "file": "Text/Section0523.xhtml",
+   "title": "中国人民解放军总部关于重行颁布三大纪律八项注意的训令",
+   "chars": 727,
+   "footnote_links": 1,
+   "note_anchors": 1,
+   "images": 0,
+   "sample": "中国人民解放军总部关于重行颁布三大纪律八项注意的训令 中国人民解放军总部关于重行 颁布三大纪律八项注意的训令 （一九四七年十月十日） 一、本军三大纪律八项注意，"
+  },
+  {
+   "file": "Text/Section0524.xhtml",
+   "title": "目前形势和我们的任务",
+   "chars": 13425,
+   "footnote_links": 14,
+   "note_anchors": 14,
+   "images": 0,
+   "sample": "目前形势和我们的任务 目前形势和我们的任务 * （一九四七年十二月二十五日） 一 中国人民的革命战争，现在已经达到了一个转折点。这即是中国人民解放军已经打退了美"
+  },
+  {
+   "file": "Text/Section0525.xhtml",
+   "title": "关于建立报告制度",
+   "chars": 1519,
+   "footnote_links": 1,
+   "note_anchors": 1,
+   "images": 0,
+   "sample": "关于建立报告制度 关于建立报告制度 * （一九四八年一月七日） 为了及时反映情况，使中央有可能在事先或事后帮助各地不犯或少犯错误，争取革命战争更加伟大的胜利起见"
+  },
+  {
+   "file": "Text/Section0526.xhtml",
+   "title": "关于目前党的政策中的几个重要问题",
+   "chars": 4071,
+   "footnote_links": 4,
+   "note_anchors": 4,
+   "images": 0,
+   "sample": "关于目前党的政策中的几个重要问题 关于目前党的政策中 的几个重要问题 * （一九四八年一月十八日） 一 党内反对错误倾向问题 反对对敌人的力量估计过高。例如，惧"
+  },
+  {
+   "file": "Text/Section0527.xhtml",
+   "title": "军队内部的民主运动",
+   "chars": 830,
+   "footnote_links": 4,
+   "note_anchors": 4,
+   "images": 0,
+   "sample": "军队内部的民主运动 军队内部的民主运动 * （一九四八年一月三十日） 部队内部政治工作方针，是放手发动士兵群众、指挥员和一切工作人员，通过集中领导下的民主运动，"
+  },
+  {
+   "file": "Text/Section0528.xhtml",
+   "title": "在不同地区实施土地法的不同策略",
+   "chars": 1172,
+   "footnote_links": 5,
+   "note_anchors": 5,
+   "images": 0,
+   "sample": "在不同地区实施土地法的不同策略 在不同地区 实施土地法的不同策略 * （一九四八年二月三日） 关于土地法 〔1〕 的实施，应当分三种地区，采取不同策略。 一、日"
+  },
+  {
+   "file": "Text/Section0529.xhtml",
+   "title": "纠正土地改革宣传中的“左”倾错误",
+   "chars": 1131,
+   "footnote_links": 1,
+   "note_anchors": 1,
+   "images": 0,
+   "sample": "纠正土地改革宣传中的“左”倾错误 纠正土地改革宣传中的 “左”倾错误 * （一九四八年二月十一日） 最近几个月中，许多地方的通讯社和报纸，不加选择地没有分析地传"
+  },
+  {
+   "file": "Text/Section0530.xhtml",
+   "title": "新解放区土地改革要点",
+   "chars": 901,
+   "footnote_links": 2,
+   "note_anchors": 2,
+   "images": 0,
+   "sample": "新解放区土地改革要点 新解放区土地改革要点 * （一九四八年二月十五日） 一、不要性急，应依环境、群众觉悟程度和领导干部强弱决定土地改革工作进行的速度。不要企图"
+  },
+  {
+   "file": "Text/Section0531.xhtml",
+   "title": "关于工商业政策",
+   "chars": 1106,
+   "footnote_links": 1,
+   "note_anchors": 1,
+   "images": 0,
+   "sample": "关于工商业政策 关于工商业政策 * （一九四八年二月二十七日） 一、某些地方的党组织违反党中央的工商业政策，造成严重破坏工商业的现象。对于这种错误，必须迅速加以"
+  },
+  {
+   "file": "Text/Section0532.xhtml",
+   "title": "关于民族资产阶级和开明绅士问题",
+   "chars": 2230,
+   "footnote_links": 3,
+   "note_anchors": 3,
+   "images": 0,
+   "sample": "关于民族资产阶级和开明绅士问题 关于民族资产阶级 和开明绅士问题 * （一九四八年三月一日） 中国现阶段革命的性质，是无产阶级领导的、人民大众的、反对帝国主义、"
+  },
+  {
+   "file": "Text/Section0533.xhtml",
+   "title": "评西北大捷兼论解放军的新式整军运动",
+   "chars": 4262,
+   "footnote_links": 8,
+   "note_anchors": 8,
+   "images": 0,
+   "sample": "评西北大捷兼论解放军的新式整军运动 评西北大捷兼论解放军的 新式整军运动 * （一九四八年三月七日） 人民解放军总部发言人评西北人民解放军最近一次大捷称：这次胜"
+  },
+  {
+   "file": "Text/Section0534.xhtml",
+   "title": "关于情况的通报",
+   "chars": 4716,
+   "footnote_links": 9,
+   "note_anchors": 9,
+   "images": 0,
+   "sample": "关于情况的通报 关于情况的通报 * （一九四八年三月二十日） 一、最近几个月，中央集中全力解决在新形势下面关于土地改革方面、关于工商业方面、关于统一战线方面、关"
+  },
+  {
+   "file": "Text/Section0535.xhtml",
+   "title": "在晋绥干部会议上的讲话",
+   "chars": 7782,
+   "footnote_links": 5,
+   "note_anchors": 5,
+   "images": 0,
+   "sample": "在晋绥干部会议上的讲话 在晋绥干部会议上的讲话 （一九四八年四月一日） 同志们，今天我想讲的，主要地是一些和晋绥工作有关的问题，然后讲到一些和全国工作有关的问题"
+  },
+  {
+   "file": "Text/Section0536.xhtml",
+   "title": "对晋绥日报编辑人员的谈话",
+   "chars": 2806,
+   "footnote_links": 3,
+   "note_anchors": 3,
+   "images": 0,
+   "sample": "对晋绥日报编辑人员的谈话 对晋绥日报编辑人员的谈话 （一九四八年四月二日） 我们的政策，不光要使领导者知道，干部知道，还要使广大的群众知道。有关政策的问题，一般"
+  },
+  {
+   "file": "Text/Section0537.xhtml",
+   "title": "再克洛阳后给洛阳前线指挥部的电报",
+   "chars": 1140,
+   "footnote_links": 2,
+   "note_anchors": 2,
+   "images": 0,
+   "sample": "再克洛阳后给洛阳前线指挥部的电报 再克洛阳后给 洛阳前线指挥部的电报 * （一九四八年四月八日） 此次再克洛阳 〔1〕 ，可能巩固。关于城市政策，应注意下列各点"
+  },
+  {
+   "file": "Text/Section0538.xhtml",
+   "title": "新解放区农村工作的策略问题",
+   "chars": 567,
+   "footnote_links": 1,
+   "note_anchors": 1,
+   "images": 0,
+   "sample": "新解放区农村工作的策略问题 新解放区农村工作的策略问题 * （一九四八年五月二十四日） 新解放区农村工作的策略问题有全盘考虑之必要。新解放区必须充分利用抗日时期"
+  },
+  {
+   "file": "Text/Section0539.xhtml",
+   "title": "一九四八年的土地改革工作和整党工作",
+   "chars": 3116,
+   "footnote_links": 2,
+   "note_anchors": 2,
+   "images": 0,
+   "sample": "一九四八年的土地改革工作和整党工作 一九四八年的 土地改革工作和整党工作 * （一九四八年五月二十五日） 一 必须注意季节。必须利用今年整个秋季和冬季，即自今年"
+  },
+  {
+   "file": "Text/Section0540.xhtml",
+   "title": "关于辽沈战役&lt;a class=\"zy\" href=\"#id1a\" id=\"id1\"&gt;〔1〕&lt;/a&gt;的作战方针",
+   "chars": 3727,
+   "footnote_links": 4,
+   "note_anchors": 4,
+   "images": 0,
+   "sample": "关于辽沈战役<a class=\"zy\" href=\"#id1a\" id=\"id1\">〔1〕</a>的作战方针 关于辽沈战役 〔1〕 的作战方针 * （一九四八年"
+  },
+  {
+   "file": "Text/Section0541.xhtml",
+   "title": "关于健全党委制",
+   "chars": 904,
+   "footnote_links": 1,
+   "note_anchors": 1,
+   "images": 0,
+   "sample": "关于健全党委制 关于健全党委制 * （一九四八年九月二十日） 党委制是保证集体领导、防止个人包办的党的重要制度。近查有些（当然不是一切）领导机关，个人包办和个人"
+  },
+  {
+   "file": "Text/Section0542.xhtml",
+   "title": "中共中央关于九月会议的通知",
+   "chars": 5602,
+   "footnote_links": 11,
+   "note_anchors": 11,
+   "images": 0,
+   "sample": "中共中央关于九月会议的通知 中共中央关于九月会议的通知 * （一九四八年十月十日） （一）一九四八年九月，中央召开了一次政治局会议，到政治局委员七人，有中央委员"
+  },
+  {
+   "file": "Text/Section0543.xhtml",
+   "title": "关于淮海战役的的作战方针",
+   "chars": 2827,
+   "footnote_links": 7,
+   "note_anchors": 7,
+   "images": 0,
+   "sample": "关于淮海战役的的作战方针 关于淮海战役的的作战方针 * （一九四八年十月十一日） 关于淮海战役 〔1〕 部署，现在提出几点意见，供你们考虑。 （一）本战役第一阶"
+  },
+  {
+   "file": "Text/Section0544.xhtml",
+   "title": "全世界革命力量团结起来，反对帝国主义的侵略",
+   "chars": 2279,
+   "footnote_links": 2,
+   "note_anchors": 2,
+   "images": 0,
+   "sample": "全世界革命力量团结起来，反对帝国主义的侵略 全世界革命力量团结起来， 反对帝国主义的侵略 * （一九四八年十一月） 现在，当着全世界觉悟的工人阶级和一切真诚革命"
+  },
+  {
+   "file": "Text/Section0545.xhtml",
+   "title": "中国军事形势的重大变化",
+   "chars": 1431,
+   "footnote_links": 4,
+   "note_anchors": 4,
+   "images": 0,
+   "sample": "中国军事形势的重大变化 中国军事形势的重大变化 * （一九四八年十一月十四日） 中国的军事形势现已进入一个新的转折点，即战争双方力量对比已经发生了根本的变化。人"
+  },
+  {
+   "file": "Text/Section0546.xhtml",
+   "title": "关于平津战役&lt;a class=\"zy\" href=\"#id1a\" id=\"id1\"&gt;〔1〕&lt;/a&gt;的作战方针",
+   "chars": 3001,
+   "footnote_links": 6,
+   "note_anchors": 6,
+   "images": 0,
+   "sample": "关于平津战役<a class=\"zy\" href=\"#id1a\" id=\"id1\">〔1〕</a>的作战方针 关于平津战役 〔1〕 的作战方针 * （一九四八年"
+  },
+  {
+   "file": "Text/Section0547.xhtml",
+   "title": "敦促杜聿明等投降书",
+   "chars": 1567,
+   "footnote_links": 4,
+   "note_anchors": 4,
+   "images": 0,
+   "sample": "敦促杜聿明等投降书 敦促杜聿明等投降书 * （一九四八年十二月十七日） 杜聿明将军、邱清泉将军、李弥将军和邱李两兵团诸位军长师长团长： 你们现在已经到了山穷水尽"
+  },
+  {
+   "file": "Text/Section0548.xhtml",
+   "title": "将革命进行到底",
+   "chars": 5820,
+   "footnote_links": 7,
+   "note_anchors": 7,
+   "images": 0,
+   "sample": "将革命进行到底 将革命进行到底 * （一九四八年十二月三十日） 中国人民将要在伟大的解放战争中获得最后胜利，这一点，现在甚至我们的敌人也不怀疑了。 战争走过了曲"
+  },
+  {
+   "file": "Text/Section0549.xhtml",
+   "title": "评战犯求和",
+   "chars": 2705,
+   "footnote_links": 5,
+   "note_anchors": 5,
+   "images": 0,
+   "sample": "评战犯求和 评战犯求和 * （一九四九年一月四日） 为了保存中国反动势力和美国在华侵略势力，中国第一号战争罪犯国民党匪帮首领蒋介石在今年元旦发表了一篇求和的声明"
+  },
+  {
+   "file": "Text/Section0550.xhtml",
+   "title": "中共中央毛泽东主席关于时局的声明",
+   "chars": 2697,
+   "footnote_links": 5,
+   "note_anchors": 5,
+   "images": 0,
+   "sample": "中共中央毛泽东主席关于时局的声明 中共中央毛泽东主席 关于时局的声明 （一九四九年一月十四日） 自一九四六年七月，南京国民党反动政府在美国帝国主义者的帮助之下，"
+  },
+  {
+   "file": "Text/Section0551.xhtml",
+   "title": "中共发言人评南京行政院的决议",
+   "chars": 1155,
+   "footnote_links": 0,
+   "note_anchors": 0,
+   "images": 0,
+   "sample": "中共发言人评南京行政院的决议 中共发言人评南京行政院的决议 （一九四九年一月二十一日） 南京国民党反动政府的官方通讯社中央社十九日电称：十九日上午九时行政院会议"
+  },
+  {
+   "file": "Text/Section0552.xhtml",
+   "title": "中共发言人关于命令国民党反动政府重新逮捕前日本侵华军总司令冈村宁次和逮捕国民党内战罪犯的谈话",
+   "chars": 4552,
+   "footnote_links": 11,
+   "note_anchors": 11,
+   "images": 0,
+   "sample": "中共发言人关于命令国民党反动政府重新逮捕前日本侵华军总司令冈村宁次和逮捕国民党内战罪犯的谈话 中共发言人关于 命令国民党反动政府重新逮捕 前日本侵华军总司令冈村"
+  },
+  {
+   "file": "Text/Section0553.xhtml",
+   "title": "中共发言人关于和平条件必须包括惩办日本战犯和国民党战犯的声明",
+   "chars": 2495,
+   "footnote_links": 2,
+   "note_anchors": 2,
+   "images": 0,
+   "sample": "中共发言人关于和平条件必须包括惩办日本战犯和国民党战犯的声明 中共发言人关于 和平条件必须包括惩办日本战犯 和国民党战犯的声明 （一九四九年二月五日） 上月二十"
+  },
+  {
+   "file": "Text/Section0554.xhtml",
+   "title": "把军队变为工作队",
+   "chars": 1656,
+   "footnote_links": 4,
+   "note_anchors": 4,
+   "images": 0,
+   "sample": "把军队变为工作队 把军队变为工作队 * （一九四九年二月八日） 四日电悉。你们加紧整训，准备提前一个月出动 〔1〕 ，甚好。望照此去做，不要放松。但在实际上，三"
+  },
+  {
+   "file": "Text/Section0555.xhtml",
+   "title": "四分五裂的反动派为什么还要空喊“全面和平”？",
+   "chars": 3258,
+   "footnote_links": 12,
+   "note_anchors": 12,
+   "images": 0,
+   "sample": "四分五裂的反动派为什么还要空喊“全面和平”？ 四分五裂的反动派 为什么还要空喊“全面和平”？ （一九四九年二月十五日） 国民党反动统治崩溃的速度，比人们预料的要"
+  },
+  {
+   "file": "Text/Section0556.xhtml",
+   "title": "国民党反动派由“呼吁和平”变为呼吁战争",
+   "chars": 1422,
+   "footnote_links": 0,
+   "note_anchors": 0,
+   "images": 0,
+   "sample": "国民党反动派由“呼吁和平”变为呼吁战争 国民党反动派由“呼吁和平” 变为呼吁战争 （一九四九年二月十六日） 自从一月一日蒋匪介石发动和平攻势以后，曾经连篇累牍地"
+  },
+  {
+   "file": "Text/Section0557.xhtml",
+   "title": "评国民党对战争责任问题的几种答案",
+   "chars": 4553,
+   "footnote_links": 5,
+   "note_anchors": 5,
+   "images": 0,
+   "sample": "评国民党对战争责任问题的几种答案 评国民党对战争责任 问题的几种答案 （一九四九年二月十八日） “政府自抗战结束以后，即以和平建国方针力谋中共问题之和平解决。经"
+  },
+  {
+   "file": "Text/Section0558.xhtml",
+   "title": "在中国共产党第七届中央委员会第二次全体会议上的报告",
+   "chars": 9484,
+   "footnote_links": 6,
+   "note_anchors": 6,
+   "images": 0,
+   "sample": "在中国共产党第七届中央委员会第二次全体会议上的报告 在中国共产党第七届中央委员会 第二次全体会议上的报告 * （一九四九年三月五日） 一 辽沈、淮海、平津三战役"
+  },
+  {
+   "file": "Text/Section0559.xhtml",
+   "title": "党委会的工作方法",
+   "chars": 2972,
+   "footnote_links": 4,
+   "note_anchors": 4,
+   "images": 0,
+   "sample": "党委会的工作方法 党委会的工作方法 * （一九四九年三月十三日） 一、党委书记要善于当“班长”。党的委员会有一二十个人，像军队的一个班，书记好比是“班长”。要把"
+  },
+  {
+   "file": "Text/Section0560.xhtml",
+   "title": "南京政府向何处去？",
+   "chars": 1848,
+   "footnote_links": 5,
+   "note_anchors": 5,
+   "images": 0,
+   "sample": "南京政府向何处去？ 南京政府向何处去？ （一九四九年四月四日） 两条路摆在南京国民党政府及其军政人员的面前：一条是向蒋介石战犯集团及其主人美国帝国主义靠拢，这就"
+  },
+  {
+   "file": "Text/Section0561.xhtml",
+   "title": "向全国进军的命令",
+   "chars": 6575,
+   "footnote_links": 3,
+   "note_anchors": 3,
+   "images": 0,
+   "sample": "向全国进军的命令 向全国进军的命令 * （一九四九年四月二十一日） 各野战军全体指挥员战斗员同志们，南方各游击区人民解放军同志们： 由中国共产党的代表团和南京国"
+  },
+  {
+   "file": "Text/Section0562.xhtml",
+   "title": "中国人民解放军布告",
+   "chars": 1508,
+   "footnote_links": 1,
+   "note_anchors": 1,
+   "images": 0,
+   "sample": "中国人民解放军布告 中国人民解放军布告 （一九四九年四月二十五日） 国民党反动派业已拒绝接受和平条件 〔1〕 ，坚持其反民族反人民的罪恶的战争立场。全国人民希望"
+  },
+  {
+   "file": "Text/Section0563.xhtml",
+   "title": "中国人民解放军总部发言人为英国军舰暴行&lt;a class=\"zy\" href=\"#id1a\" id=\"id1\"&gt;〔1〕&lt;/a&gt;发表的声明",
+   "chars": 1763,
+   "footnote_links": 5,
+   "note_anchors": 5,
+   "images": 0,
+   "sample": "中国人民解放军总部发言人为英国军舰暴行<a class=\"zy\" href=\"#id1a\" id=\"id1\">〔1〕</a>发表的声明 中国人民解放军总部发言人"
+  },
+  {
+   "file": "Text/Section0564.xhtml",
+   "title": "在新政治协商会议筹备会上的讲话",
+   "chars": 2784,
+   "footnote_links": 4,
+   "note_anchors": 4,
+   "images": 0,
+   "sample": "在新政治协商会议筹备会上的讲话 在新政治协商会议 筹备会上的讲话 （一九四九年六月十五日） 诸位代表先生： 我们的新的政治协商会议的筹备会 〔1〕 ，今天开幕了"
+  },
+  {
+   "file": "Text/Section0565.xhtml",
+   "title": "论人民民主专政",
+   "chars": 9309,
+   "footnote_links": 11,
+   "note_anchors": 11,
+   "images": 0,
+   "sample": "论人民民主专政 论人民民主专政 纪念中国共产党二十八周年 （一九四九年六月三十日） 一九四九年的七月一日这一个日子表示，中国共产党已经走过二十八年了。像一个人一"
+  },
+  {
+   "file": "Text/Section0566.xhtml",
+   "title": "丢掉幻想，准备斗争",
+   "chars": 4746,
+   "footnote_links": 10,
+   "note_anchors": 10,
+   "images": 0,
+   "sample": "丢掉幻想，准备斗争 丢掉幻想，准备斗争 * （一九四九年八月十四日） 美国国务院关于中美关系的白皮书以及艾奇逊国务卿给杜鲁门总统的信 〔1〕 ，在现在这个时候发"
+  },
+  {
+   "file": "Text/Section0567.xhtml",
+   "title": "别了，司徒雷登",
+   "chars": 5201,
+   "footnote_links": 11,
+   "note_anchors": 11,
+   "images": 0,
+   "sample": "别了，司徒雷登 别了，司徒雷登 （一九四九年八月十八日） 美国的白皮书，选择在司徒雷登 〔1〕 业已离开南京、快到华盛顿、但是尚未到达的日子——八月五日发表，是"
+  },
+  {
+   "file": "Text/Section0568.xhtml",
+   "title": "为什么要讨论白皮书？",
+   "chars": 3851,
+   "footnote_links": 3,
+   "note_anchors": 3,
+   "images": 0,
+   "sample": "为什么要讨论白皮书？ 为什么要讨论白皮书？ （一九四九年八月二十八日） 关于美国白皮书和艾奇逊的信件，我们业已在三篇文章（《无可奈何的供状》 〔1〕 、《丢掉幻"
+  },
+  {
+   "file": "Text/Section0569.xhtml",
+   "title": "“友谊”，还是侵略？",
+   "chars": 2165,
+   "footnote_links": 7,
+   "note_anchors": 7,
+   "images": 0,
+   "sample": "“友谊”，还是侵略？ “友谊”，还是侵略？ （一九四九年八月三十日） 为了寻找侵略的根据，艾奇逊重复地说了一大堆“友谊”，加上一大堆“原则”。 艾奇逊说：“从我"
+  },
+  {
+   "file": "Text/Section0570.xhtml",
+   "title": "唯心历史观的破产",
+   "chars": 5687,
+   "footnote_links": 13,
+   "note_anchors": 13,
+   "images": 0,
+   "sample": "唯心历史观的破产 唯心历史观的破产 （一九四九年九月十六日） 中国人之所以应当感谢美国资产阶级发言人艾奇逊，不但是因为艾奇逊明确地供认了美国出钱出枪，蒋介石出人"
+  },
+  {
+   "file": "Text/Section06.xhtml",
+   "title": "社会主义革命和社会主义建设时期（一）",
+   "chars": 36,
+   "footnote_links": 0,
+   "note_anchors": 0,
+   "images": 0,
+   "sample": "社会主义革命和社会主义建设时期（一） 社会主义革命和社会主义建设时期（一）"
+  },
+  {
+   "file": "Text/Section0601.xhtml",
+   "title": "中国人民站起来了",
+   "chars": 2390,
+   "footnote_links": 2,
+   "note_anchors": 2,
+   "images": 0,
+   "sample": "中国人民站起来了 中国人民站起来了 * （一九四九年九月二十一日） 诸位代表先生们，全国人民所渴望的政治协商会议现在开幕了。 我们的会议包括六百多位代表，代表着"
+  },
+  {
+   "file": "Text/Section0602.xhtml",
+   "title": "中国人民大团结万岁",
+   "chars": 1178,
+   "footnote_links": 1,
+   "note_anchors": 1,
+   "images": 0,
+   "sample": "中国人民大团结万岁 中国人民大团结万岁 * （一九四九年九月三十日） 全国同胞们： 中国人民政治协商会议第一届全体会议业已胜利地完成了自己的任务。 这次会议，包"
+  },
+  {
+   "file": "Text/Section0603.xhtml",
+   "title": "人民英雄们永垂不朽",
+   "chars": 178,
+   "footnote_links": 1,
+   "note_anchors": 1,
+   "images": 0,
+   "sample": "人民英雄们永垂不朽 人民英雄们永垂不朽 * （一九四九年九月三十日） 三年以来，在人民解放战争和人民革命中牺牲的人民英雄们永垂不朽！ 三十年以来，在人民解放战争"
+  },
+  {
+   "file": "Text/Section0604.xhtml",
+   "title": "永远保持艰苦奋斗的作风",
+   "chars": 255,
+   "footnote_links": 0,
+   "note_anchors": 0,
+   "images": 0,
+   "sample": "永远保持艰苦奋斗的作风 永远保持艰苦奋斗的作风 （一九四九年十月二十六日） 延安的同志们和陕甘宁边区的同胞们： 接到你们的贺函，使我十分愉快和感谢。延安和陕甘宁"
+  },
+  {
+   "file": "Text/Section0605.xhtml",
+   "title": "征询对待富农策略问题的意见",
+   "chars": 708,
+   "footnote_links": 1,
+   "note_anchors": 1,
+   "images": 0,
+   "sample": "征询对待富农策略问题的意见 征询对待富农策略问题的意见 * （一九五〇年三月十二日） 请就你们现正召开的各省负责同志会议中征询关于对待富农策略问题的意见电告我们"
+  },
+  {
+   "file": "Text/Section0606.xhtml",
+   "title": "为争取国家财政经济状况的基本好转而斗争",
+   "chars": 3712,
+   "footnote_links": 4,
+   "note_anchors": 4,
+   "images": 0,
+   "sample": "为争取国家财政经济状况的基本好转而斗争 为争取国家财政经济状况的 基本好转而斗争 * （一九五〇年六月六日） 目前的国际情况对于我们是有利的。以苏联为首的世界和"
+  },
+  {
+   "file": "Text/Section0607.xhtml",
+   "title": "不要四面出击",
+   "chars": 1946,
+   "footnote_links": 1,
+   "note_anchors": 1,
+   "images": 0,
+   "sample": "不要四面出击 不要四面出击 * （一九五〇年六月六日） 七届二中全会以来，我们党领导的新民主主义革命在全国范围内取得了胜利，成立了中华人民共和国。这是一个伟大的"
+  },
+  {
+   "file": "Text/Section0608.xhtml",
+   "title": "做一个完全的革命派",
+   "chars": 2688,
+   "footnote_links": 3,
+   "note_anchors": 3,
+   "images": 0,
+   "sample": "做一个完全的革命派 做一个完全的革命派 * （一九五〇年六月二十三日） 此次会议总结了过去时期的经验，决定了各项方针。 这种总结经验和决定方针的工作，是我们大家"
+  },
+  {
+   "file": "Text/Section0609.xhtml",
+   "title": "你们是全民族的模范人物",
+   "chars": 568,
+   "footnote_links": 1,
+   "note_anchors": 1,
+   "images": 0,
+   "sample": "你们是全民族的模范人物 你们是全民族的模范人物 * （一九五〇年九月二十五日） 全国战斗英雄代表会议和全国工农兵劳动模范代表会议的代表同志们！ 中共中央向你们的"
+  },
+  {
+   "file": "Text/Section0610.xhtml",
+   "title": "给中国人民志愿军的命令",
+   "chars": 442,
+   "footnote_links": 2,
+   "note_anchors": 1,
+   "images": 0,
+   "sample": "给中国人民志愿军的命令 给中国人民志愿军的命令 * （一九五〇年十月八日） 中国人民志愿军各级领导同志们: （一）为了援助朝鲜人民解放战争，反对美帝国主义及其走"
+  },
+  {
+   "file": "Text/Section0611.xhtml",
+   "title": "中国人民志愿军要爱护朝鲜的一山一水一草一木",
+   "chars": 223,
+   "footnote_links": 1,
+   "note_anchors": 1,
+   "images": 0,
+   "sample": "中国人民志愿军要爱护朝鲜的一山一水一草一木 中国人民志愿军要爱护朝鲜的 一山一水一草一木 * （一九五一年一月十九日） 中朝两国同志要亲如兄弟般地团结在一起，休"
+  },
+  {
+   "file": "Text/Section0612.xhtml",
+   "title": "中共中央政治局扩大会议决议要点",
+   "chars": 1770,
+   "footnote_links": 3,
+   "note_anchors": 4,
+   "images": 0,
+   "sample": "中共中央政治局扩大会议决议要点 中共中央政治局 扩大会议决议要点 （一九五一年二月十八日） 中央于二月中旬召开有各中央局负责同志参加的政治局会议，讨论了各项重要"
+  },
+  {
+   "file": "Text/Section0613.xhtml",
+   "title": "镇压反革命必须实行党的群众路线",
+   "chars": 1412,
+   "footnote_links": 1,
+   "note_anchors": 1,
+   "images": 0,
+   "sample": "镇压反革命必须实行党的群众路线 镇压反革命必须实行 党的群众路线 * （一九五一年五月十五日） （一）目前在全国进行的镇压反革命的运动，是一场伟大的激烈的和复杂"
+  },
+  {
+   "file": "Text/Section0614.xhtml",
+   "title": "镇压反革命必须打得稳，打得准，打得狠",
+   "chars": 1650,
+   "footnote_links": 1,
+   "note_anchors": 1,
+   "images": 0,
+   "sample": "镇压反革命必须打得稳，打得准，打得狠 镇压反革命必须 打得稳，打得准，打得狠 * （一九五O年十二月——一九五一年九月） 一 对镇压反革命分子，请注意打得稳，打"
+  },
+  {
+   "file": "Text/Section0615.xhtml",
+   "title": "应当重视电影《武训传》的讨论",
+   "chars": 964,
+   "footnote_links": 1,
+   "note_anchors": 1,
+   "images": 0,
+   "sample": "应当重视电影《武训传》的讨论 应当重视电影《武训传》的讨论 * （一九五一年五月二十日） 《武训传》所提出的问题带有根本的性质。像武训那样的人，处在清朝末年中国"
+  },
+  {
+   "file": "Text/Section0616.xhtml",
+   "title": "三大运动的伟大胜利",
+   "chars": 2804,
+   "footnote_links": 1,
+   "note_anchors": 1,
+   "images": 0,
+   "sample": "三大运动的伟大胜利 三大运动的伟大胜利 * （一九五一年十月二十三日） 各位委员、各位同志们： 我们的人民政治协商会议第一届全国委员会第三次会议，现在开会了。在"
+  },
+  {
+   "file": "Text/Section0617.xhtml",
+   "title": "关于“三反”“五反”的斗争",
+   "chars": 2885,
+   "footnote_links": 3,
+   "note_anchors": 3,
+   "images": 0,
+   "sample": "关于“三反”“五反”的斗争 关于“三反”“五反”的斗争 * （一九五一年十一月——一九五二年三月） 一 反贪污、反浪费一事，实是全党一件大事，我们已告诉你们严重"
+  },
+  {
+   "file": "Text/Section0618.xhtml",
+   "title": "把农业互助合作当作一件大事去做",
+   "chars": 418,
+   "footnote_links": 1,
+   "note_anchors": 1,
+   "images": 0,
+   "sample": "把农业互助合作当作一件大事去做 把农业互助合作 当作一件大事去做 * （一九五一年十二月十五日） 兹将关于农业生产互助合作的决议草案一件发给你们，请印发到县委和"
+  },
+  {
+   "file": "Text/Section0619.xhtml",
+   "title": "元旦祝词",
+   "chars": 399,
+   "footnote_links": 0,
+   "note_anchors": 0,
+   "images": 0,
+   "sample": "元旦祝词 元旦祝词 （一九五二年一月一日） 祝我们全体——人民政府的工作人员，人民志愿军和人民解放军的指挥员、战斗员，各民主党派，各人民团体，各少数民族和全国人"
+  },
+  {
+   "file": "Text/Section0620.xhtml",
+   "title": "中共中央关于西藏工作方针的指示",
+   "chars": 1985,
+   "footnote_links": 2,
+   "note_anchors": 2,
+   "images": 0,
+   "sample": "中共中央关于西藏工作方针的指示 中共中央 关于西藏工作方针的指示 * （一九五二年四月六日） 我们基本上同意西南局、西南军区四月二日给西藏工委和西藏军区的指示电"
+  },
+  {
+   "file": "Text/Section0621.xhtml",
+   "title": "工人阶级与资产阶级的矛盾是国内的主要矛盾",
+   "chars": 180,
+   "footnote_links": 1,
+   "note_anchors": 1,
+   "images": 0,
+   "sample": "工人阶级与资产阶级的矛盾是国内的主要矛盾 工人阶级与资产阶级的矛盾 是国内的主要矛盾 * （一九五二年六月六日） 在打倒地主阶级和官僚资产阶级以后，中国内部的主"
+  },
+  {
+   "file": "Text/Section0622.xhtml",
+   "title": "团结起来，划清敌我界限",
+   "chars": 1724,
+   "footnote_links": 1,
+   "note_anchors": 1,
+   "images": 0,
+   "sample": "团结起来，划清敌我界限 团结起来，划清敌我界限 * （一九五二年八月四日） 去年这一年，我们是边打，边谈，边稳。 朝鲜战争的局势，去年七月以后定下来了，但是国内"
+  },
+  {
+   "file": "Text/Section0623.xhtml",
+   "title": "祝贺中国人民志愿军的重大胜利",
+   "chars": 618,
+   "footnote_links": 1,
+   "note_anchors": 1,
+   "images": 0,
+   "sample": "祝贺中国人民志愿军的重大胜利 祝贺中国人民志愿军的 重大胜利 * （一九五二年十月二十四日） 我志愿军协同人民军从九月十八日开始对全线敌军的战术性的反击作战，在"
+  },
+  {
+   "file": "Text/Section0624.xhtml",
+   "title": "反对官僚主义、命令主义和违法乱纪",
+   "chars": 1250,
+   "footnote_links": 1,
+   "note_anchors": 1,
+   "images": 0,
+   "sample": "反对官僚主义、命令主义和违法乱纪 反对官僚主义、 命令主义和违法乱纪 * （一九五三年一月五日） 反对官僚主义、反对命令主义、反对违法乱纪这件事，应当唤起我们各"
+  },
+  {
+   "file": "Text/Section0625.xhtml",
+   "title": "批判大汉族主义",
+   "chars": 560,
+   "footnote_links": 1,
+   "note_anchors": 1,
+   "images": 0,
+   "sample": "批判大汉族主义 批判大汉族主义 * （一九五三年三月十六日） 有些地方民族关系很不正常。此种情形，对于共产党人说来，是不能容忍的。必须深刻批评我们党内在很多党员"
+  },
+  {
+   "file": "Text/Section0626.xhtml",
+   "title": "解决“五多”问题",
+   "chars": 1477,
+   "footnote_links": 1,
+   "note_anchors": 1,
+   "images": 0,
+   "sample": "解决“五多”问题 解决“五多”问题 * （一九五三年三月十九日） （一）我们党政组织在农村工作中存在一些严重地脱离农民群众、损害农民及其积极分子的利益的问题，即"
+  },
+  {
+   "file": "Text/Section0627.xhtml",
+   "title": "对刘少奇、杨尚昆破坏纪律擅自以中央名义发出文件的批评",
+   "chars": 255,
+   "footnote_links": 1,
+   "note_anchors": 1,
+   "images": 0,
+   "sample": "对刘少奇、杨尚昆破坏纪律擅自以中央名义发出文件的批评 对刘少奇、杨尚昆破坏纪律擅自 以中央名义发出文件的批评 * （一九五三年五月十九日） 一 嗣后，凡用中央名"
+  },
+  {
+   "file": "Text/Section0628.xhtml",
+   "title": "批判离开总路线的右倾观点",
+   "chars": 1009,
+   "footnote_links": 2,
+   "note_anchors": 2,
+   "images": 0,
+   "sample": "批判离开总路线的右倾观点 批判离开总路线的右倾观点 * （一九五三年六月十五日） 党在过渡时期 〔1〕 总路线和总任务，是要在十年到十五年或者更多一些时间内，基"
+  },
+  {
+   "file": "Text/Section0629.xhtml",
+   "title": "青年团的工作要照顾青年的特点",
+   "chars": 2908,
+   "footnote_links": 1,
+   "note_anchors": 1,
+   "images": 0,
+   "sample": "青年团的工作要照顾青年的特点 青年团的工作 要照顾青年的特点 * （一九五三年六月三十日） 青年团对党闹独立性的问题早已过去了。现在的问题是缺乏团的独立工作，而"
+  },
+  {
+   "file": "Text/Section0630.xhtml",
+   "title": "关于国家资本主义",
+   "chars": 353,
+   "footnote_links": 1,
+   "note_anchors": 1,
+   "images": 0,
+   "sample": "关于国家资本主义 关于国家资本主义 * （一九五三年七月九日） 中国现在的资本主义经济其绝大部分是在人民政府管理之下的，用各种形式和国营社会主义经济联系着的，并"
+  },
+  {
+   "file": "Text/Section0631.xhtml",
+   "title": "党在过渡时期的总路线",
+   "chars": 325,
+   "footnote_links": 1,
+   "note_anchors": 1,
+   "images": 0,
+   "sample": "党在过渡时期的总路线 党在过渡时期的总路线 * （一九五三年八月） 从中华人民共和国成立，到社会主义改造基本完成，这是一个过渡时期。党在这个过渡时期的总路线和总"
+  },
+  {
+   "file": "Text/Section0632.xhtml",
+   "title": "反对党内的资产阶级思想",
+   "chars": 4868,
+   "footnote_links": 3,
+   "note_anchors": 3,
+   "images": 0,
+   "sample": "反对党内的资产阶级思想 反对党内的资产阶级思想 * （一九五三年八月十二日） 这次会议开得很好，周总理的结论也作得好。 现在我们可以看出，在“三反”“五反”运动"
+  },
+  {
+   "file": "Text/Section0633.xhtml",
+   "title": "改造资本主义工商业的必经之路",
+   "chars": 1454,
+   "footnote_links": 2,
+   "note_anchors": 2,
+   "images": 0,
+   "sample": "改造资本主义工商业的必经之路 改造资本主义工商业的 必经之路 * （一九五三年九月七日） 经过国家资本主义，完成由资本主义到社会主义的改造。 （1）过去三年多，"
+  },
+  {
+   "file": "Text/Section0634.xhtml",
+   "title": "抗美援朝的伟大胜利和今后的任务",
+   "chars": 3092,
+   "footnote_links": 1,
+   "note_anchors": 1,
+   "images": 0,
+   "sample": "抗美援朝的伟大胜利和今后的任务 抗美援朝的伟大胜利 和今后的任务 * （一九五三年九月十二日） 抗美援朝，经过三年，取得了伟大胜利，现在已经告一个段落。 抗美援"
+  },
+  {
+   "file": "Text/Section0635.xhtml",
+   "title": "批判梁漱溟的反动思想",
+   "chars": 5568,
+   "footnote_links": 7,
+   "note_anchors": 7,
+   "images": 0,
+   "sample": "批判梁漱溟的反动思想 批判梁漱溟的反动思想 * （一九五三年九月十六日——十八日） （一）梁漱溟先生是不是“有骨气的人”？他在和平谈判中演了什么角色？ 梁先生自"
+  },
+  {
+   "file": "Text/Section0636.xhtml",
+   "title": "关于农业互助合作的两次谈话",
+   "chars": 5147,
+   "footnote_links": 2,
+   "note_anchors": 2,
+   "images": 0,
+   "sample": "关于农业互助合作的两次谈话 关于农业互助合作的两次谈话 * （一九五三年十月、十一月） 一 十月十五日的谈话 办好农业生产合作社，即可带动互助组大发展。 在新区"
+  },
+  {
+   "file": "Text/Section0637.xhtml",
+   "title": "关于中华人民共和国宪法草案",
+   "chars": 4190,
+   "footnote_links": 4,
+   "note_anchors": 4,
+   "images": 0,
+   "sample": "关于中华人民共和国宪法草案 关于中华人民共和国宪法草案 * （一九五四年六月十四日） 这个宪法草案，看样子是得人心的。宪法草案的初稿，在北京五百多人的讨论中，在"
+  },
+  {
+   "file": "Text/Section0638.xhtml",
+   "title": "为建设一个伟大的社会主义国家而奋斗",
+   "chars": 748,
+   "footnote_links": 1,
+   "note_anchors": 1,
+   "images": 0,
+   "sample": "为建设一个伟大的社会主义国家而奋斗 为建设一个伟大的 社会主义国家而奋斗 * （一九五四年九月十五日） 各位代表! 中华人民共和国第一届全国人民代表大会第一次会"
+  },
+  {
+   "file": "Text/Section0639.xhtml",
+   "title": "关于《红楼梦》研究问题的信",
+   "chars": 751,
+   "footnote_links": 2,
+   "note_anchors": 2,
+   "images": 0,
+   "sample": "关于《红楼梦》研究问题的信 关于《红楼梦》研究问题的信 * （一九五四年十月十六日） 驳俞平伯的两篇文章付上，请一阅。这是三十多年以来向所谓《红楼梦》研究权威作"
+  },
+  {
+   "file": "Text/Section0640.xhtml",
+   "title": "原子弹吓不倒中国人民",
+   "chars": 909,
+   "footnote_links": 1,
+   "note_anchors": 1,
+   "images": 0,
+   "sample": "原子弹吓不倒中国人民 原子弹吓不倒中国人民 * （一九五五年一月二十八日） 中国和芬兰是友好的国家。我们的关系，是建立在和平共处五项原则的基础之上的。 中国同芬"
+  },
+  {
+   "file": "Text/Section0641.xhtml",
+   "title": "在中国共产党全国代表会议上的讲话",
+   "chars": 10942,
+   "footnote_links": 0,
+   "note_anchors": 0,
+   "images": 0,
+   "sample": "在中国共产党全国代表会议上的讲话 在中国共产党 全国代表会议上的讲话 （一九五五年三月） 开幕词 （一九五五年三月二十一日） 中国共产党全国代表会议各位代表同志"
+  },
+  {
+   "file": "Text/Section0642.xhtml",
+   "title": "驳“舆论一律”",
+   "chars": 1806,
+   "footnote_links": 1,
+   "note_anchors": 1,
+   "images": 0,
+   "sample": "驳“舆论一律” 驳“舆论一律” * （一九五五年五月二十四日） 胡风所谓“舆论一律”，是指不许反革命分子发表反革命意见。这是确实的，我们的制度就是不许一切反革命"
+  },
+  {
+   "file": "Text/Section0643.xhtml",
+   "title": "《关于胡风反革命集团的材料》的序言和按语",
+   "chars": 4052,
+   "footnote_links": 0,
+   "note_anchors": 0,
+   "images": 0,
+   "sample": "《关于胡风反革命集团的材料》的序言和按语 《关于胡风反革命集团的材料》的 序言和按语 （一九五五年五月、六月） 序言 （一九五五年六月十五日） 为应广大读者的需"
+  },
+  {
+   "file": "Text/Section0644.xhtml",
+   "title": "关于农业合作化问题",
+   "chars": 14211,
+   "footnote_links": 3,
+   "note_anchors": 3,
+   "images": 0,
+   "sample": "关于农业合作化问题 关于农业合作化问题 * （一九五五年七月三十一日） 一 在全国农村中，新的社会主义群众运动的高潮就要到来。我们的某些同志却像一个小脚女人，东"
+  },
+  {
+   "file": "Text/Section0645.xhtml",
+   "title": "农业合作化必须依靠党团员和贫农下中农",
+   "chars": 1294,
+   "footnote_links": 1,
+   "note_anchors": 1,
+   "images": 0,
+   "sample": "农业合作化必须依靠党团员和贫农下中农 农业合作化必须依靠 党团员和贫农下中农 * （一九五五年九月七日） 关于“依靠贫农（包括全部原为贫农的新中农在内）巩固地团"
+  },
+  {
+   "file": "Text/Section0646.xhtml",
+   "title": "农业合作化的一场辩论和当前的阶级斗争",
+   "chars": 13896,
+   "footnote_links": 4,
+   "note_anchors": 4,
+   "images": 0,
+   "sample": "农业合作化的一场辩论和当前的阶级斗争 农业合作化的一场辩论 和当前的阶级斗争 * （一九五五年十月十一日） 我们这次会议，是一场很大的辩论。这是在由资本主义到社"
+  },
+  {
+   "file": "Text/Section0647.xhtml",
+   "title": "《中国农村的社会主义高潮》的序言",
+   "chars": 4155,
+   "footnote_links": 2,
+   "note_anchors": 2,
+   "images": 0,
+   "sample": "《中国农村的社会主义高潮》的序言 《中国农村的社会主义高潮》 的序言 （一九五五年九月、十二月） 序言一 （一九五五年九月二十五日） 在从资本主义到社会主义的过"
+  },
+  {
+   "file": "Text/Section0648.xhtml",
+   "title": "《中国农村的社会主义高潮》的按语",
+   "chars": 18796,
+   "footnote_links": 3,
+   "note_anchors": 4,
+   "images": 0,
+   "sample": "《中国农村的社会主义高潮》的按语 《中国农村的社会主义高潮》 的按语 * （一九五五年九月、十二月） 一 这篇文章写得很好，值得作为本书的第一篇向读者们推荐。如"
+  },
+  {
+   "file": "Text/Section0649.xhtml",
+   "title": "征询对农业十七条的意见",
+   "chars": 1995,
+   "footnote_links": 2,
+   "note_anchors": 2,
+   "images": 0,
+   "sample": "征询对农业十七条的意见 征询对农业十七条的意见 * （一九五五年十二月二十一日） 今年十一月间毛泽东同志在杭州和天津分别同十四个省委书记和内蒙自治区党委书记共同"
+  },
+  {
+   "file": "Text/Section0650.xhtml",
+   "title": "加快手工业的社会主义改造",
+   "chars": 1464,
+   "footnote_links": 4,
+   "note_anchors": 2,
+   "images": 0,
+   "sample": "加快手工业的社会主义改造 加快手工业的社会主义改造 * （一九五六年三月四日） （一）个体手工业社会主义改造的速度，我觉得慢了一点。今年一月省市委书记会议的时候"
+  },
+  {
+   "file": "Text/Section0651.xhtml",
+   "title": "论十大关系",
+   "chars": 12725,
+   "footnote_links": 3,
+   "note_anchors": 3,
+   "images": 0,
+   "sample": "论十大关系 论十大关系 * （一九五六年四月二十五日） 最近几个月，中央政治局听了中央工业、农业、运输业、商业、财政等三十四个部门的工作汇报，从中看到一些有关社"
+  },
+  {
+   "file": "Text/Section0652.xhtml",
+   "title": "美帝国主义是纸老虎",
+   "chars": 2108,
+   "footnote_links": 1,
+   "note_anchors": 1,
+   "images": 0,
+   "sample": "美帝国主义是纸老虎 美帝国主义是纸老虎 * （一九五六年七月十四日） 美国到处打着反共的招牌，为着达到侵略别人的目的。 美国到处欠账。欠中南美国家、亚非国家的账"
+  },
+  {
+   "file": "Text/Section0653.xhtml",
+   "title": "增强党的团结，继承党的传统",
+   "chars": 7540,
+   "footnote_links": 1,
+   "note_anchors": 1,
+   "images": 0,
+   "sample": "增强党的团结，继承党的传统 增强党的团结，继承党的传统 * （一九五六年八月三十日） 今天开第八次全国代表大会的预备会议。预备会议要开十几天，要作的主要事情，一"
+  },
+  {
+   "file": "Text/Section0654.xhtml",
+   "title": "我们党的—些历史经验",
+   "chars": 3503,
+   "footnote_links": 1,
+   "note_anchors": 1,
+   "images": 0,
+   "sample": "我们党的—些历史经验 我们党的—些历史经验 * （一九五六年九月二十五日） 美帝国主义是你们的对头，也是我们的对头，也是全世界人民的对头。美帝国主义要干涉我们比"
+  },
+  {
+   "file": "Text/Section0655.xhtml",
+   "title": "纪念孙中山先生",
+   "chars": 734,
+   "footnote_links": 1,
+   "note_anchors": 1,
+   "images": 0,
+   "sample": "纪念孙中山先生 纪念孙中山先生 * （一九五六年十一月十二日） 纪念伟大的革命先行者孙中山先生! 纪念他在中国民主革命准备时期，以鲜明的中国革命民主派立场，同中"
+  },
+  {
+   "file": "Text/Section0656.xhtml",
+   "title": "在中国共产党第八届中央委员会第二次全体会议上的讲话",
+   "chars": 10437,
+   "footnote_links": 4,
+   "note_anchors": 4,
+   "images": 0,
+   "sample": "在中国共产党第八届中央委员会第二次全体会议上的讲话 在中国共产党第八届中央委员会 第二次全体会议上的讲话 （一九五六年十一月十五日） 我讲四个问题；经济问题，国"
+  },
+  {
+   "file": "Text/Section0657.xhtml",
+   "title": "在省市自治区党委书记会议上的讲话",
+   "chars": 20255,
+   "footnote_links": 6,
+   "note_anchors": 5,
+   "images": 0,
+   "sample": "在省市自治区党委书记会议上的讲话 在省市自治区党委书记 会议上的讲话 （一九五七年一月） 一 一月十八日的讲话 这次会议，要讨论的问题主要是三个：思想动向问题，"
+  },
+  {
+   "file": "Text/Section0658.xhtml",
+   "title": "关于正确处理人民内部矛盾的问题",
+   "chars": 24166,
+   "footnote_links": 4,
+   "note_anchors": 4,
+   "images": 0,
+   "sample": "关于正确处理人民内部矛盾的问题 关于正确处理 人民内部矛盾的问题 * （一九五七年二月二十七日） 关于正确处理人民内部矛盾的问题，这是一个总题目。为了叙述的方便"
+  },
+  {
+   "file": "Text/Section0659.xhtml",
+   "title": "在中国共产党全国宣传工作会议上的讲话",
+   "chars": 10069,
+   "footnote_links": 1,
+   "note_anchors": 1,
+   "images": 0,
+   "sample": "在中国共产党全国宣传工作会议上的讲话 在中国共产党全国宣传 工作会议上的讲话 （一九五七年三月十二日） 各位同志！这次会议开得很好。会议中间提出了很多问题，使我"
+  },
+  {
+   "file": "Text/Section0660.xhtml",
+   "title": "坚持艰苦奋斗，密切联系群众",
+   "chars": 2133,
+   "footnote_links": 3,
+   "note_anchors": 3,
+   "images": 0,
+   "sample": "坚持艰苦奋斗，密切联系群众 坚持艰苦奋斗，密切联系群众 * （一九五七年三月） 一 我们党现在准备开展一次整风运动。整风是用批评和自我批评解决党内矛盾的一种方法"
+  },
+  {
+   "file": "Text/Section0661.xhtml",
+   "title": "事情正在起变化",
+   "chars": 3860,
+   "footnote_links": 1,
+   "note_anchors": 1,
+   "images": 0,
+   "sample": "事情正在起变化 事情正在起变化 * （一九五七年五月十五日） 对立面的统一和斗争，是社会生活中普遍存在的。斗争的结果，走向自己的反面，建立新的统一，社会生活就前"
+  },
+  {
+   "file": "Text/Section0662.xhtml",
+   "title": "中国共产党是全中国人民的领导核心",
+   "chars": 242,
+   "footnote_links": 1,
+   "note_anchors": 1,
+   "images": 0,
+   "sample": "中国共产党是全中国人民的领导核心 中国共产党是 全中国人民的领导核心 * （一九五七年五月二十五日） 你们的会议开得很好。希望你们团结起来，作为全国青年的领导核"
+  },
+  {
+   "file": "Text/Section0663.xhtml",
+   "title": "组织力量反击右派分子的猖狂进攻",
+   "chars": 1297,
+   "footnote_links": 1,
+   "note_anchors": 1,
+   "images": 0,
+   "sample": "组织力量反击右派分子的猖狂进攻 组织力量 反击右派分子的猖狂进攻 * （一九五七年六月八日） 省市级机关和高等学校大鸣大放的时间，大约十五天左右即足。反动分子猖"
+  },
+  {
+   "file": "Text/Section0664.xhtml",
+   "title": "文汇报的资产阶级方向应当批判",
+   "chars": 3274,
+   "footnote_links": 1,
+   "note_anchors": 1,
+   "images": 0,
+   "sample": "文汇报的资产阶级方向应当批判 文汇报的资产阶级方向 应当批判 * （一九五七年七月一日） 自本报编辑部六月十四日发表《文汇报在一个时间内的资产阶级方向》以来，文"
+  },
+  {
+   "file": "Text/Section0665.xhtml",
+   "title": "打退资产阶级右派的进攻",
+   "chars": 9952,
+   "footnote_links": 3,
+   "note_anchors": 3,
+   "images": 0,
+   "sample": "打退资产阶级右派的进攻 打退资产阶级右派的进攻 * （一九五七年七月九日） 三月间，我在这个地方同党内的一些干部讲过一次话。从那个时候到现在，一百天了。这一百天"
+  },
+  {
+   "file": "Text/Section0666.xhtml",
+   "title": "一九五七年夏季的形势",
+   "chars": 5786,
+   "footnote_links": 2,
+   "note_anchors": 2,
+   "images": 0,
+   "sample": "一九五七年夏季的形势 一九五七年夏季的形势 * （一九五七年七月） 在我国社会主义革命时期，反共反人民反社会主义的资产阶级右派和人民的矛盾是敌我矛盾，是对抗性的"
+  },
+  {
+   "file": "Text/Section0667.xhtml",
+   "title": "做革命的促进派",
+   "chars": 8568,
+   "footnote_links": 4,
+   "note_anchors": 4,
+   "images": 0,
+   "sample": "做革命的促进派 做革命的促进派 * （一九五七年十月九日） 这次会议开得很好。这样扩大的中央全会，有省委和地委的同志参加，实际是三级干部会，对于明确方针，交流经"
+  },
+  {
+   "file": "Text/Section0668.xhtml",
+   "title": "坚定地相信群众的大多数",
+   "chars": 9755,
+   "footnote_links": 2,
+   "note_anchors": 2,
+   "images": 0,
+   "sample": "坚定地相信群众的大多数 坚定地相信群众的大多数 * （一九五七年十月十三日） 现在整风找出了一种形式，就是大鸣，大放，大辩论，大字报。这是群众创造的一种新形式，"
+  },
+  {
+   "file": "Text/Section0669.xhtml",
+   "title": "党内团结的辩证方法",
+   "chars": 1795,
+   "footnote_links": 1,
+   "note_anchors": 1,
+   "images": 0,
+   "sample": "党内团结的辩证方法 党内团结的辩证方法 * （一九五七年十一月十八日） 在团结问题上我想讲一点方法问题。我说对同志不管他是什么人，只要不是敌对分子，破坏分子，那"
+  },
+  {
+   "file": "Text/Section0670.xhtml",
+   "title": "一切反动派都是纸老虎",
+   "chars": 745,
+   "footnote_links": 0,
+   "note_anchors": 1,
+   "images": 0,
+   "sample": "一切反动派都是纸老虎 一切反动派都是纸老虎 （一九五七年十一月十八日） 一九四六年蒋介石开始向我们进攻的时候，我们许多同志一全国人民，都很忧虑：战争是不是能够打"
+  },
+  {
+   "file": "Text/Section07.xhtml",
+   "title": "社会主义革命和社会主义建设时期（二）",
+   "chars": 36,
+   "footnote_links": 0,
+   "note_anchors": 0,
+   "images": 0,
+   "sample": "社会主义革命和社会主义建设时期（二） 社会主义革命和社会主义建设时期（二）"
+  },
+  {
+   "file": "Text/Section0701.xhtml",
+   "title": "关于中国人民志愿军撤出朝鲜问题",
+   "chars": 1865,
+   "footnote_links": 5,
+   "note_anchors": 5,
+   "images": 0,
+   "sample": "关于中国人民志愿军撤出朝鲜问题 关于中国人民志愿军 撤出朝鲜问题 * （一九五八年一月二十四日） 金日成 〔1〕 首相同志： 一九五七年十二月十六日和二十五日两"
+  },
+  {
+   "file": "Text/Section0702.xhtml",
+   "title": "工作方法六十条（草案）",
+   "chars": 11583,
+   "footnote_links": 3,
+   "note_anchors": 3,
+   "images": 0,
+   "sample": "工作方法六十条（草案） 工作方法六十条（草案） * （一九五八年一月） 我国人民，在共产党领导下，一九五六年在社会主义所有制方面取得了基本的胜利，一九五七年发动"
+  },
+  {
+   "file": "Text/Section0703.xhtml",
+   "title": "在成都会议&lt;a class=\"zy\" href=\"#id1a\" id=\"id1\"&gt;〔1〕&lt;/a&gt;上的讲话",
+   "chars": 4521,
+   "footnote_links": 3,
+   "note_anchors": 3,
+   "images": 0,
+   "sample": "在成都会议<a class=\"zy\" href=\"#id1a\" id=\"id1\">〔1〕</a>上的讲话 在成都会议 〔1〕 上的讲话 * （一九五八年三月二十"
+  },
+  {
+   "file": "Text/Section0704.xhtml",
+   "title": "干部要以普通劳动者的姿态出现",
+   "chars": 2066,
+   "footnote_links": 1,
+   "note_anchors": 1,
+   "images": 0,
+   "sample": "干部要以普通劳动者的姿态出现 干部要以普通劳动者的 姿态出现 * （一九五八年五月二十日、二十三日） （一）讲一讲以普通劳动者的姿态出现的问题。这个问题所以要特"
+  },
+  {
+   "file": "Text/Section0705.xhtml",
+   "title": "要搞一点原子弹氢弹",
+   "chars": 321,
+   "footnote_links": 1,
+   "note_anchors": 1,
+   "images": 0,
+   "sample": "要搞一点原子弹氢弹 要搞一点原子弹氢弹 * （一九五八年六月二十一日） 我还是希望搞一点海军，空军搞得强一点。还有那个原子弹，听说就这么大一个东西，没有那个东西"
+  },
+  {
+   "file": "Text/Section0706.xhtml",
+   "title": "西藏要准备对付那里的可能的全局叛乱",
+   "chars": 884,
+   "footnote_links": 3,
+   "note_anchors": 3,
+   "images": 0,
+   "sample": "西藏要准备对付那里的可能的全局叛乱 西藏要准备对付 那里的可能的全局叛乱 * （一九五八年六月二十四日） 此件 〔1〕 请克诚 〔2〕 同志印发军委会议各同志，"
+  },
+  {
+   "file": "Text/Section0707.xhtml",
+   "title": "介绍一封信&lt;a class=\"zy\" href=\"#id1a\" id=\"id1\"&gt;〔1〕&lt;/a&gt;",
+   "chars": 1054,
+   "footnote_links": 4,
+   "note_anchors": 4,
+   "images": 0,
+   "sample": "介绍一封信<a class=\"zy\" href=\"#id1a\" id=\"id1\">〔1〕</a> 介绍一封信 〔1〕 * （一九五八年七月三日、三十日） 一 广"
+  },
+  {
+   "file": "Text/Section0708.xhtml",
+   "title": "同苏联驻华大使尤金的谈话&lt;a class=\"zy\" href=\"#id1a\" id=\"id1\"&gt;〔1〕&lt;/a&gt;",
+   "chars": 8628,
+   "footnote_links": 25,
+   "note_anchors": 25,
+   "images": 0,
+   "sample": "同苏联驻华大使尤金的谈话<a class=\"zy\" href=\"#id1a\" id=\"id1\">〔1〕</a> 同苏联驻华大使尤金的谈话 〔1〕 * （一九五八"
+  },
+  {
+   "file": "Text/Section0709.xhtml",
+   "title": "关于国际形势问题&lt;a class=\"zy\" href=\"#id1a\" id=\"id1\"&gt;〔1〕&lt;/a&gt;",
+   "chars": 9008,
+   "footnote_links": 22,
+   "note_anchors": 22,
+   "images": 0,
+   "sample": "关于国际形势问题<a class=\"zy\" href=\"#id1a\" id=\"id1\">〔1〕</a> 关于国际形势问题 〔1〕 * （一九五八年九月五日、八日"
+  },
+  {
+   "file": "Text/Section0710.xhtml",
+   "title": "中华人民共和国国防部告台湾同胞书",
+   "chars": 1501,
+   "footnote_links": 5,
+   "note_anchors": 5,
+   "images": 0,
+   "sample": "中华人民共和国国防部告台湾同胞书 中华人民共和国国防部 告台湾同胞书 * （一九五八年十月六日） 台湾、澎湖、金门、马祖军民同胞们： 我们都是中国人。三十六计，"
+  },
+  {
+   "file": "Text/Section0711.xhtml",
+   "title": "中华人民共和国国防部命令",
+   "chars": 962,
+   "footnote_links": 3,
+   "note_anchors": 3,
+   "images": 0,
+   "sample": "中华人民共和国国防部命令 中华人民共和国国防部命令 * （一九五八年十月十三日） 福建前线人民解放军同志们： 金门炮击，从本日起，再停两星期，借以观察敌方动态，"
+  },
+  {
+   "file": "Text/Section0712.xhtml",
+   "title": "中华人民共和国国防部再告台湾同胞书",
+   "chars": 1550,
+   "footnote_links": 4,
+   "note_anchors": 4,
+   "images": 0,
+   "sample": "中华人民共和国国防部再告台湾同胞书 中华人民共和国国防部 再告台湾同胞书 * （一九五八年十月二十五日） 台湾、澎湖、金门、马祖军民同胞们： 我们完全明白，你们"
+  },
+  {
+   "file": "Text/Section0713.xhtml",
+   "title": "关于社会主义商品生产问题&lt;a class=\"zy\" href=\"#id1a\" id=\"id1\"&gt;〔1〕&lt;/a&gt;",
+   "chars": 5215,
+   "footnote_links": 15,
+   "note_anchors": 15,
+   "images": 0,
+   "sample": "关于社会主义商品生产问题<a class=\"zy\" href=\"#id1a\" id=\"id1\">〔1〕</a> 关于社会主义商品生产问题 〔1〕 * （一九五八"
+  },
+  {
+   "file": "Text/Section0714.xhtml",
+   "title": "记者头脑要冷静",
+   "chars": 778,
+   "footnote_links": 1,
+   "note_anchors": 1,
+   "images": 0,
+   "sample": "记者头脑要冷静 记者头脑要冷静 * （一九五八年十一月二十一日） 做报纸工作的，做记者工作的，对遇到的问题要有分析，要有正确的看法、正确的态度。 矛盾有正面，有"
+  },
+  {
+   "file": "Text/Section0715.xhtml",
+   "title": "在武昌会议上的讲话",
+   "chars": 14731,
+   "footnote_links": 15,
+   "note_anchors": 15,
+   "images": 0,
+   "sample": "在武昌会议上的讲话 在武昌会议上的讲话 * （一九五八年十一月二十一日、二十三日） 一、十一月二十一日的讲话 ——死了人不能杀我的头 睡不着觉，心里有事。翻一番"
+  },
+  {
+   "file": "Text/Section0716.xhtml",
+   "title": "关于帝国主义和一切反动派是不是真老虎的问题",
+   "chars": 1995,
+   "footnote_links": 3,
+   "note_anchors": 3,
+   "images": 0,
+   "sample": "关于帝国主义和一切反动派是不是真老虎的问题 关于帝国主义和一切反动派 是不是真老虎的问题 * （一九五八年十二月一日） 这里我想回答帝国主义及一切反动派是不是真"
+  },
+  {
+   "file": "Text/Section0717.xhtml",
+   "title": "在八届六中全会上的讲话",
+   "chars": 5925,
+   "footnote_links": 0,
+   "note_anchors": 0,
+   "images": 0,
+   "sample": "在八届六中全会上的讲话 在八届六中全会上的讲话 （一九五八年十二月九日） 讲些意见，不是结论，决议就是这次会议的结论。 一、人民公社的出现，这是四月成都会议、五"
+  },
+  {
+   "file": "Text/Section0718.xhtml",
+   "title": "马列主义基本原理至今未变，个别结论可以改变",
+   "chars": 2784,
+   "footnote_links": 2,
+   "note_anchors": 2,
+   "images": 0,
+   "sample": "马列主义基本原理至今未变，个别结论可以改变 马列主义基本原理至今未变， 个别结论可以改变 * （一九五九年二月十四日） 马特：我有些理论问题不清楚，想在这里提一"
+  },
+  {
+   "file": "Text/Section0719.xhtml",
+   "title": "在第二次郑州会议上的讲话",
+   "chars": 9886,
+   "footnote_links": 9,
+   "note_anchors": 9,
+   "images": 0,
+   "sample": "在第二次郑州会议上的讲话 在第二次郑州会议上的讲话 * （一九五九年二月二十七日、二十八日、三月一日、三月五日） 一、二月二十七日的讲话 ——劳动人民的劳动成果"
+  },
+  {
+   "file": "Text/Section0720.xhtml",
+   "title": "党内通信——建议召开县五级干部大会",
+   "chars": 1559,
+   "footnote_links": 2,
+   "note_anchors": 2,
+   "images": 0,
+   "sample": "党内通信——建议召开县五级干部大会 党内通信 ——建议召开县五级干部大会 * （一九五九年三月十七日） 各省、市、区党委第一书记同志们： 关于县和公社的会议问题"
+  },
+  {
+   "file": "Text/Section0721.xhtml",
+   "title": "关于西藏平叛&lt;a class=\"zy\" href=\"#id1a\" id=\"id1\"&gt;〔1〕&lt;/a&gt;",
+   "chars": 5283,
+   "footnote_links": 14,
+   "note_anchors": 14,
+   "images": 0,
+   "sample": "关于西藏平叛<a class=\"zy\" href=\"#id1a\" id=\"id1\">〔1〕</a> 关于西藏平叛 〔1〕 * （一九五九年四月十五日） 有些人对"
+  },
+  {
+   "file": "Text/Section0722.xhtml",
+   "title": "党内通信——致六级干部的公开信",
+   "chars": 1707,
+   "footnote_links": 2,
+   "note_anchors": 2,
+   "images": 0,
+   "sample": "党内通信——致六级干部的公开信 党内通信 ——致六级干部的公开信 * （一九五九年四月二十九日） 省级、地级、县级、社级、队级、小队级的同志们： 我想和同志们商"
+  },
+  {
+   "file": "Text/Section0723.xhtml",
+   "title": "关于西藏问题和台湾问题",
+   "chars": 3084,
+   "footnote_links": 10,
+   "note_anchors": 10,
+   "images": 0,
+   "sample": "关于西藏问题和台湾问题 关于西藏问题和台湾问题 * （一九五九年五月十日） 我们有两个问题没有解决，西藏问题和台湾问题。现在开始解决西藏问题。西藏面积不小，有一"
+  },
+  {
+   "file": "Text/Section0724.xhtml",
+   "title": "经济建设是科学，要老老实实学习",
+   "chars": 1537,
+   "footnote_links": 2,
+   "note_anchors": 2,
+   "images": 0,
+   "sample": "经济建设是科学，要老老实实学习 经济建设是科学， 要老老实实学习 * （一九五九年六月十一日） 中国是个经济不发达的国家，工农业水平不高，有许多人是文盲。我们现"
+  },
+  {
+   "file": "Text/Section0725.xhtml",
+   "title": "要政治家办报",
+   "chars": 1102,
+   "footnote_links": 3,
+   "note_anchors": 3,
+   "images": 0,
+   "sample": "要政治家办报 要政治家办报 * （一九五九年六月十三日） 现在名气很糟。去年大出风头，今年不好，说我们是纸老虎，不讲信用。 这很好。 不仅敌人，而且朋友 〔1〕"
+  },
+  {
+   "file": "Text/Section0726.xhtml",
+   "title": "如实公开报道灾情",
+   "chars": 817,
+   "footnote_links": 4,
+   "note_anchors": 4,
+   "images": 0,
+   "sample": "如实公开报道灾情 如实公开报道灾情 * 一、如实公开报道灾情 （一九五九年六月二十日） 乔木、冷西 〔1〕 同志： 广东大雨，要如实公开报道。全国灾情，照样公开"
+  },
+  {
+   "file": "Text/Section0727.xhtml",
+   "title": "庐山会议&lt;a class=\"zy\" href=\"#id1a\" id=\"id1\"&gt;〔1〕&lt;/a&gt;讨论的十八个问题",
+   "chars": 4868,
+   "footnote_links": 10,
+   "note_anchors": 10,
+   "images": 0,
+   "sample": "庐山会议<a class=\"zy\" href=\"#id1a\" id=\"id1\">〔1〕</a>讨论的十八个问题 庐山会议 〔1〕 讨论的十八个问题 * （一九五"
+  },
+  {
+   "file": "Text/Section0728.xhtml",
+   "title": "在庐山会议上的多次讲话、批语",
+   "chars": 19236,
+   "footnote_links": 24,
+   "note_anchors": 24,
+   "images": 0,
+   "sample": "在庐山会议上的多次讲话、批语 在庐山会议上的 多次讲话、批语 （一九五九年七月十日、二十三日、二十六日、八月二日、十六日） 一、七月十日讲话 ——统一认识，搞好"
+  },
+  {
+   "file": "Text/Section0729.xhtml",
+   "title": "对彭德怀九月九日信&lt;a class=\"zy\" href=\"#id1a\" id=\"id1\"&gt;〔1〕&lt;/a&gt;的批示",
+   "chars": 1047,
+   "footnote_links": 2,
+   "note_anchors": 2,
+   "images": 0,
+   "sample": "对彭德怀九月九日信<a class=\"zy\" href=\"#id1a\" id=\"id1\">〔1〕</a>的批示 对彭德怀九月九日信 〔1〕 的批示 * （一九五"
+  },
+  {
+   "file": "Text/Section0730.xhtml",
+   "title": "争取比较长的和平时间是可能的",
+   "chars": 1691,
+   "footnote_links": 4,
+   "note_anchors": 4,
+   "images": 0,
+   "sample": "争取比较长的和平时间是可能的 争取比较长的和平时间 是可能的 * （一九五九年十月十八日） 整个国际形势是在好转。西方的高压政策、实力地位政策，或者说是冷战政策"
+  },
+  {
+   "file": "Text/Section0731.xhtml",
+   "title": "同澳共总书记夏基的谈话",
+   "chars": 3238,
+   "footnote_links": 7,
+   "note_anchors": 7,
+   "images": 0,
+   "sample": "同澳共总书记夏基的谈话 同澳共总书记夏基的谈话 （一九五九年十月二十六日） 你写的材料提出了如何过渡到社会主义的问题，说是同意中国同志对这个问题的看法。这是重大"
+  },
+  {
+   "file": "Text/Section0732.xhtml",
+   "title": "读苏联《政治经济学教科书》的谈话&lt;a class=\"zy\" href=\"#id1a\" id=\"id1\"&gt;〔1〕&lt;/a&gt;",
+   "chars": 30002,
+   "footnote_links": 54,
+   "note_anchors": 54,
+   "images": 0,
+   "sample": "读苏联《政治经济学教科书》的谈话<a class=\"zy\" href=\"#id1a\" id=\"id1\">〔1〕</a> 读苏联《政治经济学教科书》 的谈话 〔1"
+  },
+  {
+   "file": "Text/Section0733.xhtml",
+   "title": "坚决制止重刮“共产风”等违法乱纪行为",
+   "chars": 1473,
+   "footnote_links": 5,
+   "note_anchors": 5,
+   "images": 0,
+   "sample": "坚决制止重刮“共产风”等违法乱纪行为 坚决制止重刮“共产风” 等违法乱纪行为 * （一九六〇年三月二十三日） 各省、市、自治区党委，中央一级各部委、各党组： 此"
+  },
+  {
+   "file": "Text/Section0734.xhtml",
+   "title": "同蒙哥马利的谈话",
+   "chars": 8391,
+   "footnote_links": 17,
+   "note_anchors": 18,
+   "images": 0,
+   "sample": "同蒙哥马利的谈话 同蒙哥马利的谈话 （一九六〇年五月二十七日） 蒙哥马利（简称蒙）：我来到中国发现西方对中国的看法完全错误，他们以为中国人是受压抑的，很不愉快，"
+  },
+  {
+   "file": "Text/Section0735.xhtml",
+   "title": "十年总结",
+   "chars": 3294,
+   "footnote_links": 18,
+   "note_anchors": 18,
+   "images": 0,
+   "sample": "十年总结 十年总结 * （一九六〇年六月十八日） 前八年照抄外国的经验。但从一九五六年提出十大关系起，开始找到自己的一条适合中国的路线。 一九五七年反右整风斗争"
+  },
+  {
+   "file": "Text/Section0736.xhtml",
+   "title": "同斯诺&lt;a class=\"zy\" href=\"#id1a\" id=\"id1\"&gt;〔1〕&lt;/a&gt;的谈话——中国人的精神面貌改变了",
+   "chars": 6606,
+   "footnote_links": 13,
+   "note_anchors": 13,
+   "images": 0,
+   "sample": "同斯诺<a class=\"zy\" href=\"#id1a\" id=\"id1\">〔1〕</a>的谈话——中国人的精神面貌改变了 同斯诺 〔1〕 的谈话 ——中国人"
+  },
+  {
+   "file": "Text/Section0737.xhtml",
+   "title": "彻底纠正“五风”",
+   "chars": 2292,
+   "footnote_links": 5,
+   "note_anchors": 5,
+   "images": 0,
+   "sample": "彻底纠正“五风” 彻底纠正“五风” * （一九六〇年十一月十五日） 各中央局，各省委、市委、自治区党委： 发去湖北省委王任重同志报告 〔1〕 一件，湖北省沔阳县"
+  },
+  {
+   "file": "Text/Section0738.xhtml",
+   "title": "永远不许一平二调&lt;a class=\"zy\" href=\"#id1a\" id=\"id1\"&gt;〔1〕&lt;/a&gt;",
+   "chars": 1792,
+   "footnote_links": 4,
+   "note_anchors": 4,
+   "images": 0,
+   "sample": "永远不许一平二调<a class=\"zy\" href=\"#id1a\" id=\"id1\">〔1〕</a> 永远不许一平二调 〔1〕 * （一九六〇年十一月二十八日"
+  },
+  {
+   "file": "Text/Section0739.xhtml",
+   "title": "坚决退赔，刹住“共产风”",
+   "chars": 3116,
+   "footnote_links": 11,
+   "note_anchors": 11,
+   "images": 0,
+   "sample": "坚决退赔，刹住“共产风” 坚决退赔，刹住“共产风” * （一九六〇年十二月三十日） 退赔问题很重要，一定要认真退赔。大多数都要由各地自己退赔，县、社一定要拿出一"
+  },
+  {
+   "file": "Text/Section0740.xhtml",
+   "title": "大兴调查研究之风",
+   "chars": 4101,
+   "footnote_links": 6,
+   "note_anchors": 6,
+   "images": 0,
+   "sample": "大兴调查研究之风 大兴调查研究之风 * （一九六一年一月十三日） 这一次中央工作会议，开得比过去几次都要好一些，大家的头脑比较清醒一些。比如关于冷热结合这个问题"
+  },
+  {
+   "file": "Text/Section0741.xhtml",
+   "title": "要做系统的由历史到现状的调查研究",
+   "chars": 2409,
+   "footnote_links": 9,
+   "note_anchors": 9,
+   "images": 0,
+   "sample": "要做系统的由历史到现状的调查研究 要做系统的 由历史到现状的调查研究 * （一九六一年三月十三日） 这次会议要解决两个很重要的问题：一是生产队与生产队之间的平均"
+  },
+  {
+   "file": "Text/Section0742.xhtml",
+   "title": "总结经验，教育干部",
+   "chars": 4854,
+   "footnote_links": 19,
+   "note_anchors": 19,
+   "images": 0,
+   "sample": "总结经验，教育干部 总结经验，教育干部 * （一九六一年六月十二日） 两次郑州会议 〔1〕 开得仓促。我那时对中国社会主义如何搞还不甚懂。第一次就是搬斯大林，讲"
+  },
+  {
+   "file": "Text/Section0743.xhtml",
+   "title": "中国在联合国只能有一个代表",
+   "chars": 987,
+   "footnote_links": 3,
+   "note_anchors": 3,
+   "images": 0,
+   "sample": "中国在联合国只能有一个代表 中国在联合国 只能有一个代表 * （一九六一年六月十三日） 毛泽东主席（以下简称毛）：上一次总统来的时候，我曾经说过，因为联合国里有"
+  },
+  {
+   "file": "Text/Section0744.xhtml",
+   "title": "在七千人大会上的讲话——关于党的民主集中制",
+   "chars": 18292,
+   "footnote_links": 22,
+   "note_anchors": 22,
+   "images": 0,
+   "sample": "在七千人大会上的讲话——关于党的民主集中制 在七千人大会上的讲话 ——关于党的民主集中制 * （一九六二年一月三十日） 同志们，我现在讲几点意见。（热烈鼓掌）一"
+  },
+  {
+   "file": "Text/Section0745.xhtml",
+   "title": "在北戴河中央工作会议中心小组会上的讲话",
+   "chars": 4376,
+   "footnote_links": 4,
+   "note_anchors": 4,
+   "images": 0,
+   "sample": "在北戴河中央工作会议中心小组会上的讲话 在北戴河中央工作会议 中心小组会上的讲话 （一九六二年八月九日） 今天单讲共产党垮得了垮不了的问题。共产党垮了谁来？反正"
+  },
+  {
+   "file": "Text/Section0746.xhtml",
+   "title": "在八届十中全会上的讲话",
+   "chars": 5015,
+   "footnote_links": 8,
+   "note_anchors": 8,
+   "images": 0,
+   "sample": "在八届十中全会上的讲话 在八届十中全会上的讲话 * （一九六二年九月二十四日） 现在是十点钟，开会。 这次中央全会解决了几个重大问题。一是农业问题，二是商业问题"
+  },
+  {
+   "file": "Text/Section0747.xhtml",
+   "title": "干部参加劳动的伟大意义",
+   "chars": 1773,
+   "footnote_links": 2,
+   "note_anchors": 2,
+   "images": 0,
+   "sample": "干部参加劳动的伟大意义 干部参加劳动的伟大意义 * （一九六三年五月九日） 浙江省这七个材料 〔1〕 ，都是很好的。文字也不难看，建议发到各中央局、各省、地、县"
+  },
+  {
+   "file": "Text/Section0748.xhtml",
+   "title": "人的正确思想是从哪里来的？",
+   "chars": 1148,
+   "footnote_links": 1,
+   "note_anchors": 1,
+   "images": 0,
+   "sample": "人的正确思想是从哪里来的？ 人的正确思想是从哪里来的？ * （一九六三年五月二十日） 人的正确思想是从哪里来的？是从天上掉下来的吗？不是。是自己头脑里固有的吗？"
+  },
+  {
+   "file": "Text/Section0749.xhtml",
+   "title": "论反对官僚主义",
+   "chars": 2966,
+   "footnote_links": 2,
+   "note_anchors": 2,
+   "images": 0,
+   "sample": "论反对官僚主义 论反对官僚主义 * （一九六三年五月二十九日） 我们这些机关高高在上，官僚主义是容易犯的弊病，有了官僚主义，必然对上闹分裂主义。比如“跃进号” "
+  },
+  {
+   "file": "Text/Section0750.xhtml",
+   "title": "支持美国黑人反对种族歧视斗争的声明",
+   "chars": 1663,
+   "footnote_links": 3,
+   "note_anchors": 3,
+   "images": 0,
+   "sample": "支持美国黑人反对种族歧视斗争的声明 支持美国黑人 反对种族歧视斗争的声明 * （一九六三年八月八日） 现在在古巴避难的一位美国黑人领袖、美国全国有色人种协进会北"
+  },
+  {
+   "file": "Text/Section0751.xhtml",
+   "title": "受压迫的人民总是要起来的",
+   "chars": 2926,
+   "footnote_links": 3,
+   "note_anchors": 3,
+   "images": 0,
+   "sample": "受压迫的人民总是要起来的 受压迫的人民总是要起来的 * （一九六三年八月九日） 毛泽东：见到你们很高兴。昨天我见了一批非洲朋友。我们和你们谈得来，觉得平等。我们"
+  },
+  {
+   "file": "Text/Section0752.xhtml",
+   "title": "革命和建设都要靠自己",
+   "chars": 771,
+   "footnote_links": 1,
+   "note_anchors": 1,
+   "images": 0,
+   "sample": "革命和建设都要靠自己 革命和建设都要靠自己 * （一九六三年九月三日） 我们困难的时间只有两年半，就是一九六〇年、一九六一年和一九六二年上半年，一九六二年下半年"
+  },
+  {
+   "file": "Text/Section0753.xhtml",
+   "title": "关于文艺工作的批示",
+   "chars": 616,
+   "footnote_links": 3,
+   "note_anchors": 3,
+   "images": 0,
+   "sample": "关于文艺工作的批示 关于文艺工作的批示 * （一九六三年十二月十二日） 一 彭真、刘仁 〔1〕 同志： 此件 〔2〕 可一看，各种艺术形式——戏剧、曲艺、音乐、"
+  },
+  {
+   "file": "Text/Section0754.xhtml",
+   "title": "加强相互学习，克服固步自封、骄傲自满",
+   "chars": 1896,
+   "footnote_links": 3,
+   "note_anchors": 3,
+   "images": 0,
+   "sample": "加强相互学习，克服固步自封、骄傲自满 加强相互学习， 克服固步自封、骄傲自满 * （一九六三年十二月十三日） 各中央局，各省、市、区党委，军委，中央各人民团体党"
+  },
+  {
+   "file": "Text/Section0755.xhtml",
+   "title": "不搞科学技术，生产力无法提高",
+   "chars": 836,
+   "footnote_links": 4,
+   "note_anchors": 4,
+   "images": 0,
+   "sample": "不搞科学技术，生产力无法提高 不搞科学技术， 生产力无法提高 * （一九六三年十二月十六日） 社会科学也要有一个十年规划。社会科学落后了，这回没有搞规划。社会科"
+  },
+  {
+   "file": "Text/Section0756.xhtml",
+   "title": "我国还可能要走一段资本主义复辟的道路",
+   "chars": 1786,
+   "footnote_links": 3,
+   "note_anchors": 3,
+   "images": 0,
+   "sample": "我国还可能要走一段资本主义复辟的道路 我国还可能要走一段 资本主义复辟的道路 * （一九六四年一月） 如果我们和我们的后代不能时刻提高警惕，不能逐步提高人民群众"
+  },
+  {
+   "file": "Text/Section0757.xhtml",
+   "title": "中法之间有共同点",
+   "chars": 3324,
+   "footnote_links": 8,
+   "note_anchors": 8,
+   "images": 0,
+   "sample": "中法之间有共同点 中法之间有共同点 * （一九六四年一月三十日） 欢迎你们。我们做个朋友，做个好朋友。你们不是共产党，我也不是你们的党；我们反对资本主义，你们也"
+  },
+  {
+   "file": "Text/Section0758.xhtml",
+   "title": "关于教育革命的谈话",
+   "chars": 2151,
+   "footnote_links": 1,
+   "note_anchors": 1,
+   "images": 0,
+   "sample": "关于教育革命的谈话 关于教育革命的谈话 * （一九六四年二月十三日、一九六五年十二月二十一日） 我早就说过，我们的教育方针，应该使受教育者在德育、智育、体育几方"
+  },
+  {
+   "file": "Text/Section0759.xhtml",
+   "title": "以农业为基础，以工业为主导",
+   "chars": 4060,
+   "footnote_links": 4,
+   "note_anchors": 4,
+   "images": 0,
+   "sample": "以农业为基础，以工业为主导 以农业为基础，以工业为主导 * （一九六四年六月六日、六月八日、六月十六日） 一、六月六日的讲话 ——以农业为基础，以工业为主导 制"
+  },
+  {
+   "file": "Text/Section0760.xhtml",
+   "title": "支持被压迫人民反对帝国主义的战争",
+   "chars": 3545,
+   "footnote_links": 11,
+   "note_anchors": 11,
+   "images": 0,
+   "sample": "支持被压迫人民反对帝国主义的战争 支持被压迫人民 反对帝国主义的战争 * （一九六四年六月二十三日） 打仗对我们没有好处。我们要进行建设，打仗就会把我们进行的建"
+  },
+  {
+   "file": "Text/Section0761.xhtml",
+   "title": "和王海蓉&lt;a class=\"zy\" href=\"#id1a\" id=\"id1\"&gt;〔1〕&lt;/a&gt;同志的谈话",
+   "chars": 1596,
+   "footnote_links": 3,
+   "note_anchors": 3,
+   "images": 0,
+   "sample": "和王海蓉<a class=\"zy\" href=\"#id1a\" id=\"id1\">〔1〕</a>同志的谈话 和王海蓉 〔1〕 同志的谈话 * （一九六四年六月二十"
+  },
+  {
+   "file": "Text/Section0762.xhtml",
+   "title": "哪里有压迫哪里就有反抗",
+   "chars": 4195,
+   "footnote_links": 10,
+   "note_anchors": 10,
+   "images": 0,
+   "sample": "哪里有压迫哪里就有反抗 哪里有压迫哪里就有反抗 * （一九六四年七月九日） 亚非拉人民斗争的前途，这是大家关心的问题。如果要看前途，一定要看历史。从亚洲、非洲、"
+  },
+  {
+   "file": "Text/Section0763.xhtml",
+   "title": "接见日本社会党人士的谈话",
+   "chars": 8742,
+   "footnote_links": 6,
+   "note_anchors": 6,
+   "images": 0,
+   "sample": "接见日本社会党人士的谈话 接见日本社会党人士的谈话 * （一九六四年七月十日） 毛泽东主席：欢迎朋友们。对日本朋友，十分欢迎。我们两国人民应当团结，反对共同敌人"
+  },
+  {
+   "file": "Text/Section0764.xhtml",
+   "title": "关于九评苏共中央的公开信的节录",
+   "chars": 5500,
+   "footnote_links": 4,
+   "note_anchors": 4,
+   "images": 0,
+   "sample": "关于九评苏共中央的公开信的节录 关于九评苏共中央的公开信的节录 * （一九六三年、一九六四年） 一、关于斯大林问题 ——二评苏共中央的公开信 （一九六三年九月十"
+  },
+  {
+   "file": "Text/Section0765.xhtml",
+   "title": "中华人民共和国政府声明",
+   "chars": 1792,
+   "footnote_links": 1,
+   "note_anchors": 1,
+   "images": 0,
+   "sample": "中华人民共和国政府声明 中华人民共和国政府声明 * （一九六四年十月十六日） 一九六四年十月十六日十五时，中国爆炸了一颗原子弹，成功地进行了第一次核试验。这是中"
+  },
+  {
+   "file": "Text/Section0766.xhtml",
+   "title": "打破核垄断，消灭核武器",
+   "chars": 3841,
+   "footnote_links": 3,
+   "note_anchors": 3,
+   "images": 0,
+   "sample": "打破核垄断，消灭核武器 打破核垄断，消灭核武器 * （一九六四年十月二十二日） 我国成功地爆炸了第一颗原子弹以后，在全世界引起了巨大的反响。一切反对帝国主义、爱"
+  },
+  {
+   "file": "Text/Section0767.xhtml",
+   "title": "中国的大跃进",
+   "chars": 1024,
+   "footnote_links": 3,
+   "note_anchors": 3,
+   "images": 0,
+   "sample": "中国的大跃进 中国的大跃进 * （一九六三年九月、一九六四年十二月） 一 〔1〕 我国从十九世纪四十年代起，到二十世纪四十年代中期，共计一百零五年时间，全世界几"
+  },
+  {
+   "file": "Text/Section0768.xhtml",
+   "title": "同斯诺&lt;a class=\"zy\" href=\"#id1a\" id=\"id1\"&gt;〔1〕&lt;/a&gt;的谈话——关于越南战争",
+   "chars": 13180,
+   "footnote_links": 34,
+   "note_anchors": 34,
+   "images": 0,
+   "sample": "同斯诺<a class=\"zy\" href=\"#id1a\" id=\"id1\">〔1〕</a>的谈话——关于越南战争 同斯诺 〔1〕 的谈话 ——关于越南战争 *"
+  },
+  {
+   "file": "Text/Section0769.xhtml",
+   "title": "官僚主义者阶级是革命对象",
+   "chars": 400,
+   "footnote_links": 3,
+   "note_anchors": 3,
+   "images": 0,
+   "sample": "官僚主义者阶级是革命对象 官僚主义者阶级是革命对象 * （一九六五年一月二十九日） 管理也是社教。如果管理人员不到车间小组搞三同，拜老师学一门至几门手艺，那就一"
+  },
+  {
+   "file": "Text/Section0770.xhtml",
+   "title": "我们希望阿拉伯国家团结起来",
+   "chars": 1875,
+   "footnote_links": 4,
+   "note_anchors": 4,
+   "images": 0,
+   "sample": "我们希望阿拉伯国家团结起来 我们希望阿拉伯国家 团结起来 * （一九六五年三月二十三日） 亚洲所有的革命者和政党应当团结起来，反对帝国主义。一两个国家的力量是不"
+  },
+  {
+   "file": "Text/Section0771.xhtml",
+   "title": "把医疗卫生工作的重点放到农村去",
+   "chars": 810,
+   "footnote_links": 3,
+   "note_anchors": 3,
+   "images": 0,
+   "sample": "把医疗卫生工作的重点放到农村去 把医疗卫生工作的重点 放到农村去 * （一九六五年六月二十六日） 告诉卫生部，卫生部的工作只给全国人口的百分之十五工作，而这百分"
+  },
+  {
+   "file": "Text/Section0772.xhtml",
+   "title": "人民给政府饭吃，吃了饭就要为人民服务",
+   "chars": 2512,
+   "footnote_links": 4,
+   "note_anchors": 4,
+   "images": 0,
+   "sample": "人民给政府饭吃，吃了饭就要为人民服务 人民给政府饭吃， 吃了饭就要为人民服务 * （一九六五年八月八日） 毛泽东主席：你们是从几内亚来的？ 贡代·塞杜 〔1〕 "
+  },
+  {
+   "file": "Text/Section0773.xhtml",
+   "title": "胜利的信念是从斗争中得来的",
+   "chars": 2069,
+   "footnote_links": 4,
+   "note_anchors": 4,
+   "images": 0,
+   "sample": "胜利的信念是从斗争中得来的 胜利的信念 是从斗争中得来的 * （一九六五年十月二十日） 你们的仗打得很好，南方和北方都打得很好。全世界人民都支持你们，包括那些已"
+  },
+  {
+   "file": "Text/Section0774.xhtml",
+   "title": "突出政治，反对折衷主义",
+   "chars": 2676,
+   "footnote_links": 2,
+   "note_anchors": 2,
+   "images": 0,
+   "sample": "突出政治，反对折衷主义 突出政治，反对折衷主义 * （一九六五年十二月二日） 我认为这是突出政治和反对突出政治的斗争深入发展到一个新的阶段。现在公开站出来反对突"
+  },
+  {
+   "file": "Text/Section0775.xhtml",
+   "title": "上面要靠党的领导，下面要靠广大群众",
+   "chars": 801,
+   "footnote_links": 2,
+   "note_anchors": 2,
+   "images": 0,
+   "sample": "上面要靠党的领导，下面要靠广大群众 上面要靠党的领导， 下面要靠广大群众 * （一九六五年十二月二十一日） 今后的几十年对祖国的前途和人类的命运是多宝贵而重要的"
+  },
+  {
+   "file": "Text/Section08.xhtml",
+   "title": "文化大革命时期",
+   "chars": 14,
+   "footnote_links": 0,
+   "note_anchors": 0,
+   "images": 0,
+   "sample": "文化大革命时期 文化大革命时期"
+  },
+  {
+   "file": "Text/Section0801.xhtml",
+   "title": "关于农业机械化——备战备荒为人民",
+   "chars": 1627,
+   "footnote_links": 5,
+   "note_anchors": 5,
+   "images": 0,
+   "sample": "关于农业机械化——备战备荒为人民 关于农业机械化 ——备战备荒为人民 * （一九六六年三月十二日） 少奇同志： 三月十一日信 〔1〕 收到。小计委 〔2〕 派人"
+  },
+  {
+   "file": "Text/Section0802.xhtml",
+   "title": "在中央政治局常委扩大会议上的讲话",
+   "chars": 9617,
+   "footnote_links": 19,
+   "note_anchors": 19,
+   "images": 0,
+   "sample": "在中央政治局常委扩大会议上的讲话 在中央政治局 常委扩大会议上的讲话 * （一九六六年三月二十日） （一）关于不参加苏共二十三大 苏联二十三大我们不参加了。苏联"
+  },
+  {
+   "file": "Text/Section0803.xhtml",
+   "title": "对中宣部和北京市委的批评",
+   "chars": 4009,
+   "footnote_links": 9,
+   "note_anchors": 9,
+   "images": 0,
+   "sample": "对中宣部和北京市委的批评 对中宣部和北京市委的批评 * （一九六六年三月、四月） （一）一九六六年三月十七日到二十日的谈话 我们在解放以后，对知识分子实行包下来"
+  },
+  {
+   "file": "Text/Section0804.xhtml",
+   "title": "学校一律要实行半工半读",
+   "chars": 1317,
+   "footnote_links": 4,
+   "note_anchors": 4,
+   "images": 0,
+   "sample": "学校一律要实行半工半读 学校一律要实行半工半读 * （一九六六年四月十四日） 一切学校和学科（小学、中学、大学、军事学校、医学院校、文艺院校以及其他学校例如党校"
+  },
+  {
+   "file": "Text/Section0805.xhtml",
+   "title": "部队文艺工作座谈会纪要",
+   "chars": 12193,
+   "footnote_links": 13,
+   "note_anchors": 13,
+   "images": 0,
+   "sample": "部队文艺工作座谈会纪要 部队文艺工作座谈会纪要 * （一九六六年四月十日） 一、十六年来，文化战线上存在着尖锐的阶级斗争。事实上，在我国革命的两个阶段，即新民主"
+  },
+  {
+   "file": "Text/Section0806.xhtml",
+   "title": "为什么要搞文化大革命",
+   "chars": 2951,
+   "footnote_links": 3,
+   "note_anchors": 3,
+   "images": 0,
+   "sample": "为什么要搞文化大革命 为什么要搞文化大革命 * （一九六六年五月五日） 事物的发展是不以人的意志为转移的。马克思、恩格斯就没有料到手创的社会民主党在他们死后被他"
+  },
+  {
+   "file": "Text/Section0807.xhtml",
+   "title": "各行各业均应一业为主兼学别样——五·七指示",
+   "chars": 1580,
+   "footnote_links": 4,
+   "note_anchors": 4,
+   "images": 0,
+   "sample": "各行各业均应一业为主兼学别样——五·七指示 各行各业均应一业为主 兼学别样——五·七指示 * （一九六六年五月七日） 林彪 〔1〕 同志： 你在五月六日寄来总后"
+  },
+  {
+   "file": "Text/Section0808.xhtml",
+   "title": "中国共产党中央委员会通知——五·一六通知",
+   "chars": 15749,
+   "footnote_links": 5,
+   "note_anchors": 5,
+   "images": 0,
+   "sample": "中国共产党中央委员会通知——五·一六通知 中国共产党中央委员会通知 ——五·一六通知 * （一九六六年五月十六日） 各中央局，各省、市、自治区党委，中央各部委，"
+  },
+  {
+   "file": "Text/Section0809.xhtml",
+   "title": "同胡志明的谈话——不搞清官贪官，搞文化大革命",
+   "chars": 2474,
+   "footnote_links": 5,
+   "note_anchors": 5,
+   "images": 0,
+   "sample": "同胡志明的谈话——不搞清官贪官，搞文化大革命 同胡志明的谈话—— 不搞清官贪官，搞文化大革命 * （一九六六年六月十日） （一） 毛泽东：一切事物都是一分为二，"
+  },
+  {
+   "file": "Text/Section0810.xhtml",
+   "title": "给江青的信",
+   "chars": 2124,
+   "footnote_links": 8,
+   "note_anchors": 8,
+   "images": 0,
+   "sample": "给江青的信 给江青的信 * （一九六六年七月八日） 江青 〔1〕 ： 六月廿九日的信收到。你还是照魏、陈二同志 〔2〕 的意见在那里住一会儿为好。我本月有两次外"
+  },
+  {
+   "file": "Text/Section0811.xhtml",
+   "title": "凡是镇压学生运动的人，都没有好下场",
+   "chars": 3170,
+   "footnote_links": 4,
+   "note_anchors": 4,
+   "images": 0,
+   "sample": "凡是镇压学生运动的人，都没有好下场 凡是镇压学生运动的人， 都没有好下场 * （一九六六年七月十九月） 五月二十五日聂元梓大字报 〔1〕 是二十世纪六十年代中国"
+  },
+  {
+   "file": "Text/Section0812.xhtml",
+   "title": "工作组要撤，文化革命要依靠革命师生",
+   "chars": 2809,
+   "footnote_links": 7,
+   "note_anchors": 7,
+   "images": 0,
+   "sample": "工作组要撤，文化革命要依靠革命师生 工作组要撤， 文化革命要依靠革命师生 * （一九六六年七月二十四日） 开两个会，一个是大区书记参加的中央工作会，另一个是起草"
+  },
+  {
+   "file": "Text/Section0813.xhtml",
+   "title": "给清华大学附属中学红卫兵的信",
+   "chars": 794,
+   "footnote_links": 3,
+   "note_anchors": 3,
+   "images": 0,
+   "sample": "给清华大学附属中学红卫兵的信 给清华大学附属中学 红卫兵的信 * （一九六六年八月一日） 清华大学附属中学红卫兵同志们： 你们在七月二十八日寄给我的两张大字报 "
+  },
+  {
+   "file": "Text/Section0814.xhtml",
+   "title": "不许镇压学生运动",
+   "chars": 1578,
+   "footnote_links": 5,
+   "note_anchors": 5,
+   "images": 0,
+   "sample": "不许镇压学生运动 不许镇压学生运动 * （一九六六年八月四日） 在前清时代，以后是北洋军阀，后来是国民党，都是镇压学生运动的。现在到共产党也镇压学生运动 〔1〕"
+  },
+  {
+   "file": "Text/Section0815.xhtml",
+   "title": "炮打司令部——我的一张大字报",
+   "chars": 2339,
+   "footnote_links": 5,
+   "note_anchors": 5,
+   "images": 0,
+   "sample": "炮打司令部——我的一张大字报 炮打司令部—— 我的一张大字报 * （一九六六年八月五日） 全国第一张马列主义大字报和人民日报评论员的评论 〔1〕 ，写得何等好啊"
+  },
+  {
+   "file": "Text/Section0816.xhtml",
+   "title": "中国共产党中央委员会关于无产阶级文化大革命的决定",
+   "chars": 5117,
+   "footnote_links": 1,
+   "note_anchors": 1,
+   "images": 0,
+   "sample": "中国共产党中央委员会关于无产阶级文化大革命的决定 中国共产党中央委员会 关于无产阶级文化大革命的决定 * （一九六六年八月八日） 一、社会主义革命的新阶段 当前"
+  },
+  {
+   "file": "Text/Section0817.xhtml",
+   "title": "在中共八届十一中全会闭幕会上的讲话",
+   "chars": 783,
+   "footnote_links": 1,
+   "note_anchors": 1,
+   "images": 0,
+   "sample": "在中共八届十一中全会闭幕会上的讲话 在中共八届十一中全会 闭幕会上的讲话 * （一九六六年八月十二日） 关于第九次大会的问题，恐怕要准备一下。第九次大会什么时候"
+  },
+  {
+   "file": "Text/Section0818.xhtml",
+   "title": "对四位外国专家的大字报的批语",
+   "chars": 1101,
+   "footnote_links": 3,
+   "note_anchors": 3,
+   "images": 0,
+   "sample": "对四位外国专家的大字报的批语 对四位外国专家的 大字报的批语 * （一九六六年九月八日） 林彪、总理、陈毅、陶铸、伯达 〔1〕 五同志： 我同意这张大字报 〔2"
+  },
+  {
+   "file": "Text/Section0819.xhtml",
+   "title": "驻外机关也要革命化",
+   "chars": 810,
+   "footnote_links": 3,
+   "note_anchors": 3,
+   "images": 0,
+   "sample": "驻外机关也要革命化 驻外机关也要革命化 * （一九六六年九月九日） 退陈毅 〔1〕 同志： 这个批评文件 〔2〕 写得很好，值得一切驻外机关注意，来一个革命化，"
+  },
+  {
+   "file": "Text/Section0820.xhtml",
+   "title": "在中央工作会议上的讲话",
+   "chars": 11121,
+   "footnote_links": 25,
+   "note_anchors": 26,
+   "images": 0,
+   "sample": "在中央工作会议上的讲话 在中央工作会议上的讲话 * （一九六六年十月二十四日、二十五日） （一）十月二十四日的讲话 你们有什么可怕的呢？你们看了李雪峰 〔1〕 "
+  },
+  {
+   "file": "Text/Section0821.xhtml",
+   "title": "斗争要文明些，坚持文斗，不用武斗",
+   "chars": 655,
+   "footnote_links": 3,
+   "note_anchors": 3,
+   "images": 0,
+   "sample": "斗争要文明些，坚持文斗，不用武斗 斗争要文明些， 坚持文斗，不用武斗 * （一九六六年十二月二十七日） （一）一九六六年十二月二十七日的信 恩来 〔1〕 同志："
+  },
+  {
+   "file": "Text/Section0822.xhtml",
+   "title": "对刘少奇到学校做公开检查的批示",
+   "chars": 276,
+   "footnote_links": 3,
+   "note_anchors": 3,
+   "images": 0,
+   "sample": "对刘少奇到学校做公开检查的批示 对刘少奇到学校 做公开检查的批示 * （一九六七年一月六日） 总理： 此件请你酌处。我看还是不宜去讲。请你向学生方面做些工作 〔"
+  },
+  {
+   "file": "Text/Section0823.xhtml",
+   "title": "对《文汇报》、《解放日报》夺权事件的谈话",
+   "chars": 3759,
+   "footnote_links": 6,
+   "note_anchors": 6,
+   "images": 0,
+   "sample": "对《文汇报》、《解放日报》夺权事件的谈话 对《文汇报》、《解放日报》 夺权事件的谈话 * （一九六七年一月八日） 《文汇报》现在左派夺了权，四号造了反，《解放日"
+  },
+  {
+   "file": "Text/Section0824.xhtml",
+   "title": "论夺权",
+   "chars": 1795,
+   "footnote_links": 3,
+   "note_anchors": 3,
+   "images": 0,
+   "sample": "论夺权 论夺权 * （一九六七年一月） （一）在中共中央政治局常委扩大会议上的讲话摘要 （一九六七年一月十六日） 我们的干部十几年来有些人变质了。 左派群众起来"
+  },
+  {
+   "file": "Text/Section0825.xhtml",
+   "title": "人民解放军应该支持左派广大群众",
+   "chars": 2113,
+   "footnote_links": 5,
+   "note_anchors": 5,
+   "images": 0,
+   "sample": "人民解放军应该支持左派广大群众 人民解放军应该支持 左派广大群众 * （一九六七年一月二十一日） 林彪 〔2〕 同志： 应派军队支持左派广大群众 〔3〕 。请酌"
+  },
+  {
+   "file": "Text/Section0826.xhtml",
+   "title": "接见卡博和巴卢库时的谈话",
+   "chars": 5569,
+   "footnote_links": 12,
+   "note_anchors": 12,
+   "images": 0,
+   "sample": "接见卡博和巴卢库时的谈话 接见卡博和巴卢库时的谈话 * （一九六七年二月三日） 毛泽东：什么时候谢胡 〔1〕 同志到中国来的呀？ 周恩来：去年五月。 毛泽东：去"
+  },
+  {
+   "file": "Text/Section0827.xhtml",
+   "title": "对上海文化大革命的指示",
+   "chars": 8716,
+   "footnote_links": 9,
+   "note_anchors": 9,
+   "images": 0,
+   "sample": "对上海文化大革命的指示 对上海文化大革命的指示 * （一九六七年二月十二日、十八日） （一） 二月至四月是无产阶级文化大革命的关键时刻。这三个月中，文化大革命要"
+  },
+  {
+   "file": "Text/Section0828.xhtml",
+   "title": "批评“二月逆流”&lt;a class=\"zy\" href=\"#id1a\" id=\"id1\"&gt;〔1〕&lt;/a&gt;",
+   "chars": 4926,
+   "footnote_links": 4,
+   "note_anchors": 4,
+   "images": 0,
+   "sample": "批评“二月逆流”<a class=\"zy\" href=\"#id1a\" id=\"id1\">〔1〕</a> 批评“二月逆流” 〔1〕 * （一九六七年二月十八日） "
+  },
+  {
+   "file": "Text/Section0829.xhtml",
+   "title": "论革命的“三结合”",
+   "chars": 1891,
+   "footnote_links": 7,
+   "note_anchors": 7,
+   "images": 0,
+   "sample": "论革命的“三结合” 论革命的“三结合” * （一九六七年三月、四月、十月） （一）一九六七年三月七日——论革命的“三结合” 〔1〕 在需要夺权的那些地方和单位，"
+  },
+  {
+   "file": "Text/Section0830.xhtml",
+   "title": "关于两条路线斗争的基本问题",
+   "chars": 279,
+   "footnote_links": 1,
+   "note_anchors": 1,
+   "images": 0,
+   "sample": "关于两条路线斗争的基本问题 关于两条路线斗争 的基本问题 * （一九六七年三月） 我们党内两条路线斗争，基本问题是在无产阶级夺取政权之以后，即新民主主义革命胜利"
+  },
+  {
+   "file": "Text/Section0831.xhtml",
+   "title": "是义和团侵略了帝国主义了吗？",
+   "chars": 2522,
+   "footnote_links": 2,
+   "note_anchors": 2,
+   "images": 0,
+   "sample": "是义和团侵略了帝国主义了吗？ 是义和团侵略了 帝国主义了吗？ * （一九六七年三月二十三日） 究竟是中国组织义和团跑到欧美、日本帝国主义国家去造反、去“杀人放火"
+  },
+  {
+   "file": "Text/Section0832.xhtml",
+   "title": "中央军委关于支左工作十条命令",
+   "chars": 1119,
+   "footnote_links": 1,
+   "note_anchors": 2,
+   "images": 0,
+   "sample": "中央军委关于支左工作十条命令 中央军委 关于支左工作十条命令 * （一九六七年四月六日） 一、对群众组织，无论是革命的，或者被反动分子控制的，或者情况不清楚的，"
+  },
+  {
+   "file": "Text/Section0833.xhtml",
+   "title": "接见阿尔巴尼亚军事代表团时的谈话",
+   "chars": 4822,
+   "footnote_links": 8,
+   "note_anchors": 8,
+   "images": 0,
+   "sample": "接见阿尔巴尼亚军事代表团时的谈话 接见阿尔巴尼亚 军事代表团时的谈话 * （一九六七年五月一日） 我在一九六二年七千人大会 〔1〕 上曾经讲过：“马列主义与修正"
+  },
+  {
+   "file": "Text/Section0834.xhtml",
+   "title": "论无产阶级专政下继续革命",
+   "chars": 2297,
+   "footnote_links": 3,
+   "note_anchors": 3,
+   "images": 0,
+   "sample": "论无产阶级专政下继续革命 论无产阶级专政下继续革命 * （一九六七年五月、十一月） （一） 〔1〕 无产阶级专政条件下还要不要革命？ 在社会主义社会里，特别是在"
+  },
+  {
+   "file": "Text/Section0835.xhtml",
+   "title": "在听了氢弹会议汇报后的讲话",
+   "chars": 1573,
+   "footnote_links": 2,
+   "note_anchors": 2,
+   "images": 0,
+   "sample": "在听了氢弹会议汇报后的讲话 在听了氢弹会议 汇报后的讲话 * （一九六七年六月、七月） （一）（一九六七午六月十八日） 有些外国人对我们《北京周报》、新华社的对"
+  },
+  {
+   "file": "Text/Section0836.xhtml",
+   "title": "视察华北、中南和华东地区时的重要指示",
+   "chars": 2377,
+   "footnote_links": 2,
+   "note_anchors": 2,
+   "images": 0,
+   "sample": "视察华北、中南和华东地区时的重要指示 视察华北、中南和 华东地区时的重要指示 * （一九六七年十月） （一）关于形势 七、八、九三个月，形势发展很快。全国的无产"
+  },
+  {
+   "file": "Text/Section0837.xhtml",
+   "title": "接见刚果（布）&lt;a class=\"zy\" href=\"#id1a\" id=\"id1\"&gt;〔1〕&lt;/a&gt;总理努马扎莱的谈话",
+   "chars": 1188,
+   "footnote_links": 2,
+   "note_anchors": 2,
+   "images": 0,
+   "sample": "接见刚果（布）<a class=\"zy\" href=\"#id1a\" id=\"id1\">〔1〕</a>总理努马扎莱的谈话 接见刚果（布） 〔1〕 总理 努马扎莱的"
+  },
+  {
+   "file": "Text/Section0838.xhtml",
+   "title": "关于“九大”和整党问题的谈话",
+   "chars": 3430,
+   "footnote_links": 7,
+   "note_anchors": 6,
+   "images": 0,
+   "sample": "关于“九大”和整党问题的谈话 关于“九大”和整党问题的谈话 * （一九六七年十一月五日） 今天还是谈九大和整党问题。 关于九大问题，第一批反映已经来了，可否综合"
+  },
+  {
+   "file": "Text/Section0839.xhtml",
+   "title": "祝贺越南南方民族解放阵线成立七周年的电报",
+   "chars": 725,
+   "footnote_links": 3,
+   "note_anchors": 3,
+   "images": 0,
+   "sample": "祝贺越南南方民族解放阵线成立七周年的电报 祝贺越南南方民族解放阵线 成立七周年的电报 * （一九六七年十二月十九日） 阮友寿 〔1〕 主席： 在越南南方民族解放"
+  },
+  {
+   "file": "Text/Section0840.xhtml",
+   "title": "关于国家机关的改革和革命委员会的基本经验",
+   "chars": 1134,
+   "footnote_links": 5,
+   "note_anchors": 5,
+   "images": 0,
+   "sample": "关于国家机关的改革和革命委员会的基本经验 关于国家机关的改革 和革命委员会的基本经验 * （一九六八年二月、三月、八月） （一）（一九六八年二月） 〔1〕 大办"
+  },
+  {
+   "file": "Text/Section0841.xhtml",
+   "title": "支持美国黑人抗暴斗争的声明",
+   "chars": 1466,
+   "footnote_links": 1,
+   "note_anchors": 1,
+   "images": 0,
+   "sample": "支持美国黑人抗暴斗争的声明 支持美国黑人 抗暴斗争的声明 （一九六八年四月十六日） 最近，美国黑人牧师马丁·路德·金 〔1〕 突然被美帝国主义者暗杀。马丁·路德"
+  },
+  {
+   "file": "Text/Section0842.xhtml",
+   "title": "学校教育革命的方向——要和工农兵结合",
+   "chars": 7610,
+   "footnote_links": 5,
+   "note_anchors": 5,
+   "images": 0,
+   "sample": "学校教育革命的方向——要和工农兵结合 学校教育革命的方向 ——要和工农兵结合 （一九六八年七、八、九月） （一）（一九六八年七月二十二日） 〔1〕 大学还是要办"
+  },
+  {
+   "file": "Text/Section0843.xhtml",
+   "title": "接见首都红代会“五大领袖”&lt;a class=\"zy\" href=\"#id1a\" id=\"id1\"&gt;〔1〕&lt;/a&gt;时的谈话",
+   "chars": 20401,
+   "footnote_links": 19,
+   "note_anchors": 19,
+   "images": 0,
+   "sample": "接见首都红代会“五大领袖”<a class=\"zy\" href=\"#id1a\" id=\"id1\">〔1〕</a>时的谈话 接见首都红代会 “五大领袖” 〔1〕 "
+  },
+  {
+   "file": "Text/Section0844.xhtml",
+   "title": "医学教育革命的方向——赤脚医生就是好",
+   "chars": 2626,
+   "footnote_links": 2,
+   "note_anchors": 2,
+   "images": 0,
+   "sample": "医学教育革命的方向——赤脚医生就是好 医学教育革命的方向 ——赤脚医生就是好 * （一九六八年九月十四日） （一） 这个从城里下到农村的医生证明，从旧学校培养的"
+  },
+  {
+   "file": "Text/Section0845.xhtml",
+   "title": "广大干部下放劳动是一种重新学习的极好机会",
+   "chars": 1771,
+   "footnote_links": 2,
+   "note_anchors": 2,
+   "images": 0,
+   "sample": "广大干部下放劳动是一种重新学习的极好机会 广大干部下放劳动 是一种重新学习的极好机会 * （一九六八年九月三十日） 此件似可在人民日报发表。广大干部下放劳动，这"
+  },
+  {
+   "file": "Text/Section0846.xhtml",
+   "title": "在中共八届扩大的十二中全会上的讲话",
+   "chars": 7997,
+   "footnote_links": 18,
+   "note_anchors": 19,
+   "images": 0,
+   "sample": "在中共八届扩大的十二中全会上的讲话 在中共八届扩大的 十二中全会上的讲话 （一九六八年十月十三日、三十一日） （一）（一九六八年十月一十三日开幕式上的讲话） 会"
+  },
+  {
+   "file": "Text/Section0847.xhtml",
+   "title": "赞成越南又打又谈的方针",
+   "chars": 2226,
+   "footnote_links": 4,
+   "note_anchors": 4,
+   "images": 0,
+   "sample": "赞成越南又打又谈的方针 赞成越南又打又谈的方针 * （一九六八年十一月十七日） 因为最近没有什么仗打，所以你们想同美国谈判。可以谈，要把它谈走也困难。美国也想同"
+  },
+  {
+   "file": "Text/Section0848.xhtml",
+   "title": "关于知识青年到农村去的号召",
+   "chars": 1528,
+   "footnote_links": 2,
+   "note_anchors": 2,
+   "images": 0,
+   "sample": "关于知识青年到农村去的号召 关于知识青年 到农村去的号召 * （一九六八年十二月十一日） 知识青年到农村去，接受贫下中农的再教育，很有必要。要说服城里干部和其他"
+  },
+  {
+   "file": "Text/Section0849.xhtml",
+   "title": "对中国共产党第九次全国代表大会的讲话",
+   "chars": 9092,
+   "footnote_links": 26,
+   "note_anchors": 26,
+   "images": 0,
+   "sample": "对中国共产党第九次全国代表大会的讲话 对中国共产党 第九次全国代表大会的讲话 * （一九六九年四月一日、十一日、二十八日） （一）（一九六九年四月一日）开幕式上"
+  },
+  {
+   "file": "Text/Section0850.xhtml",
+   "title": "关于战备疏散的指示",
+   "chars": 2413,
+   "footnote_links": 2,
+   "note_anchors": 2,
+   "images": 0,
+   "sample": "关于战备疏散的指示 关于战备疏散的指示 * （一九六九年十月十四日） 中央领导同志都集中在北京不好，一颗原子弹就会炸死很多人，应该分散些。一些老同志可以疏散到外"
+  },
+  {
+   "file": "Text/Section0851.xhtml",
+   "title": "祝贺越南南方民族解放阵线成立九周年的电报",
+   "chars": 881,
+   "footnote_links": 4,
+   "note_anchors": 4,
+   "images": 0,
+   "sample": "祝贺越南南方民族解放阵线成立九周年的电报 祝贺越南南方民族解放阵线 成立九周年的电报 * （一九六九年十二月十九日） 越南南方民族解放阵线中央委员会主席团 阮友"
+  },
+  {
+   "file": "Text/Section0852.xhtml",
+   "title": "与黎笋的谈话",
+   "chars": 4104,
+   "footnote_links": 7,
+   "note_anchors": 7,
+   "images": 0,
+   "sample": "与黎笋的谈话 与黎笋的谈话 * （一九七〇年五月十一日） （一） 毛泽东：我上一次是什么时候见到你的？ 黎笋：一九六四年。我们看到毛主席身体健康，感到很高兴。目"
+  },
+  {
+   "file": "Text/Section0853.xhtml",
+   "title": "全世界人民团结起来，打败美国侵略者及其一切走狗",
+   "chars": 1370,
+   "footnote_links": 4,
+   "note_anchors": 4,
+   "images": 0,
+   "sample": "全世界人民团结起来，打败美国侵略者及其一切走狗 全世界人民团结起来， 打败美国侵略者及其一切走狗 * （一九七〇年五月二十日） 目前，在世界范围内，正出现一个反"
+  },
+  {
+   "file": "Text/Section0854.xhtml",
+   "title": "发展自己的工业和农业不要依靠外国",
+   "chars": 920,
+   "footnote_links": 2,
+   "note_anchors": 2,
+   "images": 0,
+   "sample": "发展自己的工业和农业不要依靠外国 发展自己的工业和农业 不要依靠外国 * （一九七〇年六月二十四日） （马哈古卜说，在英国还没有完全从苏丹撤走前，美国又进来了。"
+  },
+  {
+   "file": "Text/Section0855.xhtml",
+   "title": "帝国主义怕第三世界",
+   "chars": 682,
+   "footnote_links": 2,
+   "note_anchors": 2,
+   "images": 0,
+   "sample": "帝国主义怕第三世界 帝国主义怕第三世界 * （一九七〇年七月十一日） 英联邦像是个俱乐部，中国过去也是这个俱乐部的。英国第一次世界大战时还行，第二次世界大战以后"
+  },
+  {
+   "file": "Text/Section0856.xhtml",
+   "title": "国际间的事要由大家商量解决",
+   "chars": 536,
+   "footnote_links": 1,
+   "note_anchors": 1,
+   "images": 0,
+   "sample": "国际间的事要由大家商量解决 国际间的事 要由大家商量解决 * （一九七〇年七月十三日） 现在这个世界上不大安宁。你热爱独立是一件事，别人总要干扰你又是一件事。上"
+  },
+  {
+   "file": "Text/Section0857.xhtml",
+   "title": "改变国家体制，不设国家主席",
+   "chars": 6472,
+   "footnote_links": 4,
+   "note_anchors": 4,
+   "images": 0,
+   "sample": "改变国家体制，不设国家主席 改变国家体制，不设国家主席 * （一九七〇年三月、四月、七月） 改变国家体制，不设国家主席 〔1〕 。 我不能再作此事，此议不妥 〔"
+  },
+  {
+   "file": "Text/Section0858.xhtml",
+   "title": "我的一点意见",
+   "chars": 1841,
+   "footnote_links": 11,
+   "note_anchors": 11,
+   "images": 0,
+   "sample": "我的一点意见 我的一点意见 * （一九七〇年八月三十一日） 这个材料是陈伯达 〔2〕 同志搞的，欺骗了不少同志。 第一，这里没有马克思的话。 第二，只找了恩格斯"
+  },
+  {
+   "file": "Text/Section0859.xhtml",
+   "title": "与斯诺的谈话——关于文化大革命",
+   "chars": 14534,
+   "footnote_links": 42,
+   "note_anchors": 42,
+   "images": 0,
+   "sample": "与斯诺的谈话——关于文化大革命 与斯诺的谈话 ——关于文化大革命 * （一九七〇年十二月十八日） 斯诺：我经常想给你写信，但我真正写信打扰你还只有这一次。 毛泽"
+  },
+  {
+   "file": "Text/Section0860.xhtml",
+   "title": "对外宣传工作不可强加于人",
+   "chars": 3386,
+   "footnote_links": 1,
+   "note_anchors": 1,
+   "images": 0,
+   "sample": "对外宣传工作不可强加于人 对外宣传工作不可强加于人 * （一九六七年三月至一九七一年三月） （一）一九六八年三月七日，毛主席在一个拟在援外飞机喷刷毛主席语录的请"
+  },
+  {
+   "file": "Text/Section0861.xhtml",
+   "title": "思想上政治上的路线正确与否是决定一切的",
+   "chars": 10093,
+   "footnote_links": 33,
+   "note_anchors": 33,
+   "images": 0,
+   "sample": "思想上政治上的路线正确与否是决定一切的 思想上政治上的路线 正确与否是决定一切的 * （一九七一年八月、九月） 希望你们要搞马克思主义，不要搞修正主义；要团结，"
+  },
+  {
+   "file": "Text/Section0862.xhtml",
+   "title": "恢复联合国席位后的谈话",
+   "chars": 6508,
+   "footnote_links": 19,
+   "note_anchors": 19,
+   "images": 0,
+   "sample": "恢复联合国席位后的谈话 恢复联合国席位后的谈话 * （一九七一年十月二十六日、十一月八日） （一）（一九七一年十月二十六日） 毛泽东：小唐 〔1〕 呀，密斯南希"
+  },
+  {
+   "file": "Text/Section0863.xhtml",
+   "title": "对反革命不要杀，保留活证据",
+   "chars": 1430,
+   "footnote_links": 7,
+   "note_anchors": 7,
+   "images": 0,
+   "sample": "对反革命不要杀，保留活证据 对反革命不要杀， 保留活证据 * （一九七一年十一月十四日） 红军的传统历来不能自己打自己。你 〔1〕 就是王佐 〔2〕 部队的一个"
+  },
+  {
+   "file": "Text/Section0864.xhtml",
+   "title": "会见美国总统尼克松时的谈话",
+   "chars": 7295,
+   "footnote_links": 18,
+   "note_anchors": 18,
+   "images": 0,
+   "sample": "会见美国总统尼克松时的谈话 会见美国总统 尼克松时的谈话 * （一九七二年二月二十一日） 尼克松：你读过很多书。总理说你读的书比他多。 毛泽东：昨天你在飞机上给"
+  },
+  {
+   "file": "Text/Section0865.xhtml",
+   "title": "中美联合公报（“上海公报”）中国方面的声明",
+   "chars": 1802,
+   "footnote_links": 5,
+   "note_anchors": 5,
+   "images": 0,
+   "sample": "中美联合公报（“上海公报”）中国方面的声明 中美联合公报（“上海公报”） 中国方面的声明 * （一九七二年二月二十八日） 中国方面声明：哪里有压迫，哪里就有反抗"
+  },
+  {
+   "file": "Text/Section0866.xhtml",
+   "title": "与日本首相田中角荣的谈话",
+   "chars": 3740,
+   "footnote_links": 8,
+   "note_anchors": 9,
+   "images": 0,
+   "sample": "与日本首相田中角荣的谈话 与日本首相田中角荣的谈话 * （一九七二年九月二十七日） （毛泽东与田中握手） 毛泽东：（用日语）晚上好！ 田中：晚上好，毛泽东主席。"
+  },
+  {
+   "file": "Text/Section0867.xhtml",
+   "title": "深挖洞，广积粮，不称霸",
+   "chars": 168,
+   "footnote_links": 1,
+   "note_anchors": 1,
+   "images": 0,
+   "sample": "深挖洞，广积粮，不称霸 深挖洞，广积粮，不称霸 * （一九七二年十二月） 我国必须坚持和平共处五项原则，不应当有大国霸权主义思想，而在国内建设中则要切实做好战备"
+  },
+  {
+   "file": "Text/Section0868.xhtml",
+   "title": "祝贺越南人民取得的伟大胜利",
+   "chars": 1577,
+   "footnote_links": 4,
+   "note_anchors": 4,
+   "images": 0,
+   "sample": "祝贺越南人民取得的伟大胜利 祝贺越南人民取得的伟大胜利 * （一九七三年一月二十九日） 河内 越南民主共和国主席孙德胜同志， 越南劳动党中央委员会第一书记黎笋同"
+  },
+  {
+   "file": "Text/Section0869.xhtml",
+   "title": "接见基辛格时的谈话*&lt;a class=\"zy\" href=\"#id1a\" id=\"id1\"&gt;〔1〕&lt;/a&gt;",
+   "chars": 9843,
+   "footnote_links": 15,
+   "note_anchors": 17,
+   "images": 0,
+   "sample": "接见基辛格时的谈话*<a class=\"zy\" href=\"#id1a\" id=\"id1\">〔1〕</a> 接见基辛格时的谈话* 〔1〕 （一九七三年二月、十一"
+  },
+  {
+   "file": "Text/Section0870.xhtml",
+   "title": "启用邓小平",
+   "chars": 5283,
+   "footnote_links": 9,
+   "note_anchors": 9,
+   "images": 0,
+   "sample": "启用邓小平 启用邓小平 * （一九七二年八月、一九七三年十二月） 一、一九七二年八月十四日， 对邓小平来信 〔1〕 的批示 请总理 〔2〕 阅后，交汪主任 〔3"
+  },
+  {
+   "file": "Text/Section0871.xhtml",
+   "title": "在政治局会议上的讲话——八大军区司令员对调",
+   "chars": 1165,
+   "footnote_links": 7,
+   "note_anchors": 7,
+   "images": 0,
+   "sample": "在政治局会议上的讲话——八大军区司令员对调 在政治局会议上的讲话 ——八大军区司令员对调 * （一九七三年十二月） （一）（一九七三年十二月十二日） 我提议，议"
+  },
+  {
+   "file": "Text/Section0872.xhtml",
+   "title": "中国将修建青藏铁路",
+   "chars": 527,
+   "footnote_links": 3,
+   "note_anchors": 3,
+   "images": 0,
+   "sample": "中国将修建青藏铁路 中国将修建青藏铁路 * （一九七三年十二月九日） 中国将修建青藏铁路 〔2〕 ，不仅要修到拉萨，而且还要与尼泊尔接轨，通到加德满都 〔2〕 "
+  },
+  {
+   "file": "Text/Section0873.xhtml",
+   "title": "关于划分三个世界的谈话",
+   "chars": 2713,
+   "footnote_links": 2,
+   "note_anchors": 2,
+   "images": 0,
+   "sample": "关于划分三个世界的谈话 关于划分三个世界的谈话 * （一九七四年二月、三月） （一）（一九七四年二月二十二日） 毛泽东会见赞比亚总统卡翁达 希望第三世界团结起来"
+  },
+  {
+   "file": "Text/Section0874.xhtml",
+   "title": "同英国前首相希思的谈话",
+   "chars": 4076,
+   "footnote_links": 16,
+   "note_anchors": 16,
+   "images": 0,
+   "sample": "同英国前首相希思的谈话 同英国前首相希思的谈话 * （一九七四年五月二十五日） 爱德华·希思：早上好！ 毛泽东：好！ 希思：见到你非常高兴，非常荣幸。 毛泽东："
+  },
+  {
+   "file": "Text/Section0875.xhtml",
+   "title": "关于理论问题的谈话要点",
+   "chars": 17320,
+   "footnote_links": 6,
+   "note_anchors": 6,
+   "images": 0,
+   "sample": "关于理论问题的谈话要点 关于理论问题的谈话要点 * （一九七四年十二月） 关于理论问题，列宁为什么说对资产阶级专政，要写文章。要告诉春桥、文元 〔2〕 把列宁著"
+  },
+  {
+   "file": "Text/Section0876.xhtml",
+   "title": "对在押国民党战犯、党政军特人员一律释放",
+   "chars": 1621,
+   "footnote_links": 5,
+   "note_anchors": 5,
+   "images": 0,
+   "sample": "对在押国民党战犯、党政军特人员一律释放 对在押国民党战犯、 党政军特人员一律释放 * （一九七五年二月二十七日） （一）（一九七五年二月二十七日） 〔1〕 锦州"
+  },
+  {
+   "file": "Text/Section0877.xhtml",
+   "title": "要安定团结不要分裂，不要搞阴谋诡计",
+   "chars": 5006,
+   "footnote_links": 12,
+   "note_anchors": 12,
+   "images": 0,
+   "sample": "要安定团结不要分裂，不要搞阴谋诡计 要安定团结不要分裂， 不要搞阴谋诡计 * （一九七五年五月三日） 多久不见了 〔1〕 ，有一个问题，我与你们商量，一些人思想"
+  },
+  {
+   "file": "Text/Section0878.xhtml",
+   "title": "关于《水浒》的评论",
+   "chars": 763,
+   "footnote_links": 7,
+   "note_anchors": 7,
+   "images": 0,
+   "sample": "关于《水浒》的评论 关于《水浒》的评论 * （一九七五年八月十四日） 《水浒》这部书，好就好在投降。做反面教材，使人民都知道投降派。 《水浒》只反贪官，不反皇帝"
+  },
+  {
+   "file": "Text/Section0879.xhtml",
+   "title": "中美关系会一点点好起来",
+   "chars": 7789,
+   "footnote_links": 15,
+   "note_anchors": 16,
+   "images": 0,
+   "sample": "中美关系会一点点好起来 中美关系会一点点好起来 * （一九七五年十二月二日） 福特：主席先生，我们今天早上有一次很不错的讨论。 毛泽东：你们讨论什么？ 福特：我"
+  },
+  {
+   "file": "Text/Section0880.xhtml",
+   "title": "祝贺印度支那三国抗美救国战争取得胜利",
+   "chars": 4322,
+   "footnote_links": 2,
+   "note_anchors": 2,
+   "images": 0,
+   "sample": "祝贺印度支那三国抗美救国战争取得胜利 祝贺印度支那三国抗美救国战争取得胜利 * （一九七五年四月、十二月） （一）毛泽东等祝贺柬埔寨民族解放 人民武装力量完全解"
+  },
+  {
+   "file": "Text/Section0881.xhtml",
+   "title": "走资派还在走，“永不翻案”靠不住",
+   "chars": 10180,
+   "footnote_links": 20,
+   "note_anchors": 20,
+   "images": 0,
+   "sample": "走资派还在走，“永不翻案”靠不住 走资派还在走， “永不翻案”靠不住 * （一九七五年十月——九七六年一月） 清华大学刘冰 〔1〕 等人来信告迟群 〔2〕 和小"
+  },
+  {
+   "file": "Text/Section0882.xhtml",
+   "title": "对天安门事件的指示",
+   "chars": 4380,
+   "footnote_links": 14,
+   "note_anchors": 14,
+   "images": 0,
+   "sample": "对天安门事件的指示 对天安门事件的指示 * （一九七六年四月七日） 毛远新 〔1〕 ：（我汇报了四月五日、六日北京市的情况，谈到原来是打不还手，吃了亏，性质变了"
+  },
+  {
+   "file": "Text/Section0883.xhtml",
+   "title": "后事交代",
+   "chars": 2823,
+   "footnote_links": 4,
+   "note_anchors": 4,
+   "images": 0,
+   "sample": "后事交代 后事交代 * （一九七六年六月十五日） “人生七十古来稀”，我八十多了，人老总想后事。中国有句古话叫“盖棺定论”，我虽未“盖棺”也快了，总可以定论吧 "
+  },
+  {
+   "file": "Text/Volume01.xhtml.xhtml",
+   "title": "第一卷",
+   "chars": 11,
+   "footnote_links": 0,
+   "note_anchors": 0,
+   "images": 0,
+   "sample": "第一卷 毛泽东选集 第一卷"
+  },
+  {
+   "file": "Text/Volume02.xhtml",
+   "title": "第二卷",
+   "chars": 11,
+   "footnote_links": 0,
+   "note_anchors": 0,
+   "images": 0,
+   "sample": "第二卷 毛泽东选集 第二卷"
+  },
+  {
+   "file": "Text/Volume03.xhtml",
+   "title": "第三卷",
+   "chars": 11,
+   "footnote_links": 0,
+   "note_anchors": 0,
+   "images": 0,
+   "sample": "第三卷 毛泽东选集 第三卷"
+  },
+  {
+   "file": "Text/Volume04.xhtml",
+   "title": "第四卷",
+   "chars": 11,
+   "footnote_links": 0,
+   "note_anchors": 0,
+   "images": 0,
+   "sample": "第四卷 毛泽东选集 第四卷"
+  },
+  {
+   "file": "Text/Volume05.xhtml",
+   "title": "第五卷",
+   "chars": 11,
+   "footnote_links": 0,
+   "note_anchors": 0,
+   "images": 0,
+   "sample": "第五卷 毛泽东选集 第五卷"
+  },
+  {
+   "file": "Text/Volume06.xhtml",
+   "title": "第六卷",
+   "chars": 16,
+   "footnote_links": 0,
+   "note_anchors": 0,
+   "images": 0,
+   "sample": "第六卷 毛泽东选集 第六卷（静火版）"
+  },
+  {
+   "file": "Text/Volume07.xhtml",
+   "title": "第七卷",
+   "chars": 16,
+   "footnote_links": 0,
+   "note_anchors": 0,
+   "images": 0,
+   "sample": "第七卷 毛泽东选集 第七卷（静火版）"
+  }
+ ],
+ "problems": [],
+ "warnings": []
+}

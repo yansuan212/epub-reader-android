@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html lang="zh-CN" data-theme="paper" data-notezone="fold">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover, maximum-scale=1, user-scalable=no">
+<meta name="theme-color" content="#f4ecd8" id="metaTheme">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<title>EpubReader</title>
+<style>
+/*__CSS__*/
+</style>
+</head>
+<body>
+
+<div id="app">
+  <div id="progressbar"><i></i></div>
+
+  <header id="topbar">
+    <button class="iconbtn" id="btnPanel" title="目录 / 菜单" aria-label="目录">
+      <svg width="21" height="21" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round">
+        <path d="M3 6h18M3 12h18M3 18h18"/></svg>
+    </button>
+    <span class="title" id="barTitle">EpubReader</span>
+    <button class="iconbtn" id="btnSearch" title="搜索" aria-label="搜索">
+      <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round">
+        <circle cx="11" cy="11" r="7"/><path d="M20 20l-3.5-3.5"/></svg>
+    </button>
+    <button class="iconbtn" id="btnMark" title="书签" aria-label="书签">
+      <svg width="19" height="19" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linejoin="round">
+        <path d="M6 3h12v18l-6-4.5L6 21z"/></svg>
+    </button>
+    <button class="iconbtn" id="btnSet" title="设置" aria-label="设置">
+      <svg width="21" height="21" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round">
+        <path d="M4 7h10M18 7h2M4 17h2M10 17h10"/>
+        <circle cx="16" cy="7" r="2.4"/><circle cx="8" cy="17" r="2.4"/></svg>
+    </button>
+  </header>
+
+  <main id="view">
+    <div id="content">
+
+      <!-- 空态 / 书架 -->
+      <section id="empty">
+        <div class="big">&#128214;</div>
+        <h2 id="emptyTitle">导入一本 EPUB</h2>
+        <p id="emptyDesc">支持标准 EPUB 2 / EPUB 3 电子书。<br>书会保存在本机，下次打开直接进入书架。</p>
+        <button class="btn" id="btnImport"><span>&#43;</span><span id="emptyBtn">选择文件</span></button>
+        <p id="emptyHint" style="font-size:12px">也可以把 .epub 文件直接拖到窗口里</p>
+      </section>
+
+      <section id="shelf" hidden>
+        <h2 id="shelfTitle">我的书架</h2>
+        <div class="shelf-grid" id="shelfGrid"></div>
+      </section>
+
+      <div id="book" hidden></div>
+    </div>
+  </main>
+
+  <footer id="statusbar">
+    <span class="sb-name" id="sbName">—</span>
+    <span id="sbPct">0%</span>
+  </footer>
+</div>
+
+<div id="scrim"></div>
+
+<!-- 侧滑面板 -->
+<aside id="panel">
+  <div class="tabs" id="tabs">
+    <button data-tab="toc" class="on">目录</button>
+    <button data-tab="search">搜索</button>
+    <button data-tab="marks">书签</button>
+    <button data-tab="notes">笔记</button>
+    <button data-tab="set">设置</button>
+  </div>
+
+  <div class="pane on" data-pane="toc" id="paneToc"></div>
+
+  <div class="pane" data-pane="search" id="paneSearch">
+    <div class="searchbar">
+      <input id="q" type="search" placeholder="全书搜索…" autocomplete="off" enterkeyhint="search">
+      <button class="btn" id="btnQ" style="padding:0 14px">查</button>
+    </div>
+    <div id="searchStats"></div>
+    <div class="quickwords" id="quickWords"></div>
+    <div id="searchList"></div>
+  </div>
+
+  <div class="pane" data-pane="marks" id="paneMarks"></div>
+  <div class="pane" data-pane="notes" id="paneNotes"></div>
+  <div class="pane" data-pane="set" id="paneSet"></div>
+</aside>
+
+<!-- 注释弹窗 -->
+<div id="notepop">
+  <div class="np-head">
+    <span class="np-tag" id="npTag">1</span>
+    <span class="np-title" id="npTitle">注释</span>
+    <button class="iconbtn" id="npClose" aria-label="关闭">
+      <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round">
+        <path d="M6 6l12 12M18 6L6 18"/></svg>
+    </button>
+  </div>
+  <div class="np-body" id="npBody"></div>
+</div>
+
+<!-- 通用弹窗 -->
+<div id="modal">
+  <div class="box">
+    <h3 id="mdTitle">标题</h3>
+    <div class="bd" id="mdBody"></div>
+    <div class="ft" id="mdFoot"></div>
+  </div>
+</div>
+
+<!-- 划词菜单 -->
+<div id="selmenu"></div>
+
+<div id="toast"></div>
+
+<input type="file" id="fileInput" accept=".epub,.zip,application/epub+zip,application/zip" style="display:none">
+
+<script>/*__JSZIP__*/</script>
+<script>/*__JS__*/</script>
+</body>
+</html>

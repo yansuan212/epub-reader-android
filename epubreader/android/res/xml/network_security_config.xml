@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  明文 HTTP 只对开发调试地址放开，其余一律禁止。
+
+  安卓 9（API 28）起默认禁止明文 HTTP，targetSdk 34 更是如此。
+  开发模式要从电脑上的 serve.py 取 reader.html，所以必须显式放行 ——
+  但只放行这几个固定地址，不用一刀切的 usesCleartextTraffic="true"，
+  这样正式使用时网络策略仍然是最紧的。
+
+    · localhost / 127.0.0.1  配合 `adb reverse tcp:8777 tcp:8777` 使用。
+                              推荐这一种：电脑换网络、换 IP 都不用改配置。
+    · 192.168.0.182          局域网直连（不插线时用）。换了网络要改这一行，
+                              或者改用上面的 localhost 方案。
+-->
+<network-security-config>
+    <base-config cleartextTrafficPermitted="false" />
+    <domain-config cleartextTrafficPermitted="true">
+        <domain includeSubdomains="false">localhost</domain>
+        <domain includeSubdomains="false">127.0.0.1</domain>
+        <domain includeSubdomains="false">192.168.0.182</domain>
+    </domain-config>
+</network-security-config>

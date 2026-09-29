@@ -1,0 +1,32 @@
+# ============================================================
+#  EPUB 阅读器 — 换行符规则
+#
+#  为什么需要这个文件：
+#  本机 core.autocrlf = true，如果不显式声明，.bat 文件会以 LF
+#  形式存进仓库；一旦在 WSL / Linux / CI 上检出，cmd.exe 会因为
+#  换行符不对而执行出错。这里把规则写成与机器无关的。
+# ============================================================
+
+# 默认：按内容自动判断，仓库内统一存 LF，检出时按平台还原
+* text=auto
+
+# Windows 批处理：仓库里存 LF，检出时必须还原成 CRLF
+*.bat  text eol=crlf
+*.cmd  text eol=crlf
+
+# 二进制资源：不做任何换行符转换
+*.png  binary
+*.jpg  binary
+*.jpeg binary
+*.gif  binary
+*.ico  binary
+*.webp binary
+
+# 包 / 产物 / 证书（有的已被 .gitignore 排除，这里再兜一层）
+*.zip     binary
+*.apk     binary
+*.keystore binary
+*.jks     binary
+
+# 第三方压缩过的库：内容是一整行，别做行尾处理，也省得 diff 噪音
+*.min.js  -text

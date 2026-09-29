@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- 护眼纸色，与阅读器默认主题一致，避免启动瞬间白屏闪眼 -->
+    <color name="win_bg">#F4ECD8</color>
+</resources>

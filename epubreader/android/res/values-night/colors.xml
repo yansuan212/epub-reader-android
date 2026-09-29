@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- 夜间模式（系统切换深色时自动生效） -->
+    <color name="win_bg">#0E1116</color>
+</resources>

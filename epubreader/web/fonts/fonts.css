@@ -1,0 +1,60 @@
+/* ============================================================
+   开源字体（可选，缺失不影响使用）
+   ------------------------------------------------------------
+   把字体文件按下面的文件名放进本目录（web/fonts/ 或 APK 的 assets/fonts/），
+   阅读器设置里的"思源宋体 / 思源黑体 / 霞鹜文楷"就会生效。
+   文件不在，浏览器会静默回落到系统字体，不会报错、不会卡。
+
+   命名必须完全一致（区分大小写）：
+     NotoSerifSC-Regular.otf    思源宋体
+     NotoSansSC-Regular.otf     思源黑体
+     LXGWWenKai-Regular.ttf     霞鹜文楷
+
+   ⚠ 体积提醒：中文全字库字体每个 10~25 MB，三个都放 APK 会涨到 50 MB+。
+     建议只放实际会用的那一个。下载地址见同目录 README.txt。
+   ============================================================ */
+
+@font-face {
+  font-family: "WB-SongTi";
+  src: url("NotoSerifSC-Regular.otf") format("opentype"),
+       url("NotoSerifSC-Regular.ttf") format("truetype");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "WB-SongTi";
+  src: url("NotoSerifSC-Bold.otf") format("opentype"),
+       url("NotoSerifSC-Bold.ttf") format("truetype");
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "WB-HeiTi";
+  src: url("NotoSansSC-Regular.otf") format("opentype"),
+       url("NotoSansSC-Regular.ttf") format("truetype");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "WB-HeiTi";
+  src: url("NotoSansSC-Bold.otf") format("opentype"),
+       url("NotoSansSC-Bold.ttf") format("truetype");
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "WB-KaiTi";
+  src: url("LXGWWenKai-Regular.ttf") format("truetype"),
+       url("LXGWWenKai-Regular.otf") format("opentype");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
